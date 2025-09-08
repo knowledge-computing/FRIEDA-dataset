@@ -1,0 +1,1162 @@
+[
+    {
+        "question_ref":"q_1152",
+        "question_text":"Among the four points with the highest Average Travel Time, identify the one located in the CHANGI region. What is the dominant transport mode at this point? Omit the word 'Mainly'.",
+        "expected_answer":"Bus",
+        "image_urls":[
+            "sg-ura\/Skyline_Issue_13\/image7_m0.png",
+            "sg-ura\/Skyline_Issue_13\/image7_m1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "sg-ura\/Skyline_Issue_13\/image12_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image14_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image15_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image17_1.png",
+            "sg-ura\/Skyline_Issue_13\/image7_m0.png",
+            "sg-ura\/Skyline_Issue_13\/image7_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image7_m2.png",
+            "sg-ura\/Skyline_Issue_13\/image9_m2.png"
+        ]
+    },
+    {
+        "question_ref":"q_1153",
+        "question_text":"Each block group is associated with a 'Low-Income Population Percentage' category represented as a percentage range. Identify the two block groups that share a boundary with Meyersdale. What is the maximum value of the higher percentage range block group?",
+        "expected_answer":"25",
+        "image_urls":[
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image782_1.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image782_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image781_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image785_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image789_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image770_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image769_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image795_m0.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image765_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image799_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image764_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1154",
+        "question_text":"What is the orientation of the 'Delta Substation' in relation to 'Launch Complex 39A'?",
+        "expected_answer":"South East",
+        "image_urls":[
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image44_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image45_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image44_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image45_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image51_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image52_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image35_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image66_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image71_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image73_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image83_1.png",
+            "EIS\/Draft SpaceX Starship-Super Heavy CCSFS Environmental Impact Statement\/image86_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1155",
+        "question_text":"Within the Study Area of Meyersdale, there are seven different community resources (e.g., EMS and Medical). Identify the community resource points that are located south of the Natural Gas Pipeline. What type of community resource are these points?",
+        "expected_answer":"Place of Worship",
+        "image_urls":[
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image789_1.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image789_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image785_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image782_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image795_m0.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image781_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image799_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image770_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image769_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image765_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image764_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1157",
+        "question_text":"In Tinian, each 'Heritiera longipetiolata' species observation area is associated with a name (e.g., Pina-10). Which observation area is located closest to the Noise Sensitive Receptor labeled 'T15'?",
+        "expected_answer":"Masalok-1",
+        "image_urls":[
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image162_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image280_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image162_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image280_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image161_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image163_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image160_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image164_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image159_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image277_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image284_1.png",
+            "EIS\/Appendices A through L_CJMT_RDEIS\/image285_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1158",
+        "question_text":"What is the name of the 'Fresh Water' body located closest to the 'Pasir Panjang Linear Park' greeneries area?",
+        "expected_answer":"Performance Promenade",
+        "image_urls":[
+            "sg-ura\/Skyline_Issue_13\/image15_m1.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "sg-ura\/Skyline_Issue_13\/image12_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image14_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image15_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image17_1.png",
+            "sg-ura\/Skyline_Issue_13\/image7_m0.png",
+            "sg-ura\/Skyline_Issue_13\/image7_m1.png",
+            "sg-ura\/Skyline_Issue_13\/image7_m2.png",
+            "sg-ura\/Skyline_Issue_13\/image9_m2.png"
+        ]
+    },
+    {
+        "question_ref":"q_1159",
+        "question_text":"Identify the 'LOS D' road section that crosses through the 'Elk Lick Township'. What is the 'Average Travel Speed (MPH)' on this segment? Answer with just the number without the unit.",
+        "expected_answer":"30.1",
+        "image_urls":[
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image124_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image126_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image124_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image126_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image122_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image121_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image119_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image131_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image117_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image133_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image137_1.png",
+            "EIS\/Vol-3-FEISAppendixA-M-May-2025\/image101_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1160",
+        "question_text":"Based on the Estimated Noise Levels from Demolition Explosive Events, what is the approximate distance between the '140 dB \/ 4.17 psf' boundary and the '120 dB \/ 0.42 psf' Peak Overpressure boundary?",
+        "expected_answer":"3 Miles",
+        "image_urls":[
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image78_m0.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image78_m0.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image80_m0.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image77_1.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image81_1.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image73_1.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image84_1.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image88_m0.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image97_1.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image98_1.png",
+            "EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image99_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_2001",
+        "question_text":"The gold (Au) prospect \u201cR\u201d Zone falls within which claim block of the High Lake Prospect?",
+        "expected_answer":"LEA-107822",
+        "image_urls":[
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image61_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image61_1.jpeg",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image59_1.png",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image58_1.png",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image64_1.png",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image57_1.png",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image56_1.png",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image51_1.jpeg",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image71_1.jpeg",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image50_1.jpeg",
+            "NI43-101\/w__McFarlaneLakeMining_SEDAR_1210098_tech_Jul04_2023_mcfarlaneTR-july42023\/image72_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_2002",
+        "question_text":"Which mining tile(s) of Agnico Eagle LaRonde Property shares border with the mining tile consisting LZ5 Portal?",
+        "expected_answer":"2579161; 2579162; 2579163; 2579164; BM-698",
+        "image_urls":[
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image53_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image59_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image53_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image59_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image51_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image81_2.png",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image83_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image86_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image89_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image93_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image98_2.jpeg",
+            "NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image145_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2003",
+        "question_text":"Which DOE uranium lease tract shares the longest border with Slick Rock Project?",
+        "expected_answer":"C-SR-13",
+        "image_urls":[
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image48_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image48_1.jpeg",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image46_1.jpeg",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image45_1.jpeg",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image51_1.jpeg",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image44_1.png",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image54_1.png",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image40_1.jpeg",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image56_2.jpeg",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image61_1.png",
+            "NI43-101\/C__AA-SEDAR_VELVET-PEA-2023\/image33_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_2004",
+        "question_text":"How many unique assessment file reference areas intersect the boundary of the Wesley Lithium Property?",
+        "expected_answer":"5",
+        "image_urls":[
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image22_4.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image22_4.png",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image22_1.jpeg",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image21_1.jpeg",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image24_4.png",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image20_5.png",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image24_1.jpeg",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image25_4.png",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image25_1.jpeg",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image26_5.png",
+            "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image18_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2005",
+        "question_text":"How many claim blocks of Capstone Mining Concession does the northern border of Resource Limit pass through?",
+        "expected_answer":"6",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image53_2.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image120_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image132_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image235_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image46_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image53_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image65_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Technical_Report_COZ_TR_20230502\/image66_2.png"
+        ]
+    },
+    {
+        "question_ref":"q_2007",
+        "question_text":"What is the orientation of La Pista in relation to population center (centro poblado) Bonanza within the Bonanza concession area?",
+        "expected_answer":"North West",
+        "image_urls":[
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image350_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image350_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image350_1.png",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image356_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image358_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image360_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image325_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image313_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image303_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image298_1.jpeg",
+            "NI43-101\/t__SEDAR_Mineros_2023_TechnicalReport_TechReport\/image297_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2008",
+        "question_text":"Which project area of MON Concession boundary has the most drill hole collar?",
+        "expected_answer":"MUL",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image69_2.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image69_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image60_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image57_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image43_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image41_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image40_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image34_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image28_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image27_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023_Mulatos_Tech_Rep_Mar_27_2023\/image24_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2009",
+        "question_text":"Which feature on the infrastructure map corresponds to Existing Component 60 of the Santander project?",
+        "expected_answer":"Worker camp",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image71_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image241_3.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image241_3.png",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image71_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image67_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image64_3.png",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image63_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image62_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image60_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image53_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image52_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image90_3.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2013",
+        "question_text":"What is the shortest straight line distance from Eden Project to Eden 2 Claim?",
+        "expected_answer":"1.5 km",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image11_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image11_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image10_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image15_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image19_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image22_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image25_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image27_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image33_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image35_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image37_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2015",
+        "question_text":"Which 1996 drill collar is located on the boundary of claim block 1069754 within the BAM property?",
+        "expected_answer":"B96-1",
+        "image_urls":[
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image39_1.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image39_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image38_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image37_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image43_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image44_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image33_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image47_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image30_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image48_1.png",
+            "NI43-101\/w__P2Gold_SEDAR_1187436_tech_Feb17_2023_02172023p2gold-tr\/image52_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_2016",
+        "question_text":"What is the dominant geology of the Yaramoko Mining Lease?",
+        "expected_answer":"Mafic Volcanic",
+        "image_urls":[
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image44_1.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image33_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image33_2.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image44_1.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image43_2.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image31_2.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image30_2.png",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image51_2.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image59_2.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image62_2.png",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image88_2.jpeg",
+            "NI43-101\/C__Filings_Yaramoko_43_101_Yaramoko_43101\/image89_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2017",
+        "question_text":"Which vein zone within the Sonoro concession area is located closest to the mining claim that contains the Cerro Prieto Mine?",
+        "expected_answer":"Huevo de Oro",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image150_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image42_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image150_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image42_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image43_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image44_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image39_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image45_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image37_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image35_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image33_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SGOTechRep20230324\/image51_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2019",
+        "question_text":"The Lekcin claim block that contains the Swede showing partially shares a border with the claim block of which tenure?",
+        "expected_answer":"Barrick Gold Inc",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image16_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image16_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image14_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image19_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image22_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image24_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image26_1.png",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image33_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image34_1.png",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image39_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_LEK_TechReport_2023_v3_5\/image41_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2020",
+        "question_text":"What is the orientation of Coronation N in relation to Trimbles in Hyde-Macraes Shear Zone",
+        "expected_answer":"South East",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_43101 (1)\/image93_3.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_43101 (1)\/image93_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image95_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image90_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image97_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image88_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image99_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image101_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image84_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image83_3.jpeg",
+            "NI43-101\/C__SEDAR_43101 (1)\/image82_3.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2021",
+        "question_text":"What is the orientation of the New 2B2 Pegmatite relative to Pegmatite #2 within the Raleigh Lake Project claim boundary?",
+        "expected_answer":"South",
+        "image_urls":[
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image37_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image33_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image33_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image33_1.png",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image37_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image37_1.png",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image35_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image39_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image30_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image41_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image28_1.jpeg",
+            "NI43-101\/k__PROJECTS_ILC_NewsReleases_2023_2023-04-13-Raleigh-43101_22141-01-ILC-MinResEstNI-43101\/image27_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2022",
+        "question_text":"How many diamond drill holes (DDH) were completed by SRG Mining within soil-covered areas of the Lola Graphite Project?",
+        "expected_answer":"11",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image90_2.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image90_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image98_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image101_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image110_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image69_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image64_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image58_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image58_4.png",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image58_5.png",
+            "NI43-101\/C__SEDAR_FILINGS_SRG_REPORT\/image123_2.png"
+        ]
+    },
+    {
+        "question_ref":"q_2024",
+        "question_text":"How many Asanko tenement blocks does the Haul Road intersect?",
+        "expected_answer":"6",
+        "image_urls":[
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image121_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image121_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image122_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image119_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image125_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image116_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image128_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image113_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image113_2.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image112_1.jpeg",
+            "NI43-101\/w__GalianoGold_SEDAR_1194039_tech_Mar28_2023_galiano_techreport\/image130_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2025",
+        "question_text":"What is the orientation of Stream 3 catch basin in relation to stream catch 2 basin?",
+        "expected_answer":"North",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_1-TR\/image371_2.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_1-TR\/image371_2.png",
+            "NI43-101\/C__SEDAR_1-TR\/image370_2.png",
+            "NI43-101\/C__SEDAR_1-TR\/image369_2.jpeg",
+            "NI43-101\/C__SEDAR_1-TR\/image366_2.jpeg",
+            "NI43-101\/C__SEDAR_1-TR\/image365_2.jpeg",
+            "NI43-101\/C__SEDAR_1-TR\/image364_2.jpeg",
+            "NI43-101\/C__SEDAR_1-TR\/image378_2.png",
+            "NI43-101\/C__SEDAR_1-TR\/image364_3.png",
+            "NI43-101\/C__SEDAR_1-TR\/image361_2.png",
+            "NI43-101\/C__SEDAR_1-TR\/image388_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2026",
+        "question_text":"Which Trailbreaker claim block within the Atsutla Gold Project contains site verification sample 612358?",
+        "expected_answer":"1078867",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image130_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image144_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image130_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image144_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image119_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image118_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image117_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image116_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image115_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image114_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image110_2.jpeg",
+            "NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image109_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2027",
+        "question_text":"What is the shortest distance between the largest follow-up area within the NHK property and the property's boundary?",
+        "expected_answer":"3.2 km",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image144_3.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image144_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image142_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image147_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image140_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image139_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image149_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image137_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image136_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image135_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image153_3.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2028",
+        "question_text":"Which claim block(s) of the UEX Christie Lake Project are crossed by the power line?",
+        "expected_answer":"CBS 8027; S-101722",
+        "image_urls":[
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image33_1.png",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image55_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image33_1.png",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image55_1.jpeg",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image34_1.png",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image31_1.png",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image35_1.png",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image57_1.jpeg",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image57_2.jpeg",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image58_1.jpeg",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image58_2.jpeg",
+            "NI43-101\/i__SEDAR_DenisonMines_2023_DenisonTRVol\/image37_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_2029",
+        "question_text":"What is the total length of the border shared by the Denovo - Edgecreek block and the adjacent Pat - Argus - JM block?",
+        "expected_answer":"3.5km",
+        "image_urls":[
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image37_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image37_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image30_m0.png",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image21_m0.png",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image19_1.png",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image58_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image60_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image60_3.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image61_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image64_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image66_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_2030",
+        "question_text":"Which 2023 Resource Pit Crest of Los Reyes consist of the Metallurgical Test Drill Hole that is located farthest South?",
+        "expected_answer":"Noche Buena",
+        "image_urls":[
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image131_2.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image131_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image96_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image169_1.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image89_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image174_1.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image177_1.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image82_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image72_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image71_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image68_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3001",
+        "question_text":"Which old concession area and open fields of Barrancos property is intersected by the 'Charco Frio' area?",
+        "expected_answer":"Vale de Noudar",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image14_1.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image14_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image13_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image11_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image17_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image18_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image21_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image24_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image25_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image26_1.png",
+            "NI43-101\/C__SEDAR_01SEDARFilings_EuropacTECHRPT01312023JA\/image27_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_3002",
+        "question_text":"Which 2021 Drill Collars in Tenure K14955 of Nighthawk Gold Corp is the longest?",
+        "expected_answer":"TFS21-07",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image165_3.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image165_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image163_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image167_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image161_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image169_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image160_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image171_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image156_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image174_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image175_3.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3006",
+        "question_text":"Golden Sky Minerals Corp owns Bullseye property. Which company\u2019s property shares the longest continuous boundary with Bullseye property? Give the name of the company as shown on the legend.",
+        "expected_answer":"White Gold Corp",
+        "image_urls":[
+            "NI43-101\/C__DATA_tmc43101mar21\/image62_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__DATA_tmc43101mar21\/image62_1.jpeg",
+            "NI43-101\/C__DATA_tmc43101mar21\/image45_1.jpeg",
+            "NI43-101\/C__DATA_tmc43101mar21\/image35_1.png",
+            "NI43-101\/C__DATA_tmc43101mar21\/image34_1.png",
+            "NI43-101\/C__DATA_tmc43101mar21\/image33_1.png",
+            "NI43-101\/C__DATA_tmc43101mar21\/image32_1.png",
+            "NI43-101\/C__DATA_tmc43101mar21\/image31_1.png",
+            "NI43-101\/C__DATA_tmc43101mar21\/image28_1.jpeg",
+            "NI43-101\/C__DATA_tmc43101mar21\/image27_1.jpeg",
+            "NI43-101\/C__DATA_tmc43101mar21\/image24_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3009",
+        "question_text":"What is the name of the '2020 Water Sample' that is closest to the Cultural Heritage Site 'Sinkedoumba'?",
+        "expected_answer":"CBS",
+        "image_urls":[
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image354_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image358_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image354_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image358_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image362_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image349_1.png",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image365_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image338_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image336_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image331_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image327_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image295_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3010",
+        "question_text":"What is the name of the 'Currently in exploitation' area that is intersected by the 'Cuchillas del Toa Biosphere' line?",
+        "expected_answer":"Camarioca Norte",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image176_2.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image176_2.jpeg",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image179_2.jpeg",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image166_1.jpeg",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image165_2.png",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image160_2.jpeg",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image142_1.jpeg",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image139_1.jpeg",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image138_2.jpeg",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image88_1.png",
+            "NI43-101\/C__SEDAR_Sherritt-Technicals_NI43-101_TechnicalReport\/image85_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3012",
+        "question_text":"Identify the East Tintic Historic Mine closest to the Trixie Main Shaft. What is the orientation of this mine in relation to the Trixie Main Shaft within the Cordero Mining concession?",
+        "expected_answer":"North West",
+        "image_urls":[
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image63_1.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image63_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image67_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image72_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image53_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image73_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image52_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image51_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image75_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image49_1.png",
+            "NI43-101\/d__SEDAR_Montreal_JEAN-LUC_Osisko_Technical_Report_Osisko_NI-43-101-Report_Jan27\/image77_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_3013",
+        "question_text":"Which region of Fording River West has the highest density of Teck Drilled holes?",
+        "expected_answer":"SWFLK1",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image72_m0.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image72_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image62_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image61_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image60_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image57_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image54_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image52_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image103_m0.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image42_1.png",
+            "NI43-101\/C__SEDAR_FILINGS_TR-FordingRiver-2023TR\/image104_m0.png"
+        ]
+    },
+    {
+        "question_ref":"q_3014",
+        "question_text":"Identify the WRD located between Klein Okawayo and Okawayo farms. What is the full name of this region as given by the Ultimate Pit Design with Project Infrastructure by Osino Resources. Give the name without abbreviating.",
+        "expected_answer":"Waste Rock Dump C",
+        "image_urls":[
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image121_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image432_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image121_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image432_2.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image433_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image123_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image124_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image126_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image127_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image128_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image131_1.jpeg",
+            "NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image108_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3016",
+        "question_text":"Atacama Water divides the project area within concession blocks associated with unique numbers (e.g., 24255). The LAC old concession block containing Diamond Drilling 'PGMW17-10' shares border with which 'Third-party concessions'?",
+        "expected_answer":"Ganfeng Lithium Co.",
+        "image_urls":[
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image161_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image75_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image161_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image75_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image71_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image80_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image69_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image67_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image146_4.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image54_1.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image136_2.jpeg",
+            "NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image49_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3018",
+        "question_text":"Identify all Silver Cloud Target Areas that do not share a boundary with the Silver Cloud Property. What is the count of Placer Dome within these areas.",
+        "expected_answer":"10",
+        "image_urls":[
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image29_1.png"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image29_1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image22_1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image37_1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image38_1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image39_1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image40_1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image43_m1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image43_m0.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image12_1.png",
+            "NI43-101\/l__55954_1_TECHRPT_SilverCloud-2023-01-27_BRCTechReport\/image48_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_3020",
+        "question_text":"Which Mining Concessions does the 'Former Property Boundary' of Salar de Tolillar Basin represent? Give just the numbers associated with the Mining Concession.",
+        "expected_answer":"17946; 17947; 17948",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image88_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image68_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image68_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image88_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image86_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image90_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image62_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image74_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image82_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image79_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image97_2.jpeg",
+            "NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image100_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3021",
+        "question_text":"Which orientation does Property Mineral Disposition MC00013808 lies in relation to Big Bear Camp?",
+        "expected_answer":"South East",
+        "image_urls":[
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image117_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image119_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image117_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image119_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image120_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image121_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image122_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image139_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image140_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image141_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image142_2.jpeg",
+            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image143_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3022",
+        "question_text":"What is the orientation of 'Titan II T.241084' relative to 'Aida T.163184' within the Cordero mining concession?",
+        "expected_answer":"South West",
+        "image_urls":[
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image75_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image76_2.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image75_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image76_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image78_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image79_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image71_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image81_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image83_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image86_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image89_2.png",
+            "NI43-101\/y__PUBLIC_Discovery-Silver-Corp_2023_technical-reports_DSV-Cordero-technical-report\/image90_2.png"
+        ]
+    },
+    {
+        "question_ref":"q_3023",
+        "question_text":"Identify two points: (1) the westernmost historic drill hole at Zapote North and (2) the easternmost historic drill hole at Guadalupe East. Estimate the straight-line distance between the two points.",
+        "expected_answer":"3 km",
+        "image_urls":[
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image45_2.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image45_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image42_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image40_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image35_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image35_3.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image56_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image28_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image27_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image66_2.jpeg",
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image67_2.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3024",
+        "question_text":"Identify the area of Nighthawk Gold Property located North of the 'Winter Road'. How many Gold Deposits are located within this area?",
+        "expected_answer":"8",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image75_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image99_3.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image75_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image99_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image76_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image104_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image106_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image82_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image92_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image109_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image88_3.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image111_3.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3027",
+        "question_text":"Which Claim Boundaries, as given in the legend, does not share a boundary with the Prospect Mountain area?",
+        "expected_answer":"I-80 Gold",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image22_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image22_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image21_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image23_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image23_3.png",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image28_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image31_2.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image35_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image37_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image49_1.jpeg",
+            "NI43-101\/C__SEDAR_FILINGS_North-Peaks_43-101_NPR-NI-43-101-Tech-Report\/image50_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_3028",
+        "question_text":"Identify the Adjacent property that Claim LAN shares its easternmost edge. What is the length of eastern edge shared between this Adjacent property and Claim LAN.",
+        "expected_answer":"3.3 km",
+        "image_urls":[
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image355_3.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image355_3.jpeg",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image354_4.jpeg",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image288_3.jpeg",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image287_3.jpeg",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image281_2.png",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image280_2.jpeg",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image280_1.png",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image279_2.jpeg",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image279_1.jpeg",
+            "NI43-101\/g__Sayona_2023_NAL_Refiling_20230420_NAL_Report\/image273_4.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3029",
+        "question_text":"What is the name of the 'Fault (Inferred)' line that separates 'Pillowed Croesus Flow' bedrock geology and 'Mafic Volcanic' bedrock geology at the Croesus Mine Area?",
+        "expected_answer":"Jack's Crack",
+        "image_urls":[
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image81_1.jpeg"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image81_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image82_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image89_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image90_1.png",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image92_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image93_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image94_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image66_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image96_1.jpeg",
+            "NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image97_1.jpeg"
+        ]
+    },
+    {
+        "question_ref":"q_3030",
+        "question_text":"The property concession of Lucero Property is divided into multiple concession blocks with names of form Lucero Del Sur #. Which 'Granted' concession block is intersected by the boundary between the community limits of 'Choco' and 'Chachas'?",
+        "expected_answer":"Lucero Del Sur 12",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image17_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image15_2.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image15_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image17_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image24_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image26_m1.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image34_m1.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image37_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image38_2.png",
+            "NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image46_2.png"
+        ]
+    }
+]

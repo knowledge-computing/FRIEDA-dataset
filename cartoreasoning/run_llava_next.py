@@ -191,7 +191,7 @@ def main(model_name:str,
     # Running inference in chunks (of 20) in case it crashse in middle
     pl_answered = pl.DataFrame()
 
-    response_cache = os.path.join(cache_dir, 'response_cache.pkl')
+    response_cache = os.path.join(cache_dir, 'r_cache.pkl')
     if check_exist(response_cache, bool_create=False) == 1: 
         with open(response_cache, 'rb') as handle:
             pl_answered = pickle.load(handle)
@@ -200,31 +200,36 @@ def main(model_name:str,
         pl_question = pl_question[cache_length:]
 
     for i in tqdm(range(0, pl_question.height, batch_size)):
-        chunk = pl_question.slice(i, batch_size)
+        large_chunk = pl_question.slice(i, batch_size)
 
-        chunk = chunk.with_columns(
-            tmp = pl.struct(pl.col(['question_text', 'image_lists']))
+        large_chunk = large_chunk.with_columns(
+            pl.col('image_lists').list.len().alias('tmp_num_images')
         )
 
-        list_input = chunk['tmp'].to_list()
-        list_output = respond_q(model=model, processor=processor,
-                                input_struct=list_input,
-                                dict_im_data=dict_im_data,
-                                img_limit=img_limit)
-        
-        chunk = chunk.with_columns(
-            pl.col('q_answered').replace({False: True}),
-            llava_next_response = pl.Series(list_output)
-        ).drop(['tmp', 'image_lists'])
+        for chunk in large_chunk.partition_by('tmp_num_images'):
+            chunk = chunk.with_columns(
+                tmp = pl.struct(pl.col(['question_text', 'image_lists']))
+            )
 
-        pl_answered = pl.concat(
-            [pl_answered, chunk],
-            how='diagonal'
-        )
+            list_input = chunk['tmp'].to_list()
+            list_output = respond_q(model=model, processor=processor,
+                                    input_struct=list_input,
+                                    dict_im_data=dict_im_data,
+                                    img_limit=img_limit)
+            
+            chunk = chunk.with_columns(
+                pl.col('q_answered').replace({False: True}),
+                llava_ov_response = pl.Series(list_output)
+            ).drop(['tmp', 'image_lists', 'tmp_num_images'])
 
-        with open(response_cache, 'wb') as handle:
-            pickle.dump(pl_answered, handle, protocol=pickle.HIGHEST_PROTOCOL)
+            pl_answered = pl.concat(
+                [pl_answered, chunk],
+                how='diagonal'
+            )
 
+            with open(response_cache, 'wb') as handle:
+                pickle.dump(pl_answered, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                
     # Saving as JSON with model name appended
     pd_answered = pl_answered.to_pandas()
 
@@ -242,51 +247,51 @@ def main(model_name:str,
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Cartographical Reasoning Test')
 
-    parser.add_argument('--model', '-m', default='llava-hf/llava-next-72b-hf',
-                        help='Model name/type')
+    # parser.add_argument('--model', '-m', default='llava-hf/llava-next-72b-hf',
+    #                     help='Model name/type')
 
-    parser.add_argument('--questions', '-q', required=True, 
-                        help='Path to questions JSON file')
+    # parser.add_argument('--questions', '-q', required=True, 
+    #                     help='Path to questions JSON file')
 
-    parser.add_argument('--images', '-im', required=True, type=str,
-                        help="Directory/link to reporsitory containing images")
+    # parser.add_argument('--images', '-im', required=True, type=str,
+    #                     help="Directory/link to reporsitory containing images")
     
-    parser.add_argument('--distractor', '-d', action="store_true", 
-                        help='Use distractor images')
+    # parser.add_argument('--distractor', '-d', action="store_true", 
+    #                     help='Use distractor images')
    
-    parser.add_argument('--output_dir', '-o', default='./responses',
-                        help="Location to output files")
+    # parser.add_argument('--output_dir', '-o', default='./responses',
+    #                     help="Location to output files")
     
-    parser.add_argument('--cache_dir', '-c', default='./',
-                        help="Location to cache directory (cache for image names)")
+    # parser.add_argument('--cache_dir', '-c', default='./',
+    #                     help="Location to cache directory (cache for image names)")
     
-    parser.add_argument('--flash', action="store_true",
-                        help="Use flash attention")
+    # parser.add_argument('--flash', action="store_true",
+    #                     help="Use flash attention")
     
-    parser.add_argument('--batch_size', type=int, default=1,
-                        help="Batch size. Default is 1.")
+    # parser.add_argument('--batch_size', type=int, default=1,
+    #                     help="Batch size. Default is 1.")
     
     parser.add_argument('--max_images', '-max', type=int, default=20,
                         help="FOR DEVELOPING TEST PURPOSE")
     
     args = parser.parse_args()
     
-    main(model=args.model,
-         question_path=args.questions,
-         image_folder=args.images,
-         bool_distractor=args.distractor,
-         output_dir=args.output_dir,
-         cache_dir=args.cache_dir,
-         use_flash=args.flash,
-         batch_size=int(args.batch_size),
-         img_limit=int(args.max_images))
+    # main(model_name=args.model,
+    #      question_path=args.questions,
+    #      image_folder=args.images,
+    #      bool_distractor=args.distractor,
+    #      output_dir=args.output_dir,
+    #      cache_dir=args.cache_dir,
+    #      use_flash=args.flash,
+    #      batch_size=args.batch_size,
+    #      img_limit=args.max_images)
 
-    # main(model_name='llava-hf/llava-v1.6-mistral-7b-hf',
-    #     question_path='./p2/carto-reasoning/questions/benchmark_data/response_mini.json',
-    #     image_folder='https://media.githubusercontent.com/media/YOO-uN-ee/carto-image/main/',
-    #     bool_distractor=True,
-    #     output_dir='./',
-    #     cache_dir='./',
-    #     use_flash=True,
-    #     batch_size=1,
-    #     img_limit=args.max_images)
+    main(model_name='llava-hf/llava-v1.6-mistral-7b-hf',
+        question_path='/home/yaoyi/pyo00005/p2/carto-reasoning/cartoreasoning/responses/mini_runs/response_mini.json',
+        image_folder='https://media.githubusercontent.com/media/YOO-uN-ee/carto-image/main/',
+        bool_distractor=False,
+        output_dir='./',
+        cache_dir='./',
+        use_flash=True,
+        batch_size=2,
+        img_limit=args.max_images)

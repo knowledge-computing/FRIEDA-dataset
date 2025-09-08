@@ -22,14 +22,14 @@ max_memory = {
     1: "40GB",
     2: "40GB",
     3: "40GB",
-    4: "40GB",
-    5: "40GB",
-    6: "40GB",
-    7: "40GB",
+    # 4: "40GB",
+    # 5: "40GB",
+    # 6: "40GB",
+    # 7: "40GB",
     "cpu": "100GB"   # fallback for layers that don't fit
 }
 
-with open('./instruction-default.pkl', 'rb') as handle:
+with open('./instruction.pkl', 'rb') as handle:
     instructions = pickle.load(handle)
 
 def check_exist(path_dir, bool_create=True):
@@ -278,11 +278,11 @@ if __name__ == '__main__':
     parser.add_argument('--model', '-m', default='OpenGVLab/InternVL3_5-38B-HF',
                         help='Model name/type')
 
-    parser.add_argument('--questions', '-q', default='/home/yaoyi/pyo00005/carto-reasoning/cartoreasoning/questions/response_full_d10.json', 
-                        help='Path to questions JSON file')
+    # parser.add_argument('--questions', '-q', default='/home/yaoyi/pyo00005/carto-reasoning/questions/response_full_d10.json', 
+    #                     help='Path to questions JSON file')
 
-    parser.add_argument('--images', '-im', default='/home/yaoyi/pyo00005/p2/carto-image',
-                        help="Directory/link to reporsitory containing images")
+    # parser.add_argument('--images', '-im', default='/home/yaoyi/pyo00005/p2/carto-image',
+    #                     help="Directory/link to reporsitory containing images")
     
     parser.add_argument('--distractor', '-d', action="store_true", 
                         help='Use distractor images')
@@ -315,8 +315,8 @@ if __name__ == '__main__':
     #      img_limit=args.max_images)
 
     main(model_name=args.model,
-        question_path=args.questions,
-        image_folder=args.images,
+        question_path='/home/yaoyi/pyo00005/carto-reasoning/questions/response_full_d10.json',
+        image_folder='/home/yaoyi/pyo00005/p2/carto-image/',
         bool_distractor=args.distractor,
         output_dir=args.output_dir,
         cache_dir=args.cache_dir,
