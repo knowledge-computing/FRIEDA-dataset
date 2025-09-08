@@ -1,0 +1,42 @@
+[
+    {
+        "question_ref":"q_0001",
+        "annotator_response":"E PIKE ST; E SPRING ST; 23RD AVE; 24TH AVE"
+    },
+    {
+        "question_ref":"q_0002",
+        "annotator_response":"Rezone Area 6"
+    },
+    {
+        "question_ref":"q_0003",
+        "annotator_response":"Central Greenway Phase 3: Alternative 1"
+    },
+    {
+        "question_ref":"q_0004",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_0005",
+        "annotator_response":"Lowrise 1; Lowrise 3"
+    },
+    {
+        "question_ref":"q_0006",
+        "annotator_response":"LR1"
+    },
+    {
+        "question_ref":"q_0007",
+        "annotator_response":"7"
+    },
+    {
+        "question_ref":"q_0008",
+        "annotator_response":"13TH AVE S; S ALBRO PL"
+    },
+    {
+        "question_ref":"q_0009",
+        "annotator_response":"Major Institution And Public Facilities\/Utilities; Single Family"
+    },
+    {
+        "question_ref":"q_0010",
+        "annotator_response":"Community Center"
+    }
+]

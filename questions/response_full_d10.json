@@ -3940,7 +3940,7 @@
     },
     {
         "question_ref":"q_1017",
-        "question_text":"In the vicinity of Yosemite National Park, which quadrangle does the northernmost segment of CA-41 Highway (north of the city of Oakhurst) intersect with?",
+        "question_text":"In the vicinity of Yosemite National Park, which quadrangles does the northernmost segment of CA-41 Highway (north of the city of Oakhurst) intersect with?",
         "expected_answer":"Yosemite; Bass Lake",
         "image_urls":[
             "national-parks\/659668\/image1_m1.png",
