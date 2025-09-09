@@ -22,14 +22,14 @@ max_memory = {
     1: "40GB",
     2: "40GB",
     3: "40GB",
-    4: "40GB",
-    5: "40GB",
-    6: "40GB",
-    7: "40GB",
+    # 4: "40GB",
+    # 5: "40GB",
+    # 6: "40GB",
+    # 7: "40GB",
     "cpu": "100GB"   # fallback for layers that don't fit
 }
 
-with open('./instruction-default.pkl', 'rb') as handle:
+with open('./instruction.pkl', 'rb') as handle:
     instructions = pickle.load(handle)
 
 def check_exist(path_dir, bool_create=True):
@@ -281,8 +281,8 @@ if __name__ == '__main__':
     parser.add_argument('--questions', '-q', default='/home/yaoyi/pyo00005/p2/carto-reasoning/questions/response_full_d10.json', 
                         help='Path to questions JSON file')
 
-    parser.add_argument('--images', '-im', default='/home/yaoyi/pyo00005/p2/carto-image',
-                        help="Directory/link to reporsitory containing images")
+    # parser.add_argument('--images', '-im', default='/home/yaoyi/pyo00005/p2/carto-image',
+    #                     help="Directory/link to reporsitory containing images")
     
     parser.add_argument('--distractor', '-d', action="store_true", 
                         help='Use distractor images')

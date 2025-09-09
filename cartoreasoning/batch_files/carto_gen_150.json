@@ -1,0 +1,1180 @@
+[
+    {
+        "question_ref":"q_0197",
+        "question_text":"Which Physiographic Division contains the 'Mille Lacs Sole Source Aquifer SSA' area?",
+        "expected_answer":"Western Lake",
+        "image_urls":[
+            "FEMA\/fema_ehp_il-in-oh-mi-mn-wi-floodcontrol-revdpea_03252025\/image37_1.png",
+            "FEMA\/fema_ehp_il-in-oh-mi-mn-wi-floodcontrol-revdpea_03252025\/image25_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "FEMA\/fema_ehp_il-in-oh-mi-mn-wi-floodcontrol-revdpea_03252025\/image25_1.png",
+            "FEMA\/fema_ehp_il-in-oh-mi-mn-wi-floodcontrol-revdpea_03252025\/image32_1.png",
+            "FEMA\/fema_ehp_il-in-oh-mi-mn-wi-floodcontrol-revdpea_03252025\/image37_1.png",
+            "FEMA\/fema_ehp_il-in-oh-mi-mn-wi-floodcontrol-revdpea_03252025\/image54_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_0199",
+        "question_text":"Identify the 'Inflow Weirs' area within 'Proposed Basin 1A' of the T.C. Jester Stormwater Detention Basin project area. What is the orientation of the identified 'Inflow Weirs' area in relation to 'BEECHAM DR'?",
+        "expected_answer":"North West",
+        "image_urls":[
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image12_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image149_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image12_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image149_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image11_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image150_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image155_m0.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image156_m0.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image163_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image164_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image125_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-tx-2022-007-tc-jester-dea-20241202\/image37_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_0200",
+        "question_text":"Identify the 'Water Tank' point within the Search Buffer of Corbina Rd Tract. What is the ZIP code of the region where the Water Tank point is located?",
+        "expected_answer":"70607",
+        "image_urls":[
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image235_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image247_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image235_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image247_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image234_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image236_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image233_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image237_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image232_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image243_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image254_1.png",
+            "FEMA\/fema_dr-4559-st-louis-hs-appendix\/image255_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_0201",
+        "question_text":"Which 'Flood Hazard Zone' overlaps the majority of the 'Freshwater Pond' in the Lumberton Loop Project Area?",
+        "expected_answer":"Regulatory Floodway",
+        "image_urls":[
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image36_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image43_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image36_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image43_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image35_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image37_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image42_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image44_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image22_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image21_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image19_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image18_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_0202",
+        "question_text":"Within Area 6 of North Shore Levee West, how many \u2018Closure Structures\u2019 are located in the \u2018Vegetation Conversion Area\u2019?",
+        "expected_answer":"3",
+        "image_urls":[
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image142_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image157_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image142_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image157_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image141_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image143_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image156_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image158_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image140_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image144_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image155_1.png",
+            "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image159_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1001",
+        "question_text":"Location circle with which number is located inside of the PROPOSED NEW COMMERCIAL NODE in Cape Town?",
+        "expected_answer":"3",
+        "image_urls":[
+            "capetown\/District_Six_LSDF\/image28_1.png",
+            "capetown\/District_Six_LSDF\/image42_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/District_Six_LSDF\/image28_1.png",
+            "capetown\/District_Six_LSDF\/image42_1.png",
+            "capetown\/District_Six_LSDF\/image31_1.png",
+            "capetown\/District_Six_LSDF\/image39_1.png",
+            "capetown\/District_Six_LSDF\/image45_1.png",
+            "capetown\/District_Six_LSDF\/image34_1.png",
+            "capetown\/District_Six_LSDF\/image36_2.png",
+            "capetown\/District_Six_LSDF\/image35_1.png",
+            "capetown\/District_Six_LSDF\/image49_m1.png",
+            "capetown\/District_Six_LSDF\/image49_m0.png"
+        ]
+    },
+    {
+        "question_ref":"q_1002",
+        "question_text":"In Cape Town, near District Six LSDF, what is the name of the area that the easternmost (and also the longest) GREEN LINKAGE intersects?",
+        "expected_answer":"4. GREEN NETWORK TRAFALAGAR PARK + ZONNEBLOEM SCHOOLS",
+        "image_urls":[
+            "capetown\/District_Six_LSDF\/image54_1.png",
+            "capetown\/District_Six_LSDF\/image60_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/District_Six_LSDF\/image54_1.png",
+            "capetown\/District_Six_LSDF\/image60_1.png",
+            "capetown\/District_Six_LSDF\/image59_1.png",
+            "capetown\/District_Six_LSDF\/image58_1.png",
+            "capetown\/District_Six_LSDF\/image51_1.png",
+            "capetown\/District_Six_LSDF\/image64_1.png",
+            "capetown\/District_Six_LSDF\/image49_m1.png",
+            "capetown\/District_Six_LSDF\/image49_m0.png",
+            "capetown\/District_Six_LSDF\/image45_1.png",
+            "capetown\/District_Six_LSDF\/image42_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1003",
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what is the number of the Current Parking that is connected with Tyger Valley Shopping Centre by the Formal Pedestrian Crossing on Bill Bezuidenhout Drive?",
+        "expected_answer":"19",
+        "image_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image57_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image58_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image57_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image58_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image55_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image60_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image53_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image62_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image63_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image64_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image67_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image68_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1004",
+        "question_text":"What type of Targeting Agricultural Measures WFD 2nd Cycle Significant Pressures exists in Northern Ireland?",
+        "expected_answer":"WFD Catchments",
+        "image_urls":[
+            "ireland\/EPA_Irelands_Environment_2020\/image339_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image368_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "ireland\/EPA_Irelands_Environment_2020\/image339_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image368_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image337_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image365_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image364_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image359_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image296_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image295_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image262_1.png",
+            "ireland\/EPA_Irelands_Environment_2020\/image245_m0.png"
+        ]
+    },
+    {
+        "question_ref":"q_1005",
+        "question_text":"In Cape Town, what type of MOBILITY intersects with Pausing Spaces Along Streets in both Area 4 and Area 5?",
+        "expected_answer":"URBAN MOTORWAY",
+        "image_urls":[
+            "capetown\/District_Six_LSDF\/image114_1.png",
+            "capetown\/District_Six_LSDF\/image117_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/District_Six_LSDF\/image114_1.png",
+            "capetown\/District_Six_LSDF\/image117_1.png",
+            "capetown\/District_Six_LSDF\/image119_1.png",
+            "capetown\/District_Six_LSDF\/image111_1.png",
+            "capetown\/District_Six_LSDF\/image108_1.png",
+            "capetown\/District_Six_LSDF\/image123_1.png",
+            "capetown\/District_Six_LSDF\/image105_1.png",
+            "capetown\/District_Six_LSDF\/image101_1.png",
+            "capetown\/District_Six_LSDF\/image97_1.png",
+            "capetown\/District_Six_LSDF\/image96_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1006",
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what is the road name where Zone 43 and Zone 37 in the SATURN Zone System with 1996 Base Network border each other?",
+        "expected_answer":"Bloemhof Rd",
+        "image_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image149_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image151_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image149_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image151_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image150_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image146_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image145_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image144_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image118_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image117_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image116_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image115_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1007",
+        "question_text":"What is the approximate distance from the Ames Lake of Seattle to the northeastmost end point of Transmission Pipeline in Seattle Regional Water Supply System?",
+        "expected_answer":"12.5Miles",
+        "image_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image578_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image579_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image578_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image579_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image575_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image574_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image560_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image554_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image549_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image546_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image541_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image536_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1008",
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what type of Development Framework is The Study Area of 13. Waste-Tech located in?",
+        "expected_answer":"Open space Network",
+        "image_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image3_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image16_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image16_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image3_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image20_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image23_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image26_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image27_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image29_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image30_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image31_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image32_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1010",
+        "question_text":"Within the A3A Detention Pond in Texas, each 'Soil Unit' area is associated with an alphabetical letter code. In which 'Soil Unit' is the 'GROVE CORP BDY' area located?",
+        "expected_answer":"URLX",
+        "image_urls":[
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image14_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image16_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image11_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image14_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image16_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image20_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image23_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image26_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image27_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image31_1.png",
+            "FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image9_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1011",
+        "question_text":"In Seattle, in which direction is the area of SW NSC located relative to Green Lake?",
+        "expected_answer":"South West",
+        "image_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image433_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image549_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image433_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image549_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image434_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image435_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image436_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image546_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image554_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image541_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image560_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image536_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1012",
+        "question_text":"Which 'Elementary Attendance Area' is the 'Seattle Schools Administration' located in?",
+        "expected_answer":"Mercer",
+        "image_urls":[
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image760_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image761_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image760_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image761_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image751_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image752_m1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image752_m0.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image746_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image742_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image782_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image784_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image786_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1013",
+        "question_text":"In Cape Town, near the District Six LSDF, what is the orientation of the easternmost NODE in Area 7 relative to the center of the circular IRT PROPOSED FEEDER ROUTE?",
+        "expected_answer":"South East",
+        "image_urls":[
+            "capetown\/District_Six_LSDF\/image75_1.png",
+            "capetown\/District_Six_LSDF\/image123_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "capetown\/District_Six_LSDF\/image123_1.png",
+            "capetown\/District_Six_LSDF\/image75_1.png",
+            "capetown\/District_Six_LSDF\/image119_1.png",
+            "capetown\/District_Six_LSDF\/image117_1.png",
+            "capetown\/District_Six_LSDF\/image114_1.png",
+            "capetown\/District_Six_LSDF\/image64_1.png",
+            "capetown\/District_Six_LSDF\/image111_1.png",
+            "capetown\/District_Six_LSDF\/image108_1.png",
+            "capetown\/District_Six_LSDF\/image60_1.png",
+            "capetown\/District_Six_LSDF\/image59_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1014",
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what is the orientation of the Retail area in Existing Land Uses & Activities relative to the PAWC Vacant Land in Existing Open Space Network?",
+        "expected_answer":"North West",
+        "image_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image60_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image64_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image60_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image64_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image63_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image58_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image62_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image57_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image67_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image68_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image55_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image69_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1015",
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what is the orientation of the northernmost point of Flsantekraal relative to the intersection of North-South Link and N2?",
+        "expected_answer":"North East",
+        "image_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image31_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image23_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image23_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image31_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image30_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image32_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image29_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image33_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image20_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image26_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image34_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image27_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1016",
+        "question_text":"In proposed lid area, how many Gathering Spaces have their centers located within the Proposed Buildings?",
+        "expected_answer":"2",
+        "image_urls":[
+            "seattle-planning\/507SeattleStudio_Web\/image47_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image51_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "seattle-planning\/507SeattleStudio_Web\/image47_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image51_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image48_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image50_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image52_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image49_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image53_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image54_m0.png",
+            "seattle-planning\/507SeattleStudio_Web\/image58_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image57_m1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1017",
+        "question_text":"In the vicinity of Yosemite National Park, which quadrangle does the northernmost segment of CA-41 Highway (north of the city of Oakhurst) intersect with?",
+        "expected_answer":"Yosemite; Bass Lake",
+        "image_urls":[
+            "national-parks\/659668\/image1_m1.png",
+            "national-parks\/659668\/image1_m32.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "national-parks\/659668\/image1_m1.png",
+            "national-parks\/659668\/image1_m32.png",
+            "national-parks\/659668\/image1_m3.png",
+            "national-parks\/659668\/image1_m4.png",
+            "national-parks\/659668\/image1_m7.png",
+            "national-parks\/659668\/image1_m8.png",
+            "national-parks\/659668\/image1_m9.png",
+            "national-parks\/659668\/image1_m43.png",
+            "national-parks\/659668\/image1_m44.png",
+            "national-parks\/659668\/image1_m14.png"
+        ]
+    },
+    {
+        "question_ref":"q_1018",
+        "question_text":"What is the approximate distance from the Two Medicine Lake to the Logan Pass in the Glacier National Park? Answer in MILES.",
+        "expected_answer":"22.5MILES",
+        "image_urls":[
+            "national-parks\/639363\/image1_m8.png",
+            "national-parks\/639363\/image1_m13.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "national-parks\/639363\/image1_m13.png",
+            "national-parks\/639363\/image1_m14.png",
+            "national-parks\/639363\/image1_m2.png",
+            "national-parks\/639363\/image1_m4.png",
+            "national-parks\/639363\/image1_m6.png",
+            "national-parks\/639363\/image1_m7.png",
+            "national-parks\/639363\/image1_m8.png",
+            "national-parks\/639363\/image1_m9.png"
+        ]
+    },
+    {
+        "question_ref":"q_1019",
+        "question_text":"Which 15-Minute Quadrangle surrounding Yellowstone National Park are the heavy line segments of the Heart Mountain Fault located in?",
+        "expected_answer":"PILOT PEAK",
+        "image_urls":[
+            "national-parks\/642208\/image1_m49.png",
+            "national-parks\/642208\/image1_m54.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "national-parks\/642208\/image1_m49.png",
+            "national-parks\/642208\/image1_m54.png",
+            "national-parks\/642208\/image1_m48.png",
+            "national-parks\/642208\/image1_m47.png",
+            "national-parks\/642208\/image1_m57.png",
+            "national-parks\/642208\/image1_m45.png",
+            "national-parks\/642208\/image1_m58.png",
+            "national-parks\/642208\/image1_m43.png",
+            "national-parks\/642208\/image1_m61.png",
+            "national-parks\/642208\/image1_m62.png"
+        ]
+    },
+    {
+        "question_ref":"q_1020",
+        "question_text":"In the area around Canaveral National Seashore, which types of Morphogenetic Units does the line of 28\u00b052'30\"N intersect with?",
+        "expected_answer":"LAGOON; BARRIER ISLAND; ATLANTIC OCEAN",
+        "image_urls":[
+            "national-parks\/656810\/image1_m1.png",
+            "national-parks\/656810\/image1_m3.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "national-parks\/656810\/image1_m1.png",
+            "national-parks\/656810\/image1_m3.png",
+            "national-parks\/656810\/image1_m2.png",
+            "national-parks\/656810\/image1_m4.png",
+            "national-parks\/656810\/image1_m5.png",
+            "national-parks\/656810\/image1_m8.png",
+            "national-parks\/656810\/image1_m9.png",
+            "national-parks\/656810\/image1_m2(1).png",
+            "national-parks\/656810\/image1_m4(1).png",
+            "national-parks\/656810\/image1_m4(2).png"
+        ]
+    },
+    {
+        "question_ref":"q_1021",
+        "question_text":"In Cape Town, how many New Coastal Nodes are not located in a destination place?",
+        "expected_answer":"1",
+        "image_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image39_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image56_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image39_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image56_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image38_m0.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image36_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image37_m1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image37_m0.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image37_m2.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image35_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image62_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image34_m1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1022",
+        "question_text":"What are the Rocks areas covered by the Published geologic maps by O'Sullivan and Beikman near La Vida Mission quadrangle?",
+        "expected_answer":"OLDER MESOZOIC ROCKS; YOUNGER CRETACEOUS AND TERTIARY ROCKS",
+        "image_urls":[
+            "national-parks\/732920\/image1_m122.png",
+            "national-parks\/732920\/image1_m123.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "national-parks\/732920\/image1_m122.png",
+            "national-parks\/732920\/image1_m123.png",
+            "national-parks\/732920\/image1_m124.png",
+            "national-parks\/732920\/image1_m125.png",
+            "national-parks\/732920\/image1_m119.png",
+            "national-parks\/732920\/image1_m118.png",
+            "national-parks\/732920\/image1_m115.png",
+            "national-parks\/732920\/image1_m114.png",
+            "national-parks\/732920\/image1_m131.png",
+            "national-parks\/732920\/image1_m113.png"
+        ]
+    },
+    {
+        "question_ref":"q_1023",
+        "question_text":"In Cape Town, what type of area is the Possible Future Airport located in, excluding the area covered by Phase 1-4 IRT Phasing?",
+        "expected_answer":"Cultural Landscape",
+        "image_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image79_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image92_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image79_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image92_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image93_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image95_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image87_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image68_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image66_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image65_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image62_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image56_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1024",
+        "question_text":"What type of area is not intersected by the 'Leeves' line in the Project Area and Vincinity of CRFREE Project?",
+        "expected_answer":"State Parks Barn Complex",
+        "image_urls":[
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image93_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image94_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image93_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image94_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image95_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image96_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image97_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image98_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image99_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image100_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image101_1.png",
+            "FEMA\/fema_r9_draft-environmental-assessment-for-carmel-river-floodplain-restoration-and-environmental-enhancement-project-hmgp-dr-4344-539-097-ca_042025\/image154_m0.png"
+        ]
+    },
+    {
+        "question_ref":"q_1025",
+        "question_text":"In what orientation is Minute Man National Historical Park relative to the 7.5-minute quadrangle of Natick?",
+        "expected_answer":"North",
+        "image_urls":[
+            "national-parks\/639106\/image1_m2.png",
+            "national-parks\/639106\/image1_m9.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "national-parks\/639106\/image1_m10.png",
+            "national-parks\/639106\/image1_m2.png",
+            "national-parks\/639106\/image1_m6.png",
+            "national-parks\/639106\/image1_m7.png",
+            "national-parks\/639106\/image1_m9.png"
+        ]
+    },
+    {
+        "question_ref":"q_1026",
+        "question_text":"In the area surrounding Potential Lid Area, what is the approximate straight-line distance from the westernmost Affordable Housing to the westernmost Construction?",
+        "expected_answer":"2900'",
+        "image_urls":[
+            "seattle-planning\/507SeattleStudio_Web\/image79_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image80_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "seattle-planning\/507SeattleStudio_Web\/image79_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image80_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image71_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image70_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image63_m1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image63_m0.png",
+            "seattle-planning\/507SeattleStudio_Web\/image62_m1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image60_m1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image58_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image59_m0.png"
+        ]
+    },
+    {
+        "question_ref":"q_1027",
+        "question_text":"In Cape Town, what orientation is Cape Town International Airport in relative to the Philippi Horticultural Area?",
+        "expected_answer":"North East",
+        "image_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image68_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image87_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image68_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image87_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image66_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image65_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image92_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image62_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image93_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image79_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image95_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image56_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1028",
+        "question_text":"In Cape Town, near District Six LSDF, in which Area are all current buildings of the Restitution Row Housing type located?",
+        "expected_answer":"AREA 3",
+        "image_urls":[
+            "capetown\/District_Six_LSDF\/image95_1.png",
+            "capetown\/District_Six_LSDF\/image101_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/District_Six_LSDF\/image101_1.png",
+            "capetown\/District_Six_LSDF\/image95_1.png",
+            "capetown\/District_Six_LSDF\/image96_1.png",
+            "capetown\/District_Six_LSDF\/image93_1.png",
+            "capetown\/District_Six_LSDF\/image97_1.png",
+            "capetown\/District_Six_LSDF\/image105_1.png",
+            "capetown\/District_Six_LSDF\/image108_1.png",
+            "capetown\/District_Six_LSDF\/image111_1.png",
+            "capetown\/District_Six_LSDF\/image114_1.png",
+            "capetown\/District_Six_LSDF\/image117_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1029",
+        "question_text":"Identify the 'Smoke and SO2 Monitoring' point 'Clontarf' in Ireland. What is the orientation of this point relative to the River Moy?",
+        "expected_answer":"South East",
+        "image_urls":[
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image47_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image57_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image47_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image57_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image45_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image44_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image60_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image79_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image84_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image85_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image96_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image97_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1030",
+        "question_text":"In Cape Town, near BLAAUWBERG DISTRICT, what is the approximate distance from the intersection of SILVERSTREAM ROAD and DASSENBERG ROAD to the intersection of ENON and PARADISE?",
+        "expected_answer":"1.9Kilometers",
+        "image_urls":[
+            "capetown\/Draft_LSDF_Mamre\/image14_m0.png",
+            "capetown\/Draft_LSDF_Mamre\/image25_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "capetown\/Draft_LSDF_Mamre\/image14_m0.png",
+            "capetown\/Draft_LSDF_Mamre\/image25_1.png",
+            "capetown\/Draft_LSDF_Mamre\/image14_m1.png",
+            "capetown\/Draft_LSDF_Mamre\/image15_m1.png",
+            "capetown\/Draft_LSDF_Mamre\/image15_m9.png",
+            "capetown\/Draft_LSDF_Mamre\/image17_m1.png",
+            "capetown\/Draft_LSDF_Mamre\/image17_m5.png",
+            "capetown\/Draft_LSDF_Mamre\/image12_1.png",
+            "capetown\/Draft_LSDF_Mamre\/image23_m2.png",
+            "capetown\/Draft_LSDF_Mamre\/image23_m3.png"
+        ]
+    },
+    {
+        "question_ref":"q_1031",
+        "question_text":"In the vicinity of Craters of the Moon National Monument, what is the approximate distance from Idaho Falls to Ashton? (Answer in MILES)",
+        "expected_answer":"55MILES",
+        "image_urls":[
+            "national-parks\/711316\/image1_m11.png",
+            "national-parks\/711316\/image1_m24.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "national-parks\/711316\/image1_m11.png",
+            "national-parks\/711316\/image1_m24.png",
+            "national-parks\/711316\/image1_m10.png",
+            "national-parks\/711316\/image1_m12.png",
+            "national-parks\/711316\/image1_m23.png",
+            "national-parks\/711316\/image1_m26.png",
+            "national-parks\/711316\/image1_m9.png",
+            "national-parks\/711316\/image1_m14.png",
+            "national-parks\/711316\/image1_m21.png",
+            "national-parks\/711316\/image1_m8.png"
+        ]
+    },
+    {
+        "question_ref":"q_1032",
+        "question_text":"In the Aurora Ave and 97th Residential Urban Village, which Safety Audit Team's route is intersected by N. 100 Ave? Answer with the team number.",
+        "expected_answer":"1",
+        "image_urls":[
+            "seattle-planning\/Aurora-Licton-plan\/image69_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image70_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "seattle-planning\/Aurora-Licton-plan\/image69_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image70_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image68_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image71_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image72_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image73_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image74_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image75_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image43_1.png",
+            "seattle-planning\/Aurora-Licton-plan\/image34_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1033",
+        "question_text":"In what orientation is Snag Peak block relative to the city of Seattle?",
+        "expected_answer":"North West",
+        "image_urls":[
+            "national-parks\/646954\/image1_m1.png",
+            "national-parks\/646954\/image1_m2.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "national-parks\/646954\/image1_m1.png",
+            "national-parks\/646954\/image1_m11.png",
+            "national-parks\/646954\/image1_m13.png",
+            "national-parks\/646954\/image1_m2.png",
+            "national-parks\/646954\/image1_m3.png",
+            "national-parks\/646954\/image1_m5.png",
+            "national-parks\/646954\/image1_m7.png",
+            "national-parks\/646954\/image1_m9.png"
+        ]
+    },
+    {
+        "question_ref":"q_1034",
+        "question_text":"What is the structural element of the San Juan Basin where the source map 3 'Kirk and Condon, 1989' is fully located?",
+        "expected_answer":"CHACO SLOPE",
+        "image_urls":[
+            "national-parks\/732920\/image1_m104.png",
+            "national-parks\/732920\/image1_m124.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "national-parks\/732920\/image1_m104.png",
+            "national-parks\/732920\/image1_m124.png",
+            "national-parks\/732920\/image1_m103.png",
+            "national-parks\/732920\/image1_m123.png",
+            "national-parks\/732920\/image1_m125.png",
+            "national-parks\/732920\/image1_m102.png",
+            "national-parks\/732920\/image1_m106.png",
+            "national-parks\/732920\/image1_m122.png",
+            "national-parks\/732920\/image1_m101.png",
+            "national-parks\/732920\/image1_m107.png"
+        ]
+    },
+    {
+        "question_ref":"q_1035",
+        "question_text":"How many Very Good Transit locations are situated within areas of the Future Land Use type known as Major Institutions?",
+        "expected_answer":"0",
+        "image_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image36_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image46_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image36_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image46_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image42_m1.png",
+            "seattle-planning\/CouncilAdopted2020\/image42_m0.png",
+            "seattle-planning\/CouncilAdopted2020\/image25_m1.png",
+            "seattle-planning\/CouncilAdopted2020\/image25_m0.png",
+            "seattle-planning\/CouncilAdopted2020\/image25_m2.png",
+            "seattle-planning\/CouncilAdopted2020\/image17_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image10_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image189_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1037",
+        "question_text":"Which types of Urban Villages border the Park areas?",
+        "expected_answer":"Urban Center; Hub Urban Village; Residential Urban Village; Manufacturing \/ Industrial Center",
+        "image_urls":[
+            "seattle-planning\/ComprehensivePlanRacialEquityAnalysisPresentation2021\/image8_4.png",
+            "seattle-planning\/ComprehensivePlanRacialEquityAnalysisPresentation2021\/image14_3.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "seattle-planning\/ComprehensivePlanRacialEquityAnalysisPresentation2021\/image10_3.png",
+            "seattle-planning\/ComprehensivePlanRacialEquityAnalysisPresentation2021\/image14_3.png",
+            "seattle-planning\/ComprehensivePlanRacialEquityAnalysisPresentation2021\/image16_3.png",
+            "seattle-planning\/ComprehensivePlanRacialEquityAnalysisPresentation2021\/image8_4.png"
+        ]
+    },
+    {
+        "question_ref":"q_1038",
+        "question_text":"Which type of Existing Land Use is covered by the highest Employment Density by Census Tract?",
+        "expected_answer":"Commercial\/Mixed-Use",
+        "image_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image435_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image436_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image435_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image436_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image434_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image433_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image418_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image414_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image457_m0.png",
+            "seattle-planning\/CouncilAdopted2020\/image459_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image409_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image462_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1040",
+        "question_text":"In Cape Town, near the District Six LSDF, what is the orientation of the westernmost IRT location relative to the CPUT Square?",
+        "expected_answer":"North",
+        "image_urls":[
+            "capetown\/District_Six_LSDF\/image31_1.png",
+            "capetown\/District_Six_LSDF\/image58_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "capetown\/District_Six_LSDF\/image31_1.png",
+            "capetown\/District_Six_LSDF\/image58_1.png",
+            "capetown\/District_Six_LSDF\/image59_1.png",
+            "capetown\/District_Six_LSDF\/image60_1.png",
+            "capetown\/District_Six_LSDF\/image28_1.png",
+            "capetown\/District_Six_LSDF\/image34_1.png",
+            "capetown\/District_Six_LSDF\/image35_1.png",
+            "capetown\/District_Six_LSDF\/image54_1.png",
+            "capetown\/District_Six_LSDF\/image36_2.png",
+            "capetown\/District_Six_LSDF\/image64_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1041",
+        "question_text":"In proposed lid area, how many Closed Highway Ramps have their centers not located within the Green Space?",
+        "expected_answer":"1",
+        "image_urls":[
+            "seattle-planning\/507SeattleStudio_Web\/image49_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image50_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "seattle-planning\/507SeattleStudio_Web\/image49_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image50_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image48_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image51_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image47_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image52_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image53_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image54_m0.png",
+            "seattle-planning\/507SeattleStudio_Web\/image58_1.png",
+            "seattle-planning\/507SeattleStudio_Web\/image57_m1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1042",
+        "question_text":"In Cape Town, on which street do Area 2 and Area 3 border each other near District Six LSDF?",
+        "expected_answer":"CONSTITUTION STREET",
+        "image_urls":[
+            "capetown\/District_Six_LSDF\/image108_1.png",
+            "capetown\/District_Six_LSDF\/image111_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/District_Six_LSDF\/image108_1.png",
+            "capetown\/District_Six_LSDF\/image111_1.png",
+            "capetown\/District_Six_LSDF\/image105_1.png",
+            "capetown\/District_Six_LSDF\/image114_1.png",
+            "capetown\/District_Six_LSDF\/image117_1.png",
+            "capetown\/District_Six_LSDF\/image101_1.png",
+            "capetown\/District_Six_LSDF\/image119_1.png",
+            "capetown\/District_Six_LSDF\/image97_1.png",
+            "capetown\/District_Six_LSDF\/image123_1.png",
+            "capetown\/District_Six_LSDF\/image96_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1043",
+        "question_text":"In Cape Town, what orientation is Koeberg Nuclear Power Station in relative to the Proposed cemetries in Health facilities 'H'?",
+        "expected_answer":"North West",
+        "image_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image62_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image95_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image62_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image95_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image93_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image65_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image92_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image66_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image56_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image68_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image87_1.png",
+            "capetown\/Annexure B - Cape Town Spatial Development Framework\/image49_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1044",
+        "question_text":"Surrounding the Chaco Culture National Historical Park, what is the orientation of 'North Mesa' relative to the 'Tanner Lake' Quadrangle?",
+        "expected_answer":"South",
+        "image_urls":[
+            "national-parks\/732920\/image1_m143.png",
+            "national-parks\/732920\/image1_m145.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "contextual_urls":[
+            "national-parks\/732920\/image1_m143.png",
+            "national-parks\/732920\/image1_m145.png",
+            "national-parks\/732920\/image1_m142.png",
+            "national-parks\/732920\/image1_m147.png",
+            "national-parks\/732920\/image1_m139.png",
+            "national-parks\/732920\/image1_m149.png",
+            "national-parks\/732920\/image1_m138.png",
+            "national-parks\/732920\/image1_m150.png",
+            "national-parks\/732920\/image1_m136.png",
+            "national-parks\/732920\/image1_m154.png"
+        ]
+    },
+    {
+        "question_ref":"q_1045",
+        "question_text":"What Great Soil Group of Ireland is GALWAY CITY COUNCIL located in?",
+        "expected_answer":"Shallow brown earths",
+        "image_urls":[
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image45_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image100_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image100_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image45_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image44_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image47_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image97_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image104_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image96_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image57_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image60_1.png",
+            "ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image85_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1046",
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what are the Parking Management & Public Transport Plan areas that border the Landscaped Sport Recreation Area?",
+        "expected_answer":"3979; 150 bays; 4431",
+        "image_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image96_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image99_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image96_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image99_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image101_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image102_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image93_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image103_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image92_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image105_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image106_1.png",
+            "capetown\/Elsieskraal River Valley Development Framework, 1998\/image89_1.png"
+        ]
+    },
+    {
+        "question_ref":"q_1047",
+        "question_text":"In Delaware Water Gap National Recreation Area, what is the approximate straight-line distance in miles from the southwestmost corner of Lake Sparta to Sussex?",
+        "expected_answer":"15miles",
+        "image_urls":[
+            "national-parks\/664400\/image1_m20.png",
+            "national-parks\/664400\/image1_m23.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"distance",
+        "contextual_urls":[
+            "national-parks\/664400\/image1_m20.png",
+            "national-parks\/664400\/image1_m23.png",
+            "national-parks\/664400\/image1_m22.png",
+            "national-parks\/664400\/image1_m24.png",
+            "national-parks\/664400\/image1_m17.png",
+            "national-parks\/664400\/image1_m16.png",
+            "national-parks\/664400\/image1_m15.png",
+            "national-parks\/664400\/image1_m14.png",
+            "national-parks\/664400\/image1_m13.png",
+            "national-parks\/664400\/image1_m30.png"
+        ]
+    },
+    {
+        "question_ref":"q_1048",
+        "question_text":"Surrounding the Chaco Culture National Historical Park, what is the name of the 7.5-Minute quadrangle where Kin Ya'a is located?",
+        "expected_answer":"HEART ROCK",
+        "image_urls":[
+            "national-parks\/732920\/image1_m1.png",
+            "national-parks\/732920\/image1_m107.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "contextual_urls":[
+            "national-parks\/732920\/image1_m1.png",
+            "national-parks\/732920\/image1_m107.png",
+            "national-parks\/732920\/image1_m106.png",
+            "national-parks\/732920\/image1_m2.png",
+            "national-parks\/732920\/image1_m3.png",
+            "national-parks\/732920\/image1_m104.png",
+            "national-parks\/732920\/image1_m110.png",
+            "national-parks\/732920\/image1_m4.png",
+            "national-parks\/732920\/image1_m103.png",
+            "national-parks\/732920\/image1_m111.png"
+        ]
+    }
+]

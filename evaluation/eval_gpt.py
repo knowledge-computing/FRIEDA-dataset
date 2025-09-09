@@ -3,15 +3,15 @@ import fire
 import re
 import pickle
 import polars as pl
-from vllm import LLM
-from vllm.sampling_params import SamplingParams
+# from vllm import LLM
+# from vllm.sampling_params import SamplingParams
 
 SUPPORT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data_file')
 
 # Load Mistral LLM once at the top (optional: lazy load later if speed matters)
-model_name = "mistralai/Ministral-8B-Instruct-2410"
-sampling_params = SamplingParams(max_tokens=1024)
-llm = LLM(model=model_name, tokenizer_mode="mistral", config_format="mistral", load_format="mistral")
+# model_name = "mistralai/Ministral-8B-Instruct-2410"
+# sampling_params = SamplingParams(max_tokens=1024)
+# llm = LLM(model=model_name, tokenizer_mode="mistral", config_format="mistral", load_format="mistral")
 
 def _normalize_text_list(lst):
     """Lowercase, remove special chars, and strip spaces from list of strings."""
@@ -32,19 +32,19 @@ def _is_numeric_list(lst):
         return False
     return all(re.fullmatch(r"^\d+(\.\d+)?$", str(x)) for x in lst)
 
-def _llm_eval_mismatch(question_ref, response, expected):
-    """Ask Mistral LLM whether the response matches the expected answer."""
-    prompt = (
-        f"Question reference: {question_ref}\n"
-        f"Expected answer: {expected}\n"
-        f"Given response: {response}\n\n"
-        "Does the response correctly answer the question based on expected answer? "
-        "Answer strictly 'yes' or 'no'."
-    )
-    messages = [{"role": "user", "content": prompt}]
-    outputs = llm.chat(messages, sampling_params=sampling_params)
-    ans = outputs[0].outputs[0].text.strip().lower()
-    return 1 if ans.startswith("yes") else 0
+# def _llm_eval_mismatch(question_text, response, expected):
+#     """Ask Mistral LLM whether the response matches the expected answer."""
+#     prompt = (
+#         f"Question reference: {question_text}\n"
+#         f"Expected answer: {expected}\n"
+#         f"Given response: {response}\n\n"
+#         "Does the response correctly answer the question based on expected answer? "
+#         "Answer strictly 'yes' or 'no'."
+#     )
+#     messages = [{"role": "user", "content": prompt}]
+#     outputs = llm.chat(messages, sampling_params=sampling_params)
+#     ans = outputs[0].outputs[0].text.strip().lower()
+#     return 1 if ans.startswith("yes") else 0
 
 def _llm_ans_extract(question_text, response):
     prompt = (
@@ -102,38 +102,39 @@ def eval_card(df):
     with open(os.path.join(SUPPORT_PATH, 'orientation.pkl'), 'rb') as handle:
         dict_orientation = pickle.load(handle)
 
-    def is_correct(row):
-        expected = row["expected_answer"]
-        response = row["_response"]
-        valid_dirs = dict_orientation.get(expected, [expected])
-        return 1 if response in valid_dirs else 0
+    df = df.with_columns(
+        pl.col('expected_answer').replace(dict_orientation),
+        pl.col('_response').list.eval(pl.element().str.to_lowercase())
+    ).with_columns(
+        correct = pl.col('_response').list.set_intersection('expected_answer').list.len() > 0
+    )
 
-    df = df.with_columns(pl.struct(df.columns).map_elements(is_correct).alias("correct"))
     return df
 
 def eval_text(df):
     """
     Evaluate textual answers, using LLM fallback if necessary.
     """
-    def is_correct(row):
-        resp_list = _normalize_text_list(row["_response"])
-        exp_list = _normalize_text_list(row["expected_answer"])
+    # def is_correct(row):
+    #     resp_list = _normalize_text_list(row["_response"])
+    #     exp_list = _normalize_text_list(row["expected_answer"])
 
-        # Numeric-only case → strict comparison
-        if _is_numeric_list(resp_list) and _is_numeric_list(exp_list):
-            return 1 if resp_list == exp_list else 0
+    #     # Numeric-only case → strict comparison
+    #     if _is_numeric_list(resp_list) and _is_numeric_list(exp_list):
+    #         return 1 if resp_list == exp_list else 0
 
-        # Compare sets directly
-        if set(resp_list) == set(exp_list):
-            return 1
+    #     # Compare sets directly
+    #     if set(resp_list) == set(exp_list):
+    #         return 1
 
         # If mismatch → fallback to LLM
-        return _llm_eval_mismatch(row["question_ref"], resp_list, exp_list)
+        # return _llm_eval_mismatch(row["question_ref"], resp_list, exp_list)
 
-    df = df.with_columns(pl.struct(df.columns).map_elements(is_correct).alias("correct"))
-    return df
+    # df = df.with_columns(pl.struct(df.columns).map_elements(is_correct).alias("correct"))
+    # return df
 
-def main(output_file: str, response_col: str = None):
+def main(output_file: str, gt_file: str, 
+         response_col: str = None):
     # Load output file
     pl_output = pl.read_json(output_file)
 
@@ -147,15 +148,11 @@ def main(output_file: str, response_col: str = None):
     list_cols.append("_response")
     pl_output = pl_output.select(list_cols)
 
-    # Load answer type dataframe
-    with open(os.path.join(SUPPORT_PATH, "answer.pkl"), 'rb') as handle:
-        pl_at = pickle.load(handle)
-    # pl_at = pl.read_json(os.path.join(SUPPORT_PATH, "ans_type.json")).select(
-    #     pl.col(["question_ref", "answer_type"])
-    # )
+    # Load answer dataframe
+    pl_ans = pl.read_json(gt_file).drop('contextual_urls')
 
-    # Append answer type
-    pl_output = pl.concat([pl_output, pl_at], how="align").drop_nulls("question_ref")
+    # Append response dataframe to ground truth dataframe
+    pl_output = pl.concat([pl_output, pl_ans], how="align").drop_nulls("_response")
 
     # Split multi-answer columns into lists and clean strings
     pl_output = pl_output.with_columns(
@@ -163,6 +160,10 @@ def main(output_file: str, response_col: str = None):
         .str.split(";")
         .list.eval(pl.element().str.strip_chars())
     )
+
+    # print(pl_output)
+
+    # .str.to_lowercase().str.replace_all(r"[^a-z0-9\s]", "")
 
     # Partition and evaluate by answer type
     pl_evaled = pl.DataFrame()
@@ -172,13 +173,21 @@ def main(output_file: str, response_col: str = None):
     for df in pl_output.partition_by("answer_type"):
         ans_type = df["answer_type"][0]
         if ans_type == "distance":
-            pl_evaled = pl.concat([pl_evaled, eval_dist(df)], how="diagonal")
+            pass
+            # pl_evaled = pl.concat([pl_evaled, eval_dist(df)], how="diagonal")
         elif ans_type == "textual":
-            pl_evaled = pl.concat([pl_evaled, eval_text(df)], how="diagonal")
-        else:
+            print(df)
+            pass
+            # pl_evaled = pl.concat([pl_evaled, eval_text(df)], how="diagonal")
+        else:   # Cardinal
             pl_evaled = pl.concat([pl_evaled, eval_card(df)], how="diagonal")
 
-    return pl_evaled
+    # print(pl_evaled)
+
+    # return pl_evaled
 
 if __name__ == "__main__":
-    fire.Fire(main)
+    # fire.Fire(main)
+    output_file = '/home/yaoyi/pyo00005/carto-reasoning/evaluation/test_sample.json'
+    gt_file = '/home/yaoyi/pyo00005/carto-reasoning/questions/response_full_d10.json'
+    main(output_file=output_file, gt_file=gt_file)
