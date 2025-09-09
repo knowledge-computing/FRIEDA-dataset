@@ -46,6 +46,21 @@ def _llm_eval_mismatch(question_ref, response, expected):
     ans = outputs[0].outputs[0].text.strip().lower()
     return 1 if ans.startswith("yes") else 0
 
+def _llm_ans_extract(question_text, response):
+    prompt = (
+        f"Question reference: {question_ref}\n"
+        f"Expected answer: {expected}\n"
+        f"Given response: {response}\n\n"
+        "Does the response correctly answer the question based on expected answer? "
+        "Answer strictly 'yes' or 'no'."
+    )
+    Given the question and answer, extract only the exact portion of the text that serves as the answer.
+
+Question: What is the main ingredient in hummus?
+Answer: Hummus is a popular Middle Eastern dip made primarily from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.
+
+Exact answer portion:
+
 def eval_dist(df):
     """
     Evaluate distance answers.
@@ -151,6 +166,9 @@ def main(output_file: str, response_col: str = None):
 
     # Partition and evaluate by answer type
     pl_evaled = pl.DataFrame()
+
+    # Answer extraction
+
     for df in pl_output.partition_by("answer_type"):
         ans_type = df["answer_type"][0]
         if ans_type == "distance":

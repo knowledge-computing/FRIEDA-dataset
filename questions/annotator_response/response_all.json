@@ -22,7 +22,7 @@
     {
         "question_ref":"q_0003",
         "question_text":"In the neighborhood node crossed by S Jackson Street and located near Washington Middle School, there are two Current Transit stops. Which 'Central Greenway Phase 3' is located closer to these two stops?",
-        "expected_answer":"Central Greenway Phase 3: Alternative 2",
+        "expected_answer":"Central Greenway Phase 3: Alternative 1",
         "annotator_response":[
             "Central Greenway Phase 3: Alternative 1",
             "Central Greenway Phase 3: Alternative 1",
