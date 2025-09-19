@@ -4044,7 +4044,7 @@
         ],
         "question_text":"The Ordnance Survey Ireland divides the country into counties, each labeled with either a number or a number-letter combination. Identify the county labeled '03'. Which counties border it?",
         "expected_answer":[
-            "26",
+            "36",
             "06"
         ],
         "image_urls":[
@@ -4054,7 +4054,7 @@
         "spatial_relationship":"Border",
         "answer_type":"textual",
         "extracted_ans":"06; 36",
-        "correct":false
+        "correct":true
     },
     {
         "question_ref":"q_0133",
@@ -6046,7 +6046,7 @@
         "spatial_relationship":"Border",
         "answer_type":"textual",
         "extracted_ans":"25.00%",
-        "correct":false
+        "correct":true
     },
     {
         "question_ref":"q_1155",
