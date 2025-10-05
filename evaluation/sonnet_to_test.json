@@ -1,0 +1,404 @@
+[
+    {
+        "question_ref":"q_0011",
+        "_response":[
+            "Wholesale Customer",
+            "Cascade Water Alliance Member",
+            "Potential New Customer"
+        ],
+        "expected_answer":[
+            "Wholesale Customer",
+            "Other"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "sonnet_response":[
+            "Wholesale Customer",
+            "Potential New Customer",
+            "Cascade Water Alliance Member"
+        ],
+        "question_text":"Every region in Seattle Public Utilities Water Service Area is classified under one of the five Service Area categories. Within the Service Area Boundary, which Service Area categories share a boundary with the Cedar River Watershed.",
+        "image_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image578_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_0090",
+        "_response":[
+            "Nagore Durga",
+            "Thian Hock Keng Temple",
+            "Al-Abrar Mosque"
+        ],
+        "expected_answer":[
+            "Jamae Mosque",
+            "Sri Mariamman Temple"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "Nagore Durga",
+            "Thian Hock Keng Temple",
+            "Al-Abrar Mosque"
+        ],
+        "question_text":"Within Chinatown, each area inside the conservation boundary is labeled with a name (e.g., TANGJONG PAGAR) and each Gazetted Monument is labeled with a number and name (e.g., 5: Al-Abrar Mosque). Which Gazetted Monuments are located in the area that contains the \u2018Future malls\u2019 line? Give just the names.",
+        "image_urls":[
+            "sg-ura\/AnnualReport_1997-1998\/image26_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_0100",
+        "_response":[
+            "Greater Adjutant"
+        ],
+        "expected_answer":[
+            "Bengal Florican"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "sonnet_response":[
+            "Greater Adjutant"
+        ],
+        "question_text":"Within the 'Ou Tapaong OPT_Canals' boundary (red outline), identify the three bird species points: 'Bengal Florican', 'Greater Adjutant', and 'Milky Stork'. Which bird species point is located closest to the boundary?",
+        "image_urls":[
+            "aiib\/CAM_P000452_ESCMP_Outapong_Irrigation_System_Subproject\/image172_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_0131",
+        "_response":[
+            "3"
+        ],
+        "expected_answer":[
+            "5"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "3"
+        ],
+        "question_text":"Within the 'BUKIT PASOH' area of the Historic District Chinatown, how many 'ENVELOPE CONTROL SITE's are located inside it?",
+        "image_urls":[
+            "sg-ura\/30yrs-of-conservation\/image14_m0.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_0134",
+        "_response":[
+            "FR",
+            "PT",
+            "ES",
+            "NO"
+        ],
+        "expected_answer":[
+            "FR",
+            "NO"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "FR",
+            "NO",
+            "PT",
+            "ES"
+        ],
+        "question_text":"Within the region, all islands are labeled in the format 'Island name (country code)'. What are the country codes of the islands that have an Annual mean BaP concentration 'ng\/m^3' point in 2017?",
+        "image_urls":[
+            "ireland\/EPA_Irelands_Environment_2020\/image79_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_0151",
+        "_response":[
+            "7 Miles"
+        ],
+        "expected_answer":[
+            "18Miles"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "sonnet_response":[
+            "7 Miles"
+        ],
+        "question_text":"What is the approximate distance from the '140-Year' Ian MAT Survey Point to the northwesternmost '0.0-3.0' Elevation (ft NAVD88) point of Ian USGS High Water Mark in Bokeelia?",
+        "image_urls":[
+            "FEMA\/fema_rm-hurriance-ian-mat-report-12-2023\/image49_1.png",
+            "FEMA\/fema_rm-hurriance-ian-mat-report-12-2023\/image50_1.png"
+        ],
+        "answer_type":"distance"
+    },
+    {
+        "question_ref":"q_0152",
+        "_response":[
+            "11",
+            "42"
+        ],
+        "expected_answer":[
+            "18",
+            "11"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "11",
+            "42"
+        ],
+        "question_text":"Each 'APE' region in the LPDM NM #1 Los Luceros Fire Mitigation Project is associated with a number (e.g., 151). Which 'APE' types overlap with the 'Orchard' Project Area Classifications?",
+        "image_urls":[
+            "FEMA\/fema_ehp-lpdm-pj-06-nm-2023-001-loslucerosfiremit-drafttea-2024412\/image52_m0.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-nm-2023-001-loslucerosfiremit-drafttea-2024412\/image35_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_0168",
+        "_response":[
+            "B"
+        ],
+        "expected_answer":[
+            "A"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "sonnet_response":[
+            "B"
+        ],
+        "question_text":"The Vegetation Removal area within the Project Area border of the Westador Stormwater Detention Basin is separated into two areas. Among the Concrete Pilot Channels (CPCs) within the Project Area, which one touches both Vegetation Removal areas? Provide only the associated alphabet.",
+        "image_urls":[
+            "FEMA\/fema_oehp_lpdm-pj-06-tx-2022-006-westador-stormwater-dea-07022025\/image36_1.png",
+            "FEMA\/fema_oehp_lpdm-pj-06-tx-2022-006-westador-stormwater-dea-07022025\/image41_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_0201",
+        "_response":[
+            "1% Annual Chance Flood Hazard"
+        ],
+        "expected_answer":[
+            "Regulatory Floodway"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "1% Annual Chance Flood Hazard"
+        ],
+        "question_text":"Which 'Flood Hazard Zone' overlaps the majority of the 'Freshwater Pond' in the Lumberton Loop Project Area?",
+        "image_urls":[
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image36_1.png",
+            "FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image43_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_1035",
+        "_response":[
+            "1"
+        ],
+        "expected_answer":[
+            "0"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "1"
+        ],
+        "question_text":"How many Very Good Transit locations are situated within areas of the Future Land Use type known as Major Institutions?",
+        "image_urls":[
+            "seattle-planning\/CouncilAdopted2020\/image36_1.png",
+            "seattle-planning\/CouncilAdopted2020\/image46_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_1095",
+        "_response":[
+            "30"
+        ],
+        "expected_answer":[
+            "60"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "30"
+        ],
+        "question_text":"What is the dominant travel time range of the 'Paya Lebar' region? The ranges are labeled in the format 'minimum mins < Travel Time \u2264 maximum mins.' Provide only the maximum value in minutes.",
+        "image_urls":[
+            "sg-ura\/Skyline_Issue_13\/image7_m2.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_1133",
+        "_response":[
+            "Deal Farm",
+            "Lowry Farm"
+        ],
+        "expected_answer":[
+            "Deal Farm",
+            "Jacob Glotfelty Barn"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "sonnet_response":[
+            "Deal Farm",
+            "Lowry Farm"
+        ],
+        "question_text":"Identify 'Greenville Road' that intersects with the 'Detailed Alternative LOD' area. Which 'NRHP Eligible' areas does Greenville Road act as a boundary between?",
+        "image_urls":[
+            "EIS\/Vol-1-FEIS-US6219-Section050-Transportation-Improvement-Project-Combined-FEIS-ROD-May-2025\/image106_2.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_1138",
+        "_response":[
+            "3"
+        ],
+        "expected_answer":[
+            "2"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "3"
+        ],
+        "question_text":"How many 'Existing Water Storage Tanks' are located within the 'Low-Permeability Tinian Pyroclastic Rocks at Sea Level' area in Tinian?",
+        "image_urls":[
+            "EIS\/Appendix_M_CJMT_RDEIS_Utility Studies_Part 1\/image17_1.png",
+            "EIS\/Appendix_M_CJMT_RDEIS_Utility Studies_Part 1\/image65_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_5012",
+        "_response":[
+            "El Saucito",
+            "Potrerillo de los Torres",
+            "El Capule",
+            "Guadalupe de los Reyes"
+        ],
+        "expected_answer":[
+            "Guadalupe de los Reyes"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "El Saucito",
+            "Guadalupe de los Reyes",
+            "Potrerillo de los Torres",
+            "El Capule"
+        ],
+        "question_text":"Which 'Urban & Rural Areas' are completely within the boundary of Los Reyes property?",
+        "image_urls":[
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image40_2.jpeg"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_6005",
+        "_response":[
+            "OSP22-12"
+        ],
+        "expected_answer":[
+            "OSP22-08",
+            "OSP22-09"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "sonnet_response":[
+            "OSP22-12"
+        ],
+        "question_text":"Which Drill Hole(s) are located closest to the 'Graphitic\/Pyritic Gneiss' in the Red Willow Osprey Zone? If one point is labeled with multiple OSP codes, give all OSP codes associated with that point.",
+        "image_urls":[
+            "NI43-101\/C__RedWillow_TechnicalReport\/image78_1.jpeg"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_6022",
+        "_response":[
+            "Bosque Area"
+        ],
+        "expected_answer":[
+            "Developed Area"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "sonnet_response":[
+            "Bosque Area"
+        ],
+        "question_text":"Within the Los Luceros Fire Mitigation project, under which 'Project Area Classifications' does the 'River House' fall under?",
+        "image_urls":[
+            "FEMA\/fema_ehp-lpdm-pj-06-nm-2023-001-loslucerosfiremit-drafttea-2024412\/image32_1.png",
+            "FEMA\/fema_ehp-lpdm-pj-06-nm-2023-001-loslucerosfiremit-drafttea-2024412\/image4_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_7014",
+        "_response":[
+            "Proveedora"
+        ],
+        "expected_answer":[
+            "Tramposa"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "sonnet_response":[
+            "Proveedora"
+        ],
+        "question_text":"Which 'Prospects' is located closest to the border of El Eden Claim.",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image22_1.jpeg"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_8006",
+        "_response":[
+            "1,069,247",
+            "1,069,248"
+        ],
+        "expected_answer":[
+            "1,069,245",
+            "1,069,243"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "sonnet_response":[
+            "1,069,247",
+            "1,069,248"
+        ],
+        "question_text":"Roger Creek claim consists of multiple claim blocks associated with unique numbers (e.g., 1,069,255). Which two claim blocks share a boundary with Claim Block 1,069,242?",
+        "image_urls":[
+            "NI43-101\/C__1SEDARFilings_CascadeTechnicalPriJan24\/image29_1.png"
+        ],
+        "answer_type":"textual"
+    },
+    {
+        "question_ref":"q_8012",
+        "_response":[
+            "1"
+        ],
+        "expected_answer":[
+            "7"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "sonnet_response":[
+            "1"
+        ],
+        "question_text":"Which Prospector\u2019s Permit polygon is located closest to the W4 dozer trench within the Murdock Mountain Phosphate Deposit area? Respond with just the polygon number.",
+        "image_urls":[
+            "NI43-101\/C__SEDAR_FILINGS_SEM_PROSPECTUS_FINAL_4SEMTechReportMurdockMtn\/image10_1.png",
+            "NI43-101\/C__SEDAR_FILINGS_SEM_PROSPECTUS_FINAL_4SEMTechReportMurdockMtn\/image23_1.png"
+        ],
+        "answer_type":"textual"
+    }
+]

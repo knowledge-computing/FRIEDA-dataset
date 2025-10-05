@@ -1,0 +1,335 @@
+[
+    {
+        "question_ref":"q_0002",
+        "_response":[
+            "Rezone Area 5"
+        ],
+        "expected_answer":[
+            "Rezone Area 6"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_0005",
+        "_response":[
+            "Lowrise 1",
+            "Lowrise 3",
+            "Neighborhood Residential 2"
+        ],
+        "expected_answer":[
+            "Lowrise 1",
+            "Lowrise 3"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_0006",
+        "_response":[
+            "LR1",
+            "LR3",
+            "MR"
+        ],
+        "expected_answer":[
+            "LR1"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_0011",
+        "_response":[
+            "Wholesale Customer",
+            "Cascade Water Alliance Member",
+            "Potential New Customer"
+        ],
+        "expected_answer":[
+            "Wholesale Customer",
+            "Other"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_0032",
+        "_response":[
+            "5"
+        ],
+        "expected_answer":[
+            "6"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_0074",
+        "_response":[
+            "Corrib"
+        ],
+        "expected_answer":[
+            "Blackwater [Munster]"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_0086",
+        "_response":[
+            "National Road N.5",
+            "Dong Chrum",
+            "Extension Damnak Ampil"
+        ],
+        "expected_answer":[
+            "Svay Donkaev",
+            "Extension Dmnak Ampil"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_0168",
+        "_response":[
+            "B"
+        ],
+        "expected_answer":[
+            "A"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_1006",
+        "_response":[
+            "Bill Bezuidenhout Ave"
+        ],
+        "expected_answer":[
+            "Bloemhof Rd"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_1100",
+        "_response":[
+            "North West",
+            "T-29-A",
+            "T-29-B"
+        ],
+        "expected_answer":[
+            "T-33-C",
+            "T-29-A"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_1103",
+        "_response":[
+            "Northeast CA Klamath",
+            "Central CA Klamath",
+            "South CA Klamath"
+        ],
+        "expected_answer":[
+            "South CA Cascades Zone"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_1124",
+        "_response":[
+            "The CACO Critical Habitat areas that share a border with the CACO Localities region are SISQUOC-SAN RAFAEL CONDOR AREA, MATILIJA CONDOR AREA, SESPE-PIRU CONDOR AREA, and MT. PINOS CONDOR AREA",
+            "Of these, the SISQUOC-SAN RAFAEL CONDOR AREA contains the sonic boom level in the highest range."
+        ],
+        "expected_answer":[
+            "SESPE-PIRU CONDOR AREA"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_1133",
+        "_response":[
+            "Deal Farm",
+            "Lowry Farm"
+        ],
+        "expected_answer":[
+            "Deal Farm",
+            "Jacob Glotfelty Barn"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_1146",
+        "_response":[
+            "Willamette Valley",
+            "Oregon Coast Range",
+            "Western Washington Lowlands",
+            "Western Oregon Cascades",
+            "Oregon Klamath"
+        ],
+        "expected_answer":[
+            "Oregon Coast Range",
+            "Western Oregon Cascades",
+            "Western Washington Lowlands"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_2015",
+        "_response":[
+            "B96-2"
+        ],
+        "expected_answer":[
+            "B96-1"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_2019",
+        "_response":[
+            "Delorme, Guy Richard"
+        ],
+        "expected_answer":[
+            "Barrick Gold Inc"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_3018",
+        "_response":[
+            "None",
+            "0"
+        ],
+        "expected_answer":[
+            "10"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_4001",
+        "_response":[
+            "MC00014558",
+            "MC00014574"
+        ],
+        "expected_answer":[
+            "MC00014559"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_4010",
+        "_response":[
+            "Condesa"
+        ],
+        "expected_answer":[
+            "La Zarza"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_4022",
+        "_response":[
+            "8"
+        ],
+        "expected_answer":[
+            "4"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_5015",
+        "_response":[
+            "Colavi",
+            "Encarnacion",
+            "Huascar",
+            "North Plain",
+            "Snake Hole"
+        ],
+        "expected_answer":[
+            "Huascar"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_8002",
+        "_response":[
+            "SOQUEM",
+            "CBay"
+        ],
+        "expected_answer":[
+            "Sumitomo"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_8006",
+        "_response":[
+            "1,069,247",
+            "1,069,248"
+        ],
+        "expected_answer":[
+            "1,069,245",
+            "1,069,243"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_9007",
+        "_response":[
+            "SEV16"
+        ],
+        "expected_answer":[
+            "SEV14"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_9008",
+        "_response":[
+            "UT 31",
+            "UT 33"
+        ],
+        "expected_answer":[
+            "UT31",
+            "UT32"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_9022",
+        "_response":[
+            "500m"
+        ],
+        "expected_answer":[
+            "0.5 miles"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    },
+    {
+        "question_ref":"q_9023",
+        "_response":[
+            "BLOEMHOF 4KS"
+        ],
+        "expected_answer":[
+            "AMATAVA 41KS"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border"
+    }
+]

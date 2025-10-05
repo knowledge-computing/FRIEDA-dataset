@@ -2,7 +2,7 @@
     {
         "question_ref":"q_0001",
         "question_text":"The 23rd Ave and E Union St Rezone (Draft) classifies each area into four distinct Rezone Areas. The rezone area that includes the 'Midtown Center' and the 'Post Office' overlaps with which four streets forming its borders?",
-        "expected_answer":"23RD AVE; 24TH AVE; E PIKE ST, E SPRING ST",
+        "expected_answer":"23RD AVE; 24TH AVE; E PIKE ST; E SPRING ST",
         "image_urls":[
             "seattle-planning\/23rdAvenueUDF\/image25_m0.png"
         ],
@@ -48,7 +48,7 @@
     {
         "question_ref":"q_0003",
         "question_text":"In the neighborhood node crossed by S Jackson Street and located near Washington Middle School, there are two Current Transit stops. Which 'Central Greenway Phase 3' is located closer to these two stops?",
-        "expected_answer":"Central Greenway Phase 3: Alternative 2",
+        "expected_answer":"Central Greenway Phase 3: Alternative 1",
         "image_urls":[
             "seattle-planning\/23rdAvenueUDF\/image35_m0.png"
         ],
@@ -835,7 +835,7 @@
     },
     {
         "question_ref":"q_0077",
-        "question_text":"Sri Lanka is divided into multiple districts (e.g., Ampara). Identify the district that contains the highest number of 'Landslides occurred within May, 2003'. What is the dominant 'Elevation-FEET' range of that district? Answer with the maximum elevation range value.",
+        "question_text":"Sri Lanka is divided into multiple districts (e.g., Ampara). Identify the district that contains the highest number of 'Landslides occurred within May, 2003'. What is the dominant 'Elevation-FEET' range of that district?",
         "expected_answer":"0-2000",
         "image_urls":[
             "aiib\/environmental-and-social-management-framework-English\/image13_1.png",
@@ -2055,7 +2055,7 @@
     {
         "question_ref":"q_0132",
         "question_text":"The Ordnance Survey Ireland divides the country into counties, each labeled with either a number or a number-letter combination. Identify the county labeled '03'. Which counties border it?",
-        "expected_answer":"26; 06",
+        "expected_answer":"36; 06",
         "image_urls":[
             "ireland\/EPA_Irelands_Environment_2020\/image176_m0.png"
         ],
@@ -2171,7 +2171,7 @@
     {
         "question_ref":"q_0137",
         "question_text":"Identify the 'Protected Landscape' located near the Al Ain National Zoo. What are the 'Destination' points that are situated within this protected landscape.",
-        "expected_answer":"Green Mubazzarah; Mezyad Desert Park, Jebel Hafeet Overlook",
+        "expected_answer":"Green Mubazzarah; Mezyad Desert Park; Jebel Hafeet Overlook",
         "image_urls":[
             "abu-dhabi\/2011-HM-Urban-Design21\/image46_1.png"
         ],
@@ -2405,7 +2405,7 @@
     },
     {
         "question_ref":"q_0150",
-        "question_text":"The Aberdeen\u2013Hoquiam North Shore Levee is classified into three categories. In which category is the 'Hoquiam Police Station' located?",
+        "question_text":"The Aberdeen\u2013Hoquiam North Shore Levee Proposed Action is classified into three categories. In which category is the 'Hoquiam Police Station' located?",
         "expected_answer":"North Shore Levee (West)",
         "image_urls":[
             "FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image116_1.png",
@@ -7236,7 +7236,7 @@
     },
     {
         "question_ref":"q_2004",
-        "question_text":"How many unique assessment file reference areas intersect the boundary of the Wesley Lithium Property?",
+        "question_text":"How many assessment file reference areas intersect the boundary of the Wesley Lithium Property?",
         "expected_answer":"5",
         "image_urls":[
             "NI43-101\/C__FILINGS_Tearlach_Tearlach_TechnicalReport\/image22_4.png"
@@ -9105,7 +9105,7 @@
     },
     {
         "question_ref":"q_5023",
-        "question_text":"We will refer each divided area within El Zancudo Mining Property as concession blocks (e.g., HDWA-02). How many 'Collars El Zancudo Project' lies on the boundary between any two concession blocks?",
+        "question_text":"Each divided area within El Zancudo Mining Property are referred as concession blocks (e.g., HDWA-02). How many 'Collars El Zancudo Project' lies on the boundary between any two concession blocks?",
         "expected_answer":"5",
         "image_urls":[
             "NI43-101\/C__Upload_Denarius_2023_Apr14_Denarius_TechRep_0414\/image24_m0.png",
@@ -9405,7 +9405,7 @@
     {
         "question_ref":"q_6008",
         "question_text":"Which Lithology is Claims area 'WM\u2011506' located within at the Wind Mountain Project?",
-        "expected_answer":"Alluvial Deposits",
+        "expected_answer":"Aluvial Deposits",
         "image_urls":[
             "NI43-101\/C__SEDAR_FILINGS_BravadaTechR_TOGO_WINDMTN_PEA_20JAN23\/image31_1.png",
             "NI43-101\/C__SEDAR_FILINGS_BravadaTechR_TOGO_WINDMTN_PEA_20JAN23\/image45_1.png"
@@ -9750,7 +9750,7 @@
     {
         "question_ref":"q_6027",
         "question_text":"In the map image by Oroco, which 'Concessions' does the 'Property access' line have the second longest crossing distance?",
-        "expected_answer":"Roberto Verde 149672",
+        "expected_answer":"Roberto Verde",
         "image_urls":[
             "NI43-101\/C__SF_TECHREPORT\/image46_1.jpeg"
         ],
@@ -10312,7 +10312,7 @@
     },
     {
         "question_ref":"q_7025",
-        "question_text":"The Santander Concessions area is divided into blocks associated with unique numbers ranging from 1-72). The area is also classified under different Community and Agreement regions. What agreement is 'Block 5' under?",
+        "question_text":"The Santander Concessions area is divided into blocks associated with unique numbers ranging from 1-72. The area is also classified under different Community and Agreement regions. What agreement is 'Block 5' under?",
         "expected_answer":"Exploration Agreement-Rural Community Santa Cruz de Andamarca",
         "image_urls":[
             "NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image53_3.jpeg",
@@ -10560,7 +10560,7 @@
     {
         "question_ref":"q_8006",
         "question_text":"Roger Creek claim consists of multiple claim blocks associated with unique numbers (e.g., 1,069,255). Which two claim blocks share a boundary with Claim Block 1,069,242?",
-        "expected_answer":"1,069,245; 1,059,243",
+        "expected_answer":"1,069,245; 1,069,243",
         "image_urls":[
             "NI43-101\/C__1SEDARFilings_CascadeTechnicalPriJan24\/image29_1.png"
         ],
@@ -11116,8 +11116,6 @@
         "question_text":"Which claim block(s) and number(s) of Slick Rock Project Area does the Northern edge of DOE legacy site pass through?",
         "expected_answer":"MCT 4; MCT 6",
         "image_urls":[
-            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image10_1.png",
-            "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image26_1.jpeg",
             "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image10_1.png",
             "NI43-101\/C___docs_230404catStrategicTR_230404catStrategicTR_cwm\/image26_1.jpeg"
         ],

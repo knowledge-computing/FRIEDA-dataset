@@ -1,0 +1,200 @@
+[
+    {
+        "question_ref":"q_0002",
+        "_response":[
+            "Rezone Area 5"
+        ],
+        "expected_answer":[
+            "Rezone Area 6"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Border",
+        "gpt_response":[
+            "Rezone Area 5"
+        ],
+        "question_text":"The 23rd Ave and E Union St Rezone (Draft) classifies each area into four distinct Rezone Areas. With which Rezone Area does 'Rezone Area 4' share its westernmost boundary. Give the name of the area in form Rezone Area #.",
+        "image_urls":[
+            "seattle-planning\/23rdAvenueUDF\/image31_m0.png"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"Rezone Area 5",
+        "correct":false
+    },
+    {
+        "question_ref":"q_0021",
+        "_response":[
+            "Beacon Hill"
+        ],
+        "expected_answer":[
+            "West Duwamish Greenbelt"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "gpt_response":[
+            "Beacon Hill"
+        ],
+        "question_text":"What is the name of the 'High Sensitivity Locations' located closest to the Georgetown Industrial Lands Subareas?",
+        "image_urls":[
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image377_1.png"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"Beacon Hill",
+        "correct":false
+    },
+    {
+        "question_ref":"q_0025",
+        "_response":[
+            "D",
+            "E",
+            "D"
+        ],
+        "expected_answer":[
+            "D"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance",
+        "gpt_response":[
+            "D",
+            "E",
+            "D"
+        ],
+        "question_text":"Identify all 'Screenline's that intersect the SoDo Stadium Industrial Landas Subareas. Which of these is closest to a 'Ferry' line?",
+        "image_urls":[
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image598_1.png"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"E",
+        "correct":false
+    },
+    {
+        "question_ref":"q_0029",
+        "_response":[
+            "Battalion 4",
+            "Battalion 7"
+        ],
+        "expected_answer":[
+            "Battalion 7"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "gpt_response":[
+            "Battalion 4",
+            "Battalion 7"
+        ],
+        "question_text":"Which Fire Battalions in the City of Seattle have no hospitals within their boundaries? Provide the answer in the format 'Battalion #'.",
+        "image_urls":[
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image742_1.png"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"Battalion 4; Battalion 7",
+        "correct":false
+    },
+    {
+        "question_ref":"q_0103",
+        "_response":[
+            "3"
+        ],
+        "expected_answer":[
+            "1"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "gpt_response":[
+            "3"
+        ],
+        "question_text":"As given in the Extended Central Sketch Plan, how many \u2018Major Bus Terminals\u2019 are located inside the \u2018High Density Housing with Commercial Uses\u2019 region?",
+        "image_urls":[
+            "sg-ura\/30yrs-of-conservation\/image6_m1.png"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"3",
+        "correct":false
+    },
+    {
+        "question_ref":"q_0127",
+        "_response":[
+            "GT_2648010"
+        ],
+        "expected_answer":[
+            "GT_2650011"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "gpt_response":[
+            "GT_2648010"
+        ],
+        "question_text":"Each Plankton Sample point is labeled with a code in the format 'Q#', and each Ground Water Well point is labeled with a code in the format 'GT_#'. Which Ground Water Well point is located closest to the Plankton Sample point Q2? Give the code.",
+        "image_urls":[
+            "aiib\/Environmental-and-Social-Impact-Assessment\/image225_m0.png",
+            "aiib\/Environmental-and-Social-Impact-Assessment\/image271_1.png"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"GT_2648010",
+        "correct":false
+    },
+    {
+        "question_ref":"q_1053",
+        "_response":[
+            "Industrial Commercial"
+        ],
+        "expected_answer":[
+            "Industrial General"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "gpt_response":[
+            "Industrial Commercial"
+        ],
+        "question_text":"What type of 'Alternative 1 - No Action' is the SoDo Stadium Industrial Lands Subareas located?",
+        "image_urls":[
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image128_1.png",
+            "seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image151_1.png"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"Industrial Commercial",
+        "correct":false
+    },
+    {
+        "question_ref":"q_2030",
+        "_response":[
+            "Tahonitas"
+        ],
+        "expected_answer":[
+            "Noche Buena"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within",
+        "gpt_response":[
+            "Tahonitas"
+        ],
+        "question_text":"Which 2023 Resource Pit Crest of Los Reyes consist of the Metallurgical Test Drill Hole that is located farthest South?",
+        "image_urls":[
+            "NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image131_2.jpeg"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"Tahonitas",
+        "correct":false
+    },
+    {
+        "question_ref":"q_3009",
+        "_response":[
+            "Balan SW01"
+        ],
+        "expected_answer":[
+            "CBS"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "gpt_response":[
+            "Balan SW01"
+        ],
+        "question_text":"What is the name of the '2020 Water Sample' that is closest to the Cultural Heritage Site 'Sinkedoumba'?",
+        "image_urls":[
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image354_1.jpeg",
+            "NI43-101\/d__SEDAR_Boston_23june3585143_Tech_Report_Robex\/image358_1.jpeg"
+        ],
+        "answer_type":"textual",
+        "extracted_ans":"Balan SW01",
+        "correct":false
+    }
+]

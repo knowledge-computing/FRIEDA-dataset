@@ -1,0 +1,489 @@
+[
+    {
+        "question_ref":"q_0012",
+        "_response":[
+            "South Park",
+            "Rainier Beach"
+        ],
+        "expected_answer":[
+            "Bitter Lake Village"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0018",
+        "_response":[
+            "15"
+        ],
+        "expected_answer":[
+            "1"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0026",
+        "_response":[
+            "Chittenden Locks and Lake Washington Ship Canal"
+        ],
+        "expected_answer":[
+            "Washington Ship Canal"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0029",
+        "_response":[
+            "Battalion 4",
+            "Battalion 7"
+        ],
+        "expected_answer":[
+            "Battalion 7"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0031",
+        "_response":[
+            "Robert Eagle Staff",
+            "Eckstein",
+            "Meany",
+            "Washington",
+            "Mercer"
+        ],
+        "expected_answer":[
+            "Robert Eagle Staff",
+            "Eckstein"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0033",
+        "_response":[
+            "7"
+        ],
+        "expected_answer":[
+            "5"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0090",
+        "_response":[
+            "Nagore Durga",
+            "Thian Hock Keng Temple",
+            "Al-Abrar Mosque"
+        ],
+        "expected_answer":[
+            "Jamae Mosque",
+            "Sri Mariamman Temple"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0103",
+        "_response":[
+            "3"
+        ],
+        "expected_answer":[
+            "1"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0131",
+        "_response":[
+            "3"
+        ],
+        "expected_answer":[
+            "5"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0134",
+        "_response":[
+            "FR",
+            "PT",
+            "ES",
+            "NO"
+        ],
+        "expected_answer":[
+            "FR",
+            "NO"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0135",
+        "_response":[
+            "Group 03",
+            "Pack 05",
+            "Pack 06",
+            "Pack 07",
+            "Pack 08",
+            "Pack 09"
+        ],
+        "expected_answer":[
+            "05",
+            "07",
+            "08",
+            "09"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0142",
+        "_response":[
+            "15,001 - 30,000"
+        ],
+        "expected_answer":[
+            "More than 30,000"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0152",
+        "_response":[
+            "11",
+            "42"
+        ],
+        "expected_answer":[
+            "18",
+            "11"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0176",
+        "_response":[
+            "LabA",
+            "LctA"
+        ],
+        "expected_answer":[
+            "URLX",
+            "LetA",
+            "LabA"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0197",
+        "_response":[
+            "Superior Upland"
+        ],
+        "expected_answer":[
+            "Western Lake"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_0201",
+        "_response":[
+            "1% Annual Chance Flood Hazard"
+        ],
+        "expected_answer":[
+            "Regulatory Floodway"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1001",
+        "_response":[
+            "13"
+        ],
+        "expected_answer":[
+            "3"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1012",
+        "_response":[
+            "Dearborn Park"
+        ],
+        "expected_answer":[
+            "Mercer"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1016",
+        "_response":[
+            "5"
+        ],
+        "expected_answer":[
+            "2"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1035",
+        "_response":[
+            "1"
+        ],
+        "expected_answer":[
+            "0"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1053",
+        "_response":[
+            "Industrial Commercial"
+        ],
+        "expected_answer":[
+            "Industrial General"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1068",
+        "_response":[
+            "Ground Disturbance Area"
+        ],
+        "expected_answer":[
+            "Existing Lagoon Crossing Structure"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1095",
+        "_response":[
+            "30"
+        ],
+        "expected_answer":[
+            "60"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1119",
+        "_response":[
+            "T16",
+            "T20",
+            "T32"
+        ],
+        "expected_answer":[
+            "T16",
+            "T22",
+            "T20"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1127",
+        "_response":[
+            "2"
+        ],
+        "expected_answer":[
+            "4"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1128",
+        "_response":[
+            "NSA 7",
+            "NSA 8"
+        ],
+        "expected_answer":[
+            "NSA 7",
+            "NSA 8",
+            "NSA 10",
+            "NSA 9",
+            "NSA 11",
+            "NSA 12",
+            "NSA 13",
+            "NSA 14"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_1138",
+        "_response":[
+            "3"
+        ],
+        "expected_answer":[
+            "2"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_2022",
+        "_response":[
+            "17"
+        ],
+        "expected_answer":[
+            "11"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_2030",
+        "_response":[
+            "Tahonitas"
+        ],
+        "expected_answer":[
+            "Noche Buena"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_4016",
+        "_response":[
+            "4"
+        ],
+        "expected_answer":[
+            "0"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_5012",
+        "_response":[
+            "El Saucito",
+            "Potrerillo de los Torres",
+            "El Capule",
+            "Guadalupe de los Reyes"
+        ],
+        "expected_answer":[
+            "Guadalupe de los Reyes"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_5022",
+        "_response":[
+            "BERENGUELA 22-1"
+        ],
+        "expected_answer":[
+            "Berenguela 04-09"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_6006",
+        "_response":[
+            "2"
+        ],
+        "expected_answer":[
+            "5"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_6022",
+        "_response":[
+            "Bosque Area"
+        ],
+        "expected_answer":[
+            "Developed Area"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_6030",
+        "_response":[
+            "22"
+        ],
+        "expected_answer":[
+            "2"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_7001",
+        "_response":[
+            "2454238"
+        ],
+        "expected_answer":[
+            "2454254"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_8007",
+        "_response":[
+            "27"
+        ],
+        "expected_answer":[
+            "10"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_8017",
+        "_response":[
+            "1083649"
+        ],
+        "expected_answer":[
+            "1083728"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_8030",
+        "_response":[
+            "Dawn Dr",
+            "Kahn Dr",
+            "Tartan Rd",
+            "Vann Dr"
+        ],
+        "expected_answer":[
+            "Tartan Rd",
+            "Vann Dr",
+            "Stirling Dr"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    },
+    {
+        "question_ref":"q_9019",
+        "_response":[
+            "6"
+        ],
+        "expected_answer":[
+            "4"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Within"
+    }
+]

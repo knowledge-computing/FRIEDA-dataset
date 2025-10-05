@@ -258,14 +258,14 @@ def main(model_name:str,
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Cartographical Reasoning Test')
 
-    parser.add_argument('--model', '-m', default='Qwen/Qwen2.5-VL-72B-Instruct',
+    parser.add_argument('--model', '-m', default='AIDC-AI/Ovis2.5-9B',
                         help='Model name/type')
 
-    parser.add_argument('--questions', '-q', required=True, 
-                        help='Path to questions JSON file')
+    # parser.add_argument('--questions', '-q', required=True, 
+    #                     help='Path to questions JSON file')
 
-    parser.add_argument('--images', '-im', required=True, type=str,
-                        help="Directory/link to reporsitory containing images")
+    # parser.add_argument('--images', '-im', required=True, type=str,
+    #                     help="Directory/link to reporsitory containing images")
         
     parser.add_argument('--distractor', '-d', action="store_true", 
                         help='Use distractor images')
@@ -282,7 +282,7 @@ if __name__ == '__main__':
     parser.add_argument('--thinking', action="store_true",
                         help="Allow reasoning capability")
     
-    parser.add_argument('--batch_size', default=1,
+    parser.add_argument('--batch_size', type=int, default=1,
                         help="Batch size. Default is 1.")
     
     parser.add_argument('--max_images', '-max', type=int, default=20,
@@ -290,24 +290,24 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
     
-    main(model=args.model,
-         question_path=args.questions,
-         image_folder=args.images,
-         bool_distractor=args.distractor,
-         output_dir=args.output_dir,
-         cache_dir=args.cache_dir,
-         use_flash=args.flash,
-         allow_thinking=args.thinking,
-         batch_size=args.batch_size,
-         img_limit=args.max_images)
+    # main(model_name=args.model,
+    #      question_path=args.questions,
+    #      image_folder=args.images,
+    #      bool_distractor=args.distractor,
+    #      output_dir=args.output_dir,
+    #      cache_dir=args.cache_dir,
+    #      use_flash=args.flash,
+    #      allow_thinking=args.thinking,
+    #      batch_size=args.batch_size,
+    #      img_limit=args.max_images)
 
-    # main(model_name='AIDC-AI/Ovis2.5-2B',
-    #     question_path='./p2/carto-reasoning/questions/benchmark_data/response_mini.json',
-    #     image_folder='https://media.githubusercontent.com/media/YOO-uN-ee/carto-image/main/',
-    #     bool_distractor=False,
-    #     output_dir='./',
-    #     cache_dir='./',
-    #     use_flash=True,
-    #     allow_thinking=True,
-    #     batch_size=1,
-    #     img_limit=args.max_images)
+    main(model_name='AIDC-AI/Ovis2.5-2B',
+        question_path='/projects/standard/yaoyi/pyo00005/p2/carto-reasoning/cartoreasoning/responses/response_mini.json',
+        image_folder='/projects/standard/yaoyi/pyo00005/p2/carto-image',
+        bool_distractor=False,
+        output_dir='./',
+        cache_dir='./',
+        use_flash=True,
+        allow_thinking=True,
+        batch_size=args.batch_size,
+        img_limit=args.max_images)

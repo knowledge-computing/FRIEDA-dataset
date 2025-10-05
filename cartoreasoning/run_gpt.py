@@ -155,9 +155,9 @@ def gemini_async(model,
 
 model = 'gpt-5'
 dict_im_data = {}
-question_path = '/home/yaoyi/pyo00005/carto-reasoning/cartoreasoning/batch_files/carto_gen_remain.json'
+question_path = '/home/yaoyi/pyo00005/carto-reasoning/questions/response_full_d10.json'
 image_folder = 'https://media.githubusercontent.com/media/YOO-uN-ee/carto-image/main/'
-bool_distractor = False
+bool_distractor = True
 cache_dir = '/home/yaoyi/pyo00005/carto-reasoning/cartoreasoning/batch_files/jsonized'
 
 with open(question_path, 'r') as file:

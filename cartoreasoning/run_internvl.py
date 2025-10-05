@@ -18,19 +18,29 @@ torch.cuda.empty_cache()
 torch.cuda.reset_peak_memory_stats()
 
 max_memory = {
-    0: "40GB",
-    1: "40GB",
-    2: "40GB",
-    3: "40GB",
+    0: "46GB",
+    1: "46GB",
+    2: "46GB",
+    3: "46GB",
     # 4: "40GB",
     # 5: "40GB",
     # 6: "40GB",
     # 7: "40GB",
-    "cpu": "100GB"   # fallback for layers that don't fit
+    # "cpu": "100GB"   # fallback for layers that don't fit
 }
 
 with open('./instruction.pkl', 'rb') as handle:
     instructions = pickle.load(handle)
+
+R1_SYSTEM_PROMPT = """
+You are an AI assistant that rigorously follows this response protocol:
+
+1. First, conduct a detailed analysis of the question. Consider different angles, potential solutions, and reason through the problem step-by-step. Enclose this entire thinking process within <think> and </think> tags.
+
+2. After the thinking section, provide a clear, concise, and direct answer to the user's question. Separate the answer from the think section with a newline.
+
+Ensure that the thinking process is thorough but remains focused on the query. The final answer should be standalone and not reference the thinking section.
+""".strip()
 
 def check_exist(path_dir, bool_create=True):
     if os.path.exists(path_dir):
@@ -121,7 +131,8 @@ def respond_q(model,
               processor,
               dict_im_data:Dict[str, str],
               input_struct:List[dict],
-              img_limit:int):
+              img_limit:int,
+              allow_thinking:bool):
 
     messages = []
     for i in input_struct:
@@ -152,7 +163,12 @@ def respond_q(model,
     ).to(model.device, torch.float16)
 
     with torch.inference_mode():
-        generate_ids = model.generate(**inputs, max_new_tokens=512, do_sample=False, use_cache=True)
+        if allow_thinking:
+            model.system_message = R1_SYSTEM_PROMPT
+            generate_ids = model.generate(**inputs, max_new_tokens=2048, do_sample=True, temperature=0.6)
+
+        else:
+            generate_ids = model.generate(**inputs, max_new_tokens=512, do_sample=False, use_cache=True)
 
     output_texts = processor.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)
     list_output = []
@@ -174,8 +190,12 @@ def main(model_name:str,
          output_dir:str,
          cache_dir:str,
          use_flash:bool,
+         allow_thinking:bool,
          batch_size:int,
          img_limit:int):
+    
+    param_size = model_name
+    model_name = f"OpenGVLab/InternVL3_5-{param_size}-HF"
     
     # Create directory paths
     check_exist(output_dir)
@@ -187,8 +207,8 @@ def main(model_name:str,
         data = json.load(file)
     
     # Uploading all images to path storage
-    if check_exist(cache_file, bool_create=False) == -1:
-    # if True:
+    # if check_exist(cache_file, bool_create=False) == -1:
+    if True:
         all_images = []
         for d in data:
             all_images.extend(d['image_urls'])
@@ -218,9 +238,9 @@ def main(model_name:str,
     pl_answered = pl.DataFrame()
 
     if bool_distractor:
-        response_cache = os.path.join(cache_dir, 'response_cache_w_distractor.pkl')
+        response_cache = os.path.join(cache_dir, f'response_cache-{param_size}_w_distractor.pkl')
     else:
-        response_cache = os.path.join(cache_dir, 'response_cache_wo_distractor.pkl')
+        response_cache = os.path.join(cache_dir, f'response_cache-{param_size}_wo_distractor.pkl')
         
     if check_exist(response_cache, bool_create=False) == 1: 
         with open(response_cache, 'rb') as handle:
@@ -240,7 +260,8 @@ def main(model_name:str,
         list_output = respond_q(model=model, processor=processor,
                                 input_struct=list_input,
                                 dict_im_data=dict_im_data,
-                                img_limit=img_limit)
+                                img_limit=img_limit,
+                                allow_thinking=allow_thinking)
         
         chunk = chunk.with_columns(
             pl.col('q_answered').replace({False: True}),
@@ -262,9 +283,9 @@ def main(model_name:str,
     pd_answered = pl_answered.to_pandas()
 
     if bool_distractor:
-        new_file_name = os.path.join(output_dir, 'internvl_w_contextual.json')
+        new_file_name = os.path.join(output_dir, f'internvl_w-{param_size}_contextual.json')
     else:
-        new_file_name = os.path.join(output_dir, 'internvl_wo_contextual.json')
+        new_file_name = os.path.join(output_dir, f'internvl_wo-{param_size}_contextual.json')
         
     pd_answered.to_json(new_file_name, orient='records', indent=4)
 
@@ -278,8 +299,11 @@ if __name__ == '__main__':
     parser.add_argument('--model', '-m', default='OpenGVLab/InternVL3_5-38B-HF',
                         help='Model name/type')
 
-    # parser.add_argument('--questions', '-q', default='/home/yaoyi/pyo00005/carto-reasoning/questions/response_full_d10.json', 
-    #                     help='Path to questions JSON file')
+    parser.add_argument('--param', '-p', required=True,
+                        help='Model param FOR TESTING PURPOSE ONLY')
+
+    parser.add_argument('--questions', '-q', default='/home/yaoyi/pyo00005/p2/carto-reasoning/questions/response_full_d10.json', 
+                        help='Path to questions JSON file')
 
     # parser.add_argument('--images', '-im', default='/home/yaoyi/pyo00005/p2/carto-image',
     #                     help="Directory/link to reporsitory containing images")
@@ -295,6 +319,9 @@ if __name__ == '__main__':
     
     # parser.add_argument('--flash', action="store_true",
     #                     help="Use flash attention")
+
+    parser.add_argument('--thinking', action="store_true",
+                        help="Allow reasoning capability")
     
     parser.add_argument('--batch_size', type=int, default=12,
                         help="Batch size. Default is 1.")
@@ -314,12 +341,13 @@ if __name__ == '__main__':
     #      batch_size=args.batch_size,
     #      img_limit=args.max_images)
 
-    main(model_name=args.model,
-        question_path='/home/yaoyi/pyo00005/carto-reasoning/questions/response_full_d10.json',
-        image_folder='/home/yaoyi/pyo00005/p2/carto-image/',
+    main(model_name=args.param,
+        question_path=args.questions,
+        image_folder='/home/yaoyi/pyo00005/p2/carto-image',
         bool_distractor=args.distractor,
         output_dir=args.output_dir,
         cache_dir=args.cache_dir,
         use_flash=True,
+        allow_thinking=args.thinking,
         batch_size=args.batch_size,
         img_limit=20)

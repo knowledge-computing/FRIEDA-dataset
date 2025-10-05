@@ -1,0 +1,1645 @@
+[
+    {
+        "question_ref":"q_0009",
+        "_response":[
+            "Single Family",
+            "Multi-Family",
+            "Commercial\/Mixed-Use",
+            "Parks\/Open Space\/Cemeteries"
+        ],
+        "question_text":"Identify the 'Level of Service Screenline' labeled as 6.12 in 2004 City of Seattle. Which Existing Land Use categories (in 2016 City of Seattle) does this line intersects with?",
+        "expected_answer":[
+            "Single Family",
+            "Major Institution And Public Facilities\/Utilities"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/CouncilAdopted2020\/image436_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/CouncilAdopted2020\/image459_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0030",
+        "_response":[
+            "G3"
+        ],
+        "question_text":"Identify the 'Seattle Public Libraries' point located closest to the eastern boundary of the 'SoDO Stadium' Industrials Lands Subarea. In which 'Police Beat' is it located.",
+        "expected_answer":[
+            "R1"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image751_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image760_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0073",
+        "_response":[
+            "Switchgear"
+        ],
+        "question_text":"Locate the 'Rafia Clump' Tree Losses point in the ARIA Seychelles site map. What is the name of the room situated directly to the south of this point?",
+        "expected_answer":[
+            "Grand Ball Room"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-ARIA-Eco-Sol-11.07.25\/image8_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-ARIA-Eco-Sol-11.07.25\/image72_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0087",
+        "_response":[
+            "8"
+        ],
+        "question_text":"In the New Construction Plan, each building is labeled with a number, and multiple buildings may share the same number. How many buildings are within the 'Story Hotel Under Construction' area in Phase 2\/3 Construction?",
+        "expected_answer":[
+            "12"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-FC-and-SS-Redevelopment-_-Vol-1_FINAL-1\/image47_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-FC-and-SS-Redevelopment-_-Vol-1_FINAL-1\/image14_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0091",
+        "_response":[
+            "Open Water"
+        ],
+        "question_text":"Identify the 'Mixed Woodland' region in the 'Fisherman\u2019s Cove \/ H Resort' area. Which legend label does this area correspond to in the 'H Resort' area?",
+        "expected_answer":[
+            "Riparian Woodland"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-FC-and-SS-Redevelopment-_-Vol-1_FINAL-1\/image77_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-FC-and-SS-Redevelopment-_-Vol-1_FINAL-1\/image78_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0092",
+        "_response":[
+            "Low River Flooding"
+        ],
+        "question_text":"Every 'Tower' point within the project location proposed by EQMS is associated with a code in the form 'TT-{NUMBER}'. Which 'Flood Prone Zone' is the tower point labeled 'TT-1\/1' located?",
+        "expected_answer":[
+            "Not Flood Prone"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/Environmental-and-Social-Impact-Assessment\/image234_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/Environmental-and-Social-Impact-Assessment\/image155_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0101",
+        "_response":[
+            "Intensive Agriculture Sector"
+        ],
+        "question_text":"According to Ordnance Survey Ireland, locate the 'Ballymagroarty' point from the 'Remedial Action List of Public Water Supplies (July 2020)'. Which category from the 'Licensed Sites by Sector (September 2020)' is most prevalent in the area containing this point?",
+        "expected_answer":[
+            "Food & Drink Sector"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/ireland\/EPA_Irelands_Environment_2020\/image359_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/ireland\/EPA_Irelands_Environment_2020\/image262_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0109",
+        "_response":[
+            "7",
+            "7A"
+        ],
+        "question_text":"Each 'Quarries' are labled with a unit code that consists of either a number or a number-alphabet combination. Within the 1000m Area of Influence between Sorbulak Station and Moyiunkum Station, there are 5 Quarries. Identify which of these Quarries touch the Almaty Railway Bypass. Give their unit codes.",
+        "expected_answer":[
+            "6",
+            "7A",
+            "8",
+            "9"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/2.-Supplementary-ESIA_23042025-EN\/image97_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/2.-Supplementary-ESIA_23042025-EN\/image116_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0111",
+        "_response":[
+            "Grey Piedmont soils",
+            "Middle and lower Meghna river floodplain soils"
+        ],
+        "question_text":"All Surface Water Sampling Locations are associated with a unique code in the format 'SW #'. Which two Soil Categories form the boundary where the two Surface Water Sampling locations lie?",
+        "expected_answer":[
+            "Jamuna,Karatoya-Bengali and Lakhya floodplain",
+            "Madhupur Soils"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/Environmental-and-Social-Impact-Assessment\/image246_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/Environmental-and-Social-Impact-Assessment\/image219_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0122",
+        "_response":[
+            "Grassland - Garden",
+            "Hedge - Exotic",
+            "Hedge - Ornamental",
+            "Mainly Native Hedge",
+            "Mainly Native Woodland"
+        ],
+        "question_text":"The Fisherman's Cove \/ H Resort area is divided into 9 Vegetation-Habitat regions. Under the Phase 1\/3 Demolition, which Vegetation-Habitat regions fall within the demolition boundary?",
+        "expected_answer":[
+            "Hedge - Exotic",
+            "Ornamental Garden",
+            "Mixed Woodland"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-FC-and-SS-Redevelopment-_-Vol-1_FINAL-1\/image18_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seychelles\/ESIA-Report-FC-and-SS-Redevelopment-_-Vol-1_FINAL-1\/image13_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0133",
+        "_response":[
+            "Indochinese Silvered Langur",
+            "Long-tailed Macaque",
+            "Siamese Tiger Perch",
+            "Striped catfish",
+            "Siamese Tiger Perch"
+        ],
+        "question_text":"Identify the two types of 'Mammal Species at OTP' and the two types of 'Fish Species at OTP'. Which species has the greatest number of points within the 'Out Ta Paong - OPT Canal' boundary? Answer with the specific species name.",
+        "expected_answer":[
+            "Siamese Tiger Perch"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/CAM_P000452_ESCMP_Outapong_Irrigation_System_Subproject\/image176_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/aiib\/CAM_P000452_ESCMP_Outapong_Irrigation_System_Subproject\/image177_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0140",
+        "_response":[
+            "Staging",
+            "Borrow",
+            "Project"
+        ],
+        "question_text":"The Lake Lery Marsh Creation and Rim Restoration Phase III divides the Project Area into three categories, each named in the form of '{NAME} Area'. Which categories correspond to the Site Outline shown in Lake Lery Phase III? Provide only the NAME portion.",
+        "expected_answer":[
+            "Borrow",
+            "Project"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_ehp-emt-2020-fm-053-0007-la-lakelery-sdea-20240702\/image8_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_ehp-emt-2020-fm-053-0007-la-lakelery-sdea-20240702\/image113_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0144",
+        "_response":[
+            "Temporary Impact Area",
+            "Permanent Impact Area",
+            "Estimated Wetlands"
+        ],
+        "question_text":"Areas of North Shore Levee West are classified either as one of the four Areas (categories ending with 'Area') or as one of the two Wetlands (categories ending with 'Wetlands'). Within Area 12, which three Areas or Wetlands border the 'Re-Pavement Area'?",
+        "expected_answer":[
+            "Delineated Wetlands",
+            "Temporary Impact Area",
+            "Permanent Impact Area"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image164_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image149_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0156",
+        "_response":[
+            "Staging\/Laydown Area"
+        ],
+        "question_text":"Within Area 11 of North Shore Levee West, there are three classified area for the Elements of Proposed Action. For which of these areas does the 'Roadway' serve as a boundary? Answer with the word including 'Area'.",
+        "expected_answer":[
+            "Re-Pavement Area"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image147_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image162_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0164",
+        "_response":[
+            "Meadow Branch"
+        ],
+        "question_text":"The Lumberton Loop Project Area consists of multiple components named in the format '{NAME} Component'. Which of these components intersect with the Natural Surface Trail? Provide only the names, excluding the word 'Component'.",
+        "expected_answer":[
+            "Meadow Branch",
+            "Walnut Street"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image11_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMA-2020-BR-100-0009-NC-LumbertonLoop-DEA-2024614\/image15_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0165",
+        "_response":[
+            "EARTHEN CONTAINMENT DIKE WITH GAPS"
+        ],
+        "question_text":"The 'Perimeter Line ~ 16.984'' in Lake Lery Phase III corresponds to which line bordering the Marsh Creation Area (MCA) as indicated in the legend?",
+        "expected_answer":[
+            "EARTHEN CONTAINMENT DIKE BORROW AREA (ECD-BA)"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_ehp-emt-2020-fm-053-0007-la-lakelery-sdea-20240702\/image114_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_ehp-emt-2020-fm-053-0007-la-lakelery-sdea-20240702\/image118_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0174",
+        "_response":[
+            "Zone AE - 1% Annual Chance Flood Hazard",
+            "Zone AE - Regulatory Floodway"
+        ],
+        "question_text":"In the Hancock County Flood Risk Reduction Project, which Flood Hazard type does the PROP MAJOR 5\" CONTOUR cross?",
+        "expected_answer":[
+            "Zone AE - Regulatory Floodway"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_oehp_hancock-county-flood-risk-reduction-program_050925\/image30_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_oehp_hancock-county-flood-risk-reduction-program_050925\/image123_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0183",
+        "_response":[
+            "jackson",
+            "north west"
+        ],
+        "question_text":"Identify the county in which the area labeled 'Centrol Point' is located. What is the orientation of 'Centrol Point' in relation to the Known Wolf Use Area that intersects this county?",
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south west",
+            "west"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/HMGP-DR-4562-24-OR-MedfordHazFuels-FEA-SignedFONSI-20250729\/image164_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/HMGP-DR-4562-24-OR-MedfordHazFuels-FEA-SignedFONSI-20250729\/image167_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0187",
+        "_response":[
+            "4.12",
+            "4.13",
+            "5.12",
+            "5.13",
+            "7.11",
+            "9.11",
+            "9.12",
+            "10.11"
+        ],
+        "question_text":"Every 'Screenline' in the City of Seattle is associated with a unique ID in the format {NUMBER}.{NUMBER}. Which screenlines intersect with State Routes\/Freeways?",
+        "expected_answer":[
+            "8",
+            "10.11",
+            "9.12",
+            "4.13"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image570_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/IndustrialMaritimeStrategyFinalEIS\/image578_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0200",
+        "_response":[
+            "70615"
+        ],
+        "question_text":"Identify the 'Water Tank' point within the Search Buffer of Corbina Rd Tract. What is the ZIP code of the region where the Water Tank point is located?",
+        "expected_answer":[
+            "70607"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_dr-4559-st-louis-hs-appendix\/image235_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_dr-4559-st-louis-hs-appendix\/image247_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_0202",
+        "_response":[
+            "0"
+        ],
+        "question_text":"Within Area 6 of North Shore Levee West, how many \u2018Closure Structures\u2019 are located in the \u2018Vegetation Conversion Area\u2019?",
+        "expected_answer":[
+            "3"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image142_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/BRIC-EMS-2020-BR-102-0002_WA-NorthShoreLeveeWest-DEA-20241126\/image157_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1002",
+        "_response":[
+            "WOODSTOCK"
+        ],
+        "question_text":"In Cape Town, near District Six LSDF, what is the name of the area that the easternmost (and also the longest) GREEN LINKAGE intersects?",
+        "expected_answer":[
+            "4. GREEN NETWORK TRAFALAGAR PARK + ZONNEBLOEM SCHOOLS"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/District_Six_LSDF\/image54_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/District_Six_LSDF\/image60_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1004",
+        "_response":[
+            "None"
+        ],
+        "question_text":"What type of Targeting Agricultural Measures WFD 2nd Cycle Significant Pressures exists in Northern Ireland?",
+        "expected_answer":[
+            "WFD Catchments"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/ireland\/EPA_Irelands_Environment_2020\/image339_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/ireland\/EPA_Irelands_Environment_2020\/image368_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1005",
+        "_response":[
+            "High Order Mobility Route",
+            "New Hanover Street",
+            "Secondary Streets (15 - 20M)"
+        ],
+        "question_text":"In Cape Town, what type of MOBILITY intersects with Pausing Spaces Along Streets in both Area 4 and Area 5?",
+        "expected_answer":[
+            "URBAN MOTORWAY"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/District_Six_LSDF\/image114_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/District_Six_LSDF\/image117_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1017",
+        "_response":[
+            "Yosemite (I-2751)"
+        ],
+        "question_text":"In the vicinity of Yosemite National Park, which quadrangles does the northernmost segment of CA-41 Highway (north of the city of Oakhurst) intersect with?",
+        "expected_answer":[
+            "Yosemite",
+            "Bass Lake"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/659668\/image1_m1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/659668\/image1_m32.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1019",
+        "_response":[
+            "Tower Junction"
+        ],
+        "question_text":"Which 15-Minute Quadrangle surrounding Yellowstone National Park are the heavy line segments of the Heart Mountain Fault located in?",
+        "expected_answer":[
+            "PILOT PEAK"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/642208\/image1_m49.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/642208\/image1_m54.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1022",
+        "_response":[
+            "Kmf",
+            "Kch",
+            "OLDER MESOZOIC ROCKS",
+            "YOUNGER CRETACEOUS AND TERTIARY ROCKS"
+        ],
+        "question_text":"What are the Rocks areas covered by the Published geologic maps by O'Sullivan and Beikman near La Vida Mission quadrangle?",
+        "expected_answer":[
+            "OLDER MESOZOIC ROCKS",
+            "YOUNGER CRETACEOUS AND TERTIARY ROCKS"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/732920\/image1_m122.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/732920\/image1_m123.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1034",
+        "_response":[
+            "CENTRAL BASIN"
+        ],
+        "question_text":"What is the structural element of the San Juan Basin where the source map 3 'Kirk and Condon, 1989' is fully located?",
+        "expected_answer":[
+            "CHACO SLOPE"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/732920\/image1_m104.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/732920\/image1_m124.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1041",
+        "_response":[
+            "2"
+        ],
+        "question_text":"In proposed lid area, how many Closed Highway Ramps have their centers not located within the Green Space?",
+        "expected_answer":[
+            "1"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/507SeattleStudio_Web\/image49_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/507SeattleStudio_Web\/image50_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1042",
+        "_response":[
+            "RUSSELL STREET"
+        ],
+        "question_text":"In Cape Town, on which street do Area 2 and Area 3 border each other near District Six LSDF?",
+        "expected_answer":[
+            "CONSTITUTION STREET"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/District_Six_LSDF\/image108_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/District_Six_LSDF\/image111_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1045",
+        "_response":[
+            "Urban"
+        ],
+        "question_text":"What Great Soil Group of Ireland is GALWAY CITY COUNCIL located in?",
+        "expected_answer":[
+            "Shallow brown earths"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image45_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/ireland\/State-of-the-environment-in-Ireland-2004-reduced\/image100_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1046",
+        "_response":[
+            "V5979",
+            "150 bays",
+            "180",
+            "400-700 bays",
+            "V4431"
+        ],
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what are the Parking Management & Public Transport Plan areas that border the Landscaped Sport Recreation Area?",
+        "expected_answer":[
+            "3979",
+            "150 bays",
+            "4431"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/Elsieskraal River Valley Development Framework, 1998\/image96_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/Elsieskraal River Valley Development Framework, 1998\/image99_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1055",
+        "_response":[
+            "Light-colored, acid loamy sands and sandy loams"
+        ],
+        "question_text":"What type of soil area contains the largest area of coal (surface)?",
+        "expected_answer":[
+            "H"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/707314\/image1_m27.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/707314\/image1_m26.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1058",
+        "_response":[
+            "Activity Route",
+            "Connector Route",
+            "Development Route",
+            "Proposed Connector Route",
+            "Proposed Development Route",
+            "Proposed Railway Line",
+            "Proposed Urban Freeway",
+            "Urban Freeway"
+        ],
+        "question_text":"What types of routes intersect the 'Address Spatial Economic Imbalances through Area Based Interventions' area in northwestern Cape Town?",
+        "expected_answer":[
+            "Proposed Railway Line",
+            "Prioritised Railway Line",
+            "IRT Trunk Route (Phase 1A)",
+            "Connector Route"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/Annexure B - Cape Town Spatial Development Framework\/image48_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/Annexure B - Cape Town Spatial Development Framework\/image49_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1060",
+        "_response":[
+            "Seven Lakes NE",
+            "Seven Lakes SE",
+            "Whitehorse, NM"
+        ],
+        "question_text":"Surrounding the Chaco Culture National Historical Park, which quadrangles are intersected by the 'Escadava Wash'?",
+        "expected_answer":[
+            "Kin Klizhin Ruins",
+            "Pueblo Bonito",
+            "Sargent Ranch",
+            "Fire Rock Well"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/732920\/image1_m2.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/732920\/image1_m118.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1070",
+        "_response":[
+            "north east"
+        ],
+        "question_text":"In the Hurricane Harvey\u2013affected areas, what is the direction of 'League City' within 'Galveston County' relative to the '0000 UTC Pos\/Date' point labeled '2'?",
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south west",
+            "west"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/mat-report_hurricane-harvey-texas\/image39_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/mat-report_hurricane-harvey-texas\/image0_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1076",
+        "_response":[
+            "Manor Street"
+        ],
+        "question_text":"Near ELSIESKRAAL RIVER VALLEY, what is the road name where Oakdale and PP Smit Sports Grounds border each other?",
+        "expected_answer":[
+            "Bloemhof street"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/Elsieskraal River Valley Development Framework, 1998\/image44_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/capetown\/Elsieskraal River Valley Development Framework, 1998\/image46_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1092",
+        "_response":[
+            "Kuntz, M.A., unpublished mapping, 1977, 1992, 2002.",
+            "Kuntz and others (1988)",
+            "Kuntz and others (1990)",
+            "Kuntz and others (1989a)",
+            "Kuntz and others (1989b)"
+        ],
+        "question_text":"Which quadrangles border the quadrangle area where the Sources of Geologic Mapping is 'Champion and others (1989)'?",
+        "expected_answer":[
+            "Inferno Cone",
+            "Fissure Butte"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/711316\/image1_m1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/national-parks\/711316\/image1_m5.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1096",
+        "_response":[
+            "EdA",
+            "CAB",
+            "MKC",
+            "PrB"
+        ],
+        "question_text":"Identify the 'Soil Unit (USDA)' area that contains the 'Property with Environmental Listing' point named 'W.C. Rabb, Historical Landfill'. What types of 'Soil Unit (USDA)' border the identified area?",
+        "expected_answer":[
+            "CoB",
+            "PrB",
+            "MKC"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Green Eagle Railroad FEIS Volume II- Appendices\/image293_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Green Eagle Railroad FEIS Volume II- Appendices\/image291_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1099",
+        "_response":[
+            "TA B3"
+        ],
+        "question_text":"The Military Lease Area in Tinian is divided into multiple 'Proposed Training Areas' (coded with a 'TA' prefix). Which Proposed Training Area is the 'Explosives Training Range' located in?",
+        "expected_answer":[
+            "TA B2"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/1_CJMT_RDEIS_ExecSum-Ch1-PurposeNeed-Ch2-Alternatives\/image9_m0.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/1_CJMT_RDEIS_ExecSum-Ch1-PurposeNeed-Ch2-Alternatives\/image38_m0.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1101",
+        "_response":[
+            "06-V-01",
+            "06-V-02"
+        ],
+        "question_text":"All 'Connecticut River Stations' are associated with a unique code in the form '06-{ALPHABET}-{NUMBER\/ALPHABET}'. What are the two 'Connecticut River Stations' located closest to the 'Vernon Dam'?",
+        "expected_answer":[
+            "06-V-01",
+            "06-V-TR"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/P-2485-071etc_NorthfieldMtn_TurnersFallsDEIS_Appendices\/image12_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/P-2485-071etc_NorthfieldMtn_TurnersFallsDEIS_Appendices\/image19_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1106",
+        "_response":[
+            "Low (< 1,970,430)"
+        ],
+        "question_text":"Identify the area classified as 'Low' in the 'Commute to Work by Public Transit' index that contains the Proposed Station 'Audubon Town Center'. What are the 'Transit Dependency Index' values for this area?",
+        "expected_answer":[
+            "Low",
+            "Medium",
+            "High"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/MetroTransitExpansion_Appendix A1_Purpose and Need\/image16_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/MetroTransitExpansion_Appendix A1_Purpose and Need\/image18_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1116",
+        "_response":[
+            "Vandenberg AFB",
+            "Shuman Creek",
+            "San Antonio Creek",
+            "Santa Ynez River",
+            "Bear Creek",
+            "Honda Creek",
+            "Jalama Creek"
+        ],
+        "question_text":"Identify the 'Cultural Resources Study Area' in which the 'SLC-6 Launch Site' is located. Which bodies of water, excluding the Pacific Ocean, cross through the identified area?",
+        "expected_answer":[
+            "Santa Ynez River",
+            "Bear Creek",
+            "Honda Creek",
+            "Jalama Creek"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image73_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/VSFB_Falcon_Launch_Draft_EIS_May_2025_Appendices_Volume1\/image43_m0.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1120",
+        "_response":[
+            "north east"
+        ],
+        "question_text":"Identify the 'New CJMT Road' that intersects with '8th Ave', and then the 'Repurposed Existing Communication Tower' closest to this road. What is the orientation of this tower relative to 'AHA 2'?",
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south east",
+            "southeast",
+            "south west"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/1_CJMT_RDEIS_ExecSum-Ch1-PurposeNeed-Ch2-Alternatives\/image65_m0.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/1_CJMT_RDEIS_ExecSum-Ch1-PurposeNeed-Ch2-Alternatives\/image57_m0.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation",
+        "answer_type":"cardinal",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1121",
+        "_response":[
+            "CRW Reserve",
+            "MRW Reserve"
+        ],
+        "question_text":"Identify the northernmost 'Activity Center' within the 'HCP Permit Area' of Elliott State Forest. In which two 'Allocation Area's is this point located?",
+        "expected_answer":[
+            "CRW Reserve",
+            "CRW RCA"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Final EIS for the Elliott State Research Forest HCP\/image50_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Final EIS for the Elliott State Research Forest HCP\/image55_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1123",
+        "_response":[
+            "Tinian Elementary School",
+            "Old West Field"
+        ],
+        "question_text":"In Tinian, each 'Noise Sensitive Receptor' is assigned a unique code in the format {Letter}{Number} and has an associated name (e.g., code 'T1' corresponds to 'Tinian High School'). What are the names of the two Noise Sensitive Receptors intersected by the 'Primary Utility Corridor'?",
+        "expected_answer":[
+            "North Field National Historic Landmark",
+            "Unai Babui"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Appendices A through L_CJMT_RDEIS\/image277_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Appendices A through L_CJMT_RDEIS\/image150_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1125",
+        "_response":[
+            "Other Scrub\/Grassland"
+        ],
+        "question_text":"Within the Tinian Military Lease Area, identify the 30 ft Transects Terrestrial Survey Area located between 'Runway Able' and 'Runway Charlie'. What is the dominant 'Vegetation Type' in this area?",
+        "expected_answer":[
+            "Leucaena Forest"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Appendices A through L_CJMT_RDEIS\/image147_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Appendices A through L_CJMT_RDEIS\/image148_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1130",
+        "_response":[
+            "LOON LAKE MILL CREEK",
+            "WEST FORK MILLICOMA RIVER"
+        ],
+        "question_text":"Every 'Study Area Subwatershed' is labeled (e.g., GLENN CREEK). Within the HCP Permit Area, identify the inner hole that lies along the boundary between Douglas County and Coos County. Which two 'Study Area Subwatersheds' are touched by this inner hole?",
+        "expected_answer":[
+            "WEST FORK MILLICOMA RIVER",
+            "DEAN CREEK UMPQUA RIVER"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Final EIS for the Elliott State Research Forest HCP\/image54_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Final EIS for the Elliott State Research Forest HCP\/image90_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1142",
+        "_response":[
+            "0.00-3.00"
+        ],
+        "question_text":"Identify the 'Federal Opportunity Zone' within the Meyersdale Transportation 'Study Area'. What is the 'Minority Population Percentage by Block Group (2020 Decennial Data)' for this region? Provide the answer in the exact range format ({number}-{number}) without the percentage (%) symbol.",
+        "expected_answer":[
+            "3.01-6.00"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Vol-3-FEISAppendixA-M-May-2025\/image770_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Vol-3-FEISAppendixA-M-May-2025\/image781_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1145",
+        "_response":[
+            "2"
+        ],
+        "question_text":"'Surface Radar Sites' are labeled in the format 'Surface Radar Site #'. How many of these sites are located within the Composite SDZ boundary?",
+        "expected_answer":[
+            "1"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/1_CJMT_RDEIS_ExecSum-Ch1-PurposeNeed-Ch2-Alternatives\/image50_m0.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/1_CJMT_RDEIS_ExecSum-Ch1-PurposeNeed-Ch2-Alternatives\/image55_m0.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1149",
+        "_response":[
+            "17",
+            "18",
+            "19",
+            "32"
+        ],
+        "question_text":"Identify the study area under 'Maryland Census Tract 3' 'Census Block Groups' 1. What are the numbers of the 'Waste Sites' located within this region?",
+        "expected_answer":[
+            "19",
+            "30",
+            "23",
+            "33"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Vol-3-FEISAppendixA-M-May-2025\/image220_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Vol-3-FEISAppendixA-M-May-2025\/image227_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1151",
+        "_response":[
+            "Lesseps St",
+            "4422-30 Burgundy Street"
+        ],
+        "question_text":"Identify the boundary between the 'Proposed Expansion of the Bywater Historic District' and the 'Bywater Historic District'. Among the 'Newly Recorded Historic Structures' located within the 'Bywater Historic District', which structure is farthest from this boundary?",
+        "expected_answer":[
+            "4548 North Rampart Street"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Annex 4 - NHPA Section 106 May 2025\/image202_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Annex 4 - NHPA Section 106 May 2025\/image241_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_1157",
+        "_response":[
+            "Pina-1"
+        ],
+        "question_text":"In Tinian, each 'Heritiera longipetiolata' species observation area is associated with a name (e.g., Pina-10). Which observation area is located closest to the Noise Sensitive Receptor labeled 'T15'?",
+        "expected_answer":[
+            "Masalok-1"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Appendices A through L_CJMT_RDEIS\/image162_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/EIS\/Appendices A through L_CJMT_RDEIS\/image280_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_2002",
+        "_response":[
+            "BM-689"
+        ],
+        "question_text":"Which mining tile(s) of Agnico Eagle LaRonde Property shares border with the mining tile consisting LZ5 Portal?",
+        "expected_answer":[
+            "2579161",
+            "2579162",
+            "2579163",
+            "2579164",
+            "BM-698"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image53_2.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/z__AgnicoEagle_Techreport_TechReport-221231_TechReport-LaRonde\/image59_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_2009",
+        "_response":[
+            "Canteen"
+        ],
+        "question_text":"Which feature on the infrastructure map corresponds to Existing Component 60 of the Santander project?",
+        "expected_answer":[
+            "Worker camp"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image71_3.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_CDPR_2023_Santander_Pipe_Technical_Report_Santander_Piper_NI43-101\/image241_3.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_2026",
+        "_response":[
+            "1083814"
+        ],
+        "question_text":"Which Trailbreaker claim block within the Atsutla Gold Project contains site verification sample 612358?",
+        "expected_answer":[
+            "1078867"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image130_2.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_01SEDARFilings_TrailbreakerTECHRPT05102023JA\/image144_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_3014",
+        "_response":[
+            "Bulge, TH Central & Clouds Deposit"
+        ],
+        "question_text":"Identify the WRD located between Klein Okawayo and Okawayo farms. What is the full name of this region as given by the Ultimate Pit Design with Project Infrastructure by Osino Resources. Give the name without abbreviating.",
+        "expected_answer":[
+            "Waste Rock Dump C"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image121_1.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/l__SEDAR_Osino_DFSTechReportJuly132023_OsinoDFSJuly132023\/image432_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_3016",
+        "_response":[
+            "Ganfeng Lithium Co.",
+            "Other mines and claims"
+        ],
+        "question_text":"Atacama Water divides the project area within concession blocks associated with unique numbers (e.g., 24255). The LAC old concession block containing Diamond Drilling 'PGMW17-10' shares border with which 'Third-party concessions'?",
+        "expected_answer":[
+            "Ganfeng Lithium Co."
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image161_2.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/y__PUBLIC_Lithium-Americas-Corp_2023_technical-reports_Pastos-Grandes-Project_TR-pastos-grandes-update\/image75_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_3020",
+        "_response":[
+            "20018",
+            "23289",
+            "23290",
+            "23291"
+        ],
+        "question_text":"Which Mining Concessions does the 'Former Property Boundary' of Salar de Tolillar Basin represent? Give just the numbers associated with the Mining Concession.",
+        "expected_answer":[
+            "17946",
+            "17947",
+            "17948"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image88_2.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_filings_Alpha_TechReport_July13\/image68_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_3024",
+        "_response":[
+            "Colomac Gold Project",
+            "8"
+        ],
+        "question_text":"Identify the area of Nighthawk Gold Property located North of the 'Winter Road'. How many Gold Deposits are located within this area?",
+        "expected_answer":[
+            "8"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image75_3.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_2023-06-09_NHK_NHK-NI43-101_REPORT_Jun9\/image99_3.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_3030",
+        "_response":[
+            "LUCERO DEL SUR 12",
+            "LUCERO DEL SUR 17"
+        ],
+        "question_text":"The property concession of Lucero Property is divided into multiple concession blocks with names of form Lucero Del Sur #. Which 'Granted' concession block is intersected by the boundary between the community limits of 'Choco' and 'Chachas'?",
+        "expected_answer":[
+            "Lucero Del Sur 12"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image17_2.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_Element79_43-101_LuceroNI43-101-Final\/image15_2.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_4011",
+        "_response":[
+            "LOS REYES TRES",
+            "LOS REYES FRACC. NORTE",
+            "LOS REYES FRACC. SUR",
+            "LOS REYES FRACCION 5",
+            "PROLONGACION DEL RECUERDO",
+            "PROLONGACION DEL RECUERDO DOS",
+            "LOS REYES CUATRO",
+            "ELOTA FRACCION 9",
+            "DOLORES"
+        ],
+        "question_text":"Which Los Reyes 'Claim's share border with Eden Property?",
+        "expected_answer":[
+            "Los Reyes Tres",
+            "Los Reyes Fracc Norte"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_CENTTechnicalReport\/image19_1.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/z__PUBLIC_Prime-Mining-Corp_2023_Tech-Report_PRYM-LosReyes-TR-conformed\/image13_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Border",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_5003",
+        "_response":[
+            "7",
+            "88"
+        ],
+        "question_text":"Identify the Analysis Zone that is projected to have the greatest area affected by sea level rise by 2100? How many groundwater wells are located in this zone?",
+        "expected_answer":[
+            "8"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/OneSeattlePlanDEIS\/image211_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/seattle-planning\/OneSeattlePlanDEIS\/image210_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_5007",
+        "_response":[
+            "5763-03-43-9220"
+        ],
+        "question_text":"Each Potential Site blocks of Yadkin River is associated with a number (e.g., 5763595798). Which of these blocks are located closest to the 'Existing Raw Water Pump Station (to be abandoned\/demolished)'?",
+        "expected_answer":[
+            "5763-04-91-7009"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_bric-ema-2021-br-005-0044-nc-salisburywatersupplyresilency-fea-signed_fonsi-20240715\/image30_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_bric-ema-2021-br-005-0044-nc-salisburywatersupplyresilency-fea-signed_fonsi-20240715\/image24_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_5020",
+        "_response":[
+            "Lease"
+        ],
+        "question_text":"Within the HighGold claim boundary, the area where Yvan Veronneau and Glen Shalton hold a 2% NSR corresponds exclusively to which Claim Type?",
+        "expected_answer":[
+            "Unpatented single-cell mining claim"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image21_m0.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/s__SEDAR_Onyx_43101TechnicalReport\/image30_m0.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_5026",
+        "_response":[
+            "C\ufffdte-Laporte"
+        ],
+        "question_text":"Which 'Showing' within the Galloway Property is located closest to a boundary shared with an Adjacent Property (as of March 6, 2023)?",
+        "expected_answer":[
+            "Lac Sanies Est"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/i__Soco_Sedar_2023_ST_Fokus_Technical_Report_FOKUS_techreport_NI43-101\/image53_2.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/i__Soco_Sedar_2023_ST_Fokus_Technical_Report_FOKUS_techreport_NI43-101\/image144_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_6007",
+        "_response":[
+            "S14"
+        ],
+        "question_text":"Which 'Aq. biodiversity station' is closest to the 'potential point for camera trap'? Give the S#.",
+        "expected_answer":[
+            "S12"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__Jul_14_Reunion_TR\/image181_1.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__Jul_14_Reunion_TR\/image182_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_6012",
+        "_response":[
+            "H\ufffdgberget nr 1"
+        ],
+        "question_text":"The Mining Concession area of the Bj\u00f6rkdal property consists of multiple blocks with unique names (e.g., Norrberget K nr 1). Which Mining Concession area is located closest to the \u00d6stra Str\u00f6hyden?",
+        "expected_answer":[
+            "Storheden K nr 1"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/k__filings_livework_wkout_71392_Mandalay_TechReport\/image81_1.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/k__filings_livework_wkout_71392_Mandalay_TechReport\/image40_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_6013",
+        "_response":[
+            "KL-103",
+            "KL-111",
+            "KL-101B",
+            "KL-001",
+            "KL-017",
+            "KL-002",
+            "KL-003",
+            "KL-004",
+            "KL-006",
+            "KL-008",
+            "KL-009",
+            "KL-014",
+            "KL-016",
+            "KL-013",
+            "KL-102",
+            "KL-104A",
+            "Wishart",
+            "SCIF",
+            "MIF",
+            "UIF",
+            "LIF"
+        ],
+        "question_text":"Identify the '1989 Trench' line that crosses the 'Outline of the 2012 Historic MRE block Model' at the Knob Lake property? Which '1972 Geologic Map Formation's are intersected by this line.",
+        "expected_answer":[
+            "SCIF",
+            "LIF"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_TechnicalReport (1)\/image57_3.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_TechnicalReport (1)\/image44_3.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_6029",
+        "_response":[
+            "EPzMM",
+            "E?ocx"
+        ],
+        "question_text":"The Green Mountain Property lies on multiple geology zones associated with a unique alphabetical geologic code. Which geological code does the eastern boundary of Green Mountain Property Tenure 1,075,773 intersect, as labeled on the map?",
+        "expected_answer":[
+            "EPeMK"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/i__Securities_SEDAR_ToFile_Level14_Level14_Tech_Rept_May_2023\/image25_1.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/i__Securities_SEDAR_ToFile_Level14_Level14_Tech_Rept_May_2023\/image47_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_7008",
+        "_response":[
+            "The claims with average grade data 0.020, 0.020, 0.019, 0.0163, 0.012, 0.013, 0.013, 0.011 are intersected by the 'Fault, Dike, or Bedrock Variation' feature",
+            "0.0155375"
+        ],
+        "question_text":"Identify the Hope Mining Company's claims that are intersected by 'Fault, Dike, or Bedrock Variation' line. What is the average of the Average grade data of these claims?",
+        "expected_answer":[
+            "0.185"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/y__filings_livework_wkout_71500_HopeMining_TechReport\/image78_1.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/y__filings_livework_wkout_71500_HopeMining_TechReport\/image38_1.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_7012",
+        "_response":[
+            "Gr"
+        ],
+        "question_text":"The 'Oil\/Gas\/Other Well' located within the 0.25-mile search buffer of the Corbina Rd Tract lies within which type of soils boundary? Give it by the unit code (Alphabet) shown on the map.",
+        "expected_answer":[
+            "Cr"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_dr-4559-st-louis-hs-appendix\/image237_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/fema_dr-4559-st-louis-hs-appendix\/image243_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_7020",
+        "_response":[
+            "Fox West"
+        ],
+        "question_text":"Identify the southwestern edge of the Windfall Project property. Which 'Gold Showing' within the Windfall Project boundary is located closest to this edge?",
+        "expected_answer":[
+            "Windfall SW"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_OSK_TchRpt_WindfallProjectJan2023\/image150_m1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_OSK_TchRpt_WindfallProjectJan2023\/image181_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_8013",
+        "_response":[
+            "pg"
+        ],
+        "question_text":"Within the Perry River claim, what is the dominant geology unit code assigned to the area containing the 'MO RIP' mineral occurrence?",
+        "expected_answer":[
+            "mc"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_StamperOil_2023_STMP2301170550_STMP2301170550TR\/image29_m0.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_FILINGS_StamperOil_2023_STMP2301170550_STMP2301170550TR\/image17_m0.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_8018",
+        "_response":[
+            "PEM1A"
+        ],
+        "question_text":"Identify the non-jurisdictional wetlands located outside the soil disposal area, subject site, and wood chip disposal area. Which NWI feature(s) overlap with this region?",
+        "expected_answer":[
+            "PEM1A",
+            "PEM1C",
+            "PSS1A"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image26_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/hmgp-dr-4332-hmgp-4332-0197-tx_1-a3adetention-dea-2025225\/image27_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_8025",
+        "_response":[
+            "Bombus Latreille, 1802"
+        ],
+        "question_text":"Which 'XERCES_Bumble Bee Watch' observation point is located closest to the 'Moderate' wildfire risk area at Prescott Park?",
+        "expected_answer":[
+            "Bombus vosnesenskii Radoszkowski, 1862"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/HMGP-DR-4562-24-OR-MedfordHazFuels-FEA-SignedFONSI-20250729\/image39_1.png",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/FEMA\/HMGP-DR-4562-24-OR-MedfordHazFuels-FEA-SignedFONSI-20250729\/image159_1.png"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_8026",
+        "_response":[
+            "W Horizon"
+        ],
+        "question_text":"Which deposit(s)\/exploration area(s) of Marathon PGM Property has the highest NSR Royalty?",
+        "expected_answer":[
+            "Main Zone"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_1-TR\/image80_2.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/C__SEDAR_1-TR\/image81_2.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    },
+    {
+        "question_ref":"q_9011",
+        "_response":[
+            "MARTIRIAL ORIENTAL 19, 1 AL 20"
+        ],
+        "question_text":"In which concession region is Don Diego (Au) located?",
+        "expected_answer":[
+            "MLCC Exploitation MCs"
+        ],
+        "image_urls":[
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/z__PUBLIC_Lundin-Mining-Corporation_2023_technical-reports_Caserones_Lundin-NI43-101-TR-Caserones\/image49_3.jpeg",
+            "https:\/\/media.githubusercontent.com\/media\/YOO-uN-ee\/carto-image\/main\/NI43-101\/z__PUBLIC_Lundin-Mining-Corporation_2023_technical-reports_Caserones_Lundin-NI43-101-TR-Caserones\/image37_3.jpeg"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Within",
+        "answer_type":"textual",
+        "correct":false,
+        "manual_count":2
+    }
+]

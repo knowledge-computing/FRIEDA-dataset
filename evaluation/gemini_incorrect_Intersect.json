@@ -1,0 +1,305 @@
+[
+    {
+        "question_ref":"q_0008",
+        "_response":[
+            "S ALBRO PL",
+            "S HARDY ST"
+        ],
+        "expected_answer":[
+            "13TH AVE S",
+            "S ALBRO PL"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0028",
+        "_response":[
+            "2"
+        ],
+        "expected_answer":[
+            "5"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0070",
+        "_response":[
+            "4"
+        ],
+        "expected_answer":[
+            "2"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0080",
+        "_response":[
+            "4"
+        ],
+        "expected_answer":[
+            "2"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0088",
+        "_response":[
+            "2"
+        ],
+        "expected_answer":[
+            "3"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0095",
+        "_response":[
+            "2.00"
+        ],
+        "expected_answer":[
+            "1.8"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0098",
+        "_response":[
+            "Mosque"
+        ],
+        "expected_answer":[
+            "Primary School"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0099",
+        "_response":[
+            "Germany"
+        ],
+        "expected_answer":[
+            "CHINA"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_0150",
+        "_response":[
+            "Floodwall"
+        ],
+        "expected_answer":[
+            "North Shore Levee (West)"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_1020",
+        "_response":[
+            "CUSPATE FORELAND",
+            "LAGOON",
+            "BARRIER ISLAND",
+            "ATLANTIC OCEAN"
+        ],
+        "expected_answer":[
+            "LAGOON",
+            "BARRIER ISLAND",
+            "ATLANTIC OCEAN"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_1024",
+        "_response":[
+            "Floodplain Restoration"
+        ],
+        "expected_answer":[
+            "State Parks Barn Complex"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_1086",
+        "_response":[
+            "Gardena Avenue",
+            "Hogaboom Road"
+        ],
+        "expected_answer":[
+            "Hogaboom Road"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_1091",
+        "_response":[
+            "A1"
+        ],
+        "expected_answer":[
+            "4.13"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_1102",
+        "_response":[
+            "New Paving\/Parking",
+            "New Hangar",
+            "New Rail System"
+        ],
+        "expected_answer":[
+            "New Rail System"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_1118",
+        "_response":[
+            "10"
+        ],
+        "expected_answer":[
+            "8"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_2004",
+        "_response":[
+            "6"
+        ],
+        "expected_answer":[
+            "5"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_2024",
+        "_response":[
+            "4"
+        ],
+        "expected_answer":[
+            "6"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_3001",
+        "_response":[
+            "Vale de Noudar",
+            "Serra Colorada"
+        ],
+        "expected_answer":[
+            "Vale de Noudar"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_4015",
+        "_response":[
+            "8"
+        ],
+        "expected_answer":[
+            "12"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_4018",
+        "_response":[
+            "1082064"
+        ],
+        "expected_answer":[
+            "1082066"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_5023",
+        "_response":[
+            "3"
+        ],
+        "expected_answer":[
+            "5"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_6018",
+        "_response":[
+            "Wind deposit"
+        ],
+        "expected_answer":[
+            "Deep Min deposit"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_6027",
+        "_response":[
+            "Bob"
+        ],
+        "expected_answer":[
+            "Roberto Verde"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_7019",
+        "_response":[
+            "Dormex-dyke"
+        ],
+        "expected_answer":[
+            "G\u00e9ant Dormant-SO"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_7023",
+        "_response":[
+            "4,230"
+        ],
+        "expected_answer":[
+            "9214 g\/t"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Intersect"
+    },
+    {
+        "question_ref":"q_9002",
+        "_response":[
+            "SR-34",
+            "SR-33",
+            "SR-32",
+            "SR-37",
+            "SR-36",
+            "SR-35"
+        ],
+        "expected_answer":[
+            "MCT 4",
+            "MCT 6"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Intersect"
+    }
+]

@@ -1,0 +1,215 @@
+[
+    {
+        "question_ref":"q_0084",
+        "_response":[
+            "4"
+        ],
+        "expected_answer":[
+            "1"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_0155",
+        "_response":[
+            "Category 1",
+            "Category 3",
+            "Category 4"
+        ],
+        "expected_answer":[
+            "Category 4"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_0159",
+        "_response":[
+            "Combined mainlines"
+        ],
+        "expected_answer":[
+            "Sanitary mainlines"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_0162",
+        "_response":[
+            "1st Segment of Construction"
+        ],
+        "expected_answer":[
+            "4th Segment of Construction"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_0163",
+        "_response":[
+            "Permanent Impact Area",
+            "Delineated Wetlands"
+        ],
+        "expected_answer":[
+            "Permanent Impact Area"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_0175",
+        "_response":[
+            "Sustainable Uplands Agri-environment Scheme (SUAS)"
+        ],
+        "expected_answer":[
+            "Small Biogas Demonstration Programme"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1003",
+        "_response":[
+            "1"
+        ],
+        "expected_answer":[
+            "19"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1008",
+        "_response":[
+            "Landscaped Sport \/ Parking Area"
+        ],
+        "expected_answer":[
+            "Open space Network"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1010",
+        "_response":[
+            "LeaA"
+        ],
+        "expected_answer":[
+            "URLX"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1021",
+        "_response":[
+            "0"
+        ],
+        "expected_answer":[
+            "1"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1028",
+        "_response":[
+            "AREA 7"
+        ],
+        "expected_answer":[
+            "AREA 3"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1057",
+        "_response":[
+            "1\/500 - 1\/200"
+        ],
+        "expected_answer":[
+            "< 1\/1000"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1089",
+        "_response":[
+            "High"
+        ],
+        "expected_answer":[
+            "Moderate"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_1139",
+        "_response":[
+            "LIGHT RAIL AT GRADE"
+        ],
+        "expected_answer":[
+            "Track Alignment, Below Grade"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_6008",
+        "_response":[
+            "volcaniclastics and tuffs",
+            "volcanics"
+        ],
+        "expected_answer":[
+            "Aluvial Deposits"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_6024",
+        "_response":[
+            "1.5"
+        ],
+        "expected_answer":[
+            "2"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_8009",
+        "_response":[
+            "Canadian National Railway"
+        ],
+        "expected_answer":[
+            "CSX Transportation Soo Line"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_9001",
+        "_response":[
+            "MARTHA"
+        ],
+        "expected_answer":[
+            "Los Reyes Seis"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    },
+    {
+        "question_ref":"q_9024",
+        "_response":[
+            "Lease"
+        ],
+        "expected_answer":[
+            "Patent"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Equal"
+    }
+]

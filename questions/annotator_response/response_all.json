@@ -22,7 +22,7 @@
     {
         "question_ref":"q_0003",
         "question_text":"In the neighborhood node crossed by S Jackson Street and located near Washington Middle School, there are two Current Transit stops. Which 'Central Greenway Phase 3' is located closer to these two stops?",
-        "expected_answer":"Central Greenway Phase 3: Alternative 2",
+        "expected_answer":"Central Greenway Phase 3: Alternative 1",
         "annotator_response":[
             "Central Greenway Phase 3: Alternative 1",
             "Central Greenway Phase 3: Alternative 1",
@@ -1284,7 +1284,7 @@
         "question_text":"The 'Perimeter Line ~ 16.984'' in Lake Lery Phase III corresponds to which line bordering the Marsh Creation Area (MCA) as indicated in the legend?",
         "expected_answer":"EARTHEN CONTAINMENT DIKE BORROW AREA (ECD-BA)",
         "annotator_response":[
-            "ECD",
+            "ECD-BA",
             "EARTHEN CONTAINMENT DIKE BORROW AREA (ECD-BA)",
             "PIPELINE CROSSING PLUG SEE DETAIL ON SHEET 8"
         ]
@@ -1524,7 +1524,7 @@
         "question_text":"What is the name of the creek that intersects the 'APE' area but is disjoint from the 'Proposed Basin' area? Provide the answer without including the word 'Creek'.",
         "expected_answer":"Cypress",
         "annotator_response":[
-            "Cypress",
+            "Cupress",
             "Cypress",
             "Cypress"
         ]
@@ -3284,7 +3284,7 @@
         "question_text":"Which mining tile(s) of Agnico Eagle LaRonde Property shares border with the mining tile consisting LZ5 Portal?",
         "expected_answer":"2579161; 2579162; 2579163; 2579164; BM-698",
         "annotator_response":[
-            "2579161; 2579162; 2578163; 2579164; BM-698",
+            "2579161; 2579162; 2579163; 2579164; BM-698",
             "2579161; 2579162; 2579163; 2579164; BM-698",
             "ELCOCO"
         ]
@@ -4115,7 +4115,7 @@
         "expected_answer":"North West",
         "annotator_response":[
             "None",
-            "North East",
+            "North West",
             "North"
         ]
     },
@@ -4324,9 +4324,9 @@
         "question_text":"Which 'Logan REE Claims' share a border with the 'Restrictions - Staking Prohibited' area? List the Claim IDs.",
         "expected_answer":"2607225; 2607230; 2607229; 2607226; 2607227; 2607228",
         "annotator_response":[
-            "2607725; 2607229; 2607230; 2607226; 2607227; 2607228",
-            "2607725; 2607229; 2607230; 2607226; 2607227; 2607228",
-            "2607725; 2607729; 2607230; 2607226; 2607227; 2607228"
+            "2607225; 2607230; 2607229; 2607226; 2607227; 2607228",
+            "2607225; 2607229; 2607230; 2607226; 2607227; 2607228",
+            "2607225; 2607230; 2607229; 2607226; 2607227; 2607228"
         ]
     },
     {
@@ -4732,7 +4732,7 @@
     {
         "question_ref":"q_6027",
         "question_text":"In the map image by Oroco, which 'Concessions' does the 'Property access' line have the second longest crossing distance?",
-        "expected_answer":"Roberto Verde 149672",
+        "expected_answer":"Roberto Verde",
         "annotator_response":[
             "Roberto Verde",
             "Roberto Verde",

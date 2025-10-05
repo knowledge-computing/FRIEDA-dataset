@@ -1,0 +1,2250 @@
+[
+    {
+        "question_ref":"q_0001",
+        "annotator_response":"E PIKE ST; E SPRING ST; 23RD AVE; 24TH AVE"
+    },
+    {
+        "question_ref":"q_0002",
+        "annotator_response":"Rezone Area 6"
+    },
+    {
+        "question_ref":"q_0003",
+        "annotator_response":"Central Greenway Phase 3: Alternative 1"
+    },
+    {
+        "question_ref":"q_0004",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_0005",
+        "annotator_response":"Lowrise 1; Lowrise 3"
+    },
+    {
+        "question_ref":"q_0006",
+        "annotator_response":"LR1"
+    },
+    {
+        "question_ref":"q_0007",
+        "annotator_response":"7"
+    },
+    {
+        "question_ref":"q_0008",
+        "annotator_response":"13TH AVE S; S ALBRO PL"
+    },
+    {
+        "question_ref":"q_0009",
+        "annotator_response":"Major Institution And Public Facilities\/Utilities; Single Family"
+    },
+    {
+        "question_ref":"q_0010",
+        "annotator_response":"Community Center"
+    },
+    {
+        "question_ref":"q_0011",
+        "annotator_response":"Other; Wholesale Customer"
+    },
+    {
+        "question_ref":"q_0012",
+        "annotator_response":"Bitter Lake Village"
+    },
+    {
+        "question_ref":"q_0013",
+        "annotator_response":"Georgetown"
+    },
+    {
+        "question_ref":"q_0014",
+        "annotator_response":"7"
+    },
+    {
+        "question_ref":"q_0015",
+        "annotator_response":"17"
+    },
+    {
+        "question_ref":"q_0016",
+        "annotator_response":"Lowest; Second Lowest; Middle"
+    },
+    {
+        "question_ref":"q_0017",
+        "annotator_response":"South Park #2"
+    },
+    {
+        "question_ref":"q_0018",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_0019",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_0020",
+        "annotator_response":"SoDo Stadium"
+    },
+    {
+        "question_ref":"q_0021",
+        "annotator_response":"West Duwamish Greenbelt"
+    },
+    {
+        "question_ref":"q_0022",
+        "annotator_response":"Maritime, Manufacturing & Logistics"
+    },
+    {
+        "question_ref":"q_0023",
+        "annotator_response":"Kirkland"
+    },
+    {
+        "question_ref":"q_0024",
+        "annotator_response":"8"
+    },
+    {
+        "question_ref":"q_0025",
+        "annotator_response":"D"
+    },
+    {
+        "question_ref":"q_0026",
+        "annotator_response":"Washington Ship Canal"
+    },
+    {
+        "question_ref":"q_0027",
+        "annotator_response":"4"
+    },
+    {
+        "question_ref":"q_0028",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_0029",
+        "annotator_response":"Battalion 7"
+    },
+    {
+        "question_ref":"q_0030",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_0031",
+        "annotator_response":"Robert Eagle Staff; Eckstein"
+    },
+    {
+        "question_ref":"q_0032",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_0033",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_0070",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_0071",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_0072",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_0073",
+        "annotator_response":"Grand Ball Room"
+    },
+    {
+        "question_ref":"q_0074",
+        "annotator_response":"Blackwater [Munster]"
+    },
+    {
+        "question_ref":"q_0075",
+        "annotator_response":"IAS, Waste; Animal waste"
+    },
+    {
+        "question_ref":"q_0076",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_0077",
+        "annotator_response":"0-2000"
+    },
+    {
+        "question_ref":"q_0078",
+        "annotator_response":"Drehid Waste Management Facility"
+    },
+    {
+        "question_ref":"q_0079",
+        "annotator_response":"Dundalk"
+    },
+    {
+        "question_ref":"q_0080",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_0081",
+        "annotator_response":"7.41; 10.49"
+    },
+    {
+        "question_ref":"q_0082",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_0083",
+        "annotator_response":"Vegetation"
+    },
+    {
+        "question_ref":"q_0084",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_0085",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_0086",
+        "annotator_response":"Extension Damnak Ampil; Svay Donkaev"
+    },
+    {
+        "question_ref":"q_0087",
+        "annotator_response":"12"
+    },
+    {
+        "question_ref":"q_0088",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_0089",
+        "annotator_response":"President Shopping Centre\/Hotel"
+    },
+    {
+        "question_ref":"q_0090",
+        "annotator_response":"Jamae Mosque; Sri Mariamman Temple"
+    },
+    {
+        "question_ref":"q_0091",
+        "annotator_response":"Riparian Woodland"
+    },
+    {
+        "question_ref":"q_0092",
+        "annotator_response":"Not Flood Prone"
+    },
+    {
+        "question_ref":"q_0093",
+        "annotator_response":"Main Head"
+    },
+    {
+        "question_ref":"q_0094",
+        "annotator_response":"3\/6"
+    },
+    {
+        "question_ref":"q_0095",
+        "annotator_response":"1.8"
+    },
+    {
+        "question_ref":"q_0096",
+        "annotator_response":"Sand banks"
+    },
+    {
+        "question_ref":"q_0097",
+        "annotator_response":"South East; South West"
+    },
+    {
+        "question_ref":"q_0098",
+        "annotator_response":"Primary School"
+    },
+    {
+        "question_ref":"q_0099",
+        "annotator_response":"CHINA"
+    },
+    {
+        "question_ref":"q_0100",
+        "annotator_response":"Bengal Florican"
+    },
+    {
+        "question_ref":"q_0101",
+        "annotator_response":"Food & Drink Sector"
+    },
+    {
+        "question_ref":"q_0102",
+        "annotator_response":"Virar Flyover"
+    },
+    {
+        "question_ref":"q_0103",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_0104",
+        "annotator_response":"Broadmeadow"
+    },
+    {
+        "question_ref":"q_0105",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_0106",
+        "annotator_response":"38m"
+    },
+    {
+        "question_ref":"q_0107",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_0108",
+        "annotator_response":"Russei Krang"
+    },
+    {
+        "question_ref":"q_0109",
+        "annotator_response":"ASR9"
+    },
+    {
+        "question_ref":"q_0110",
+        "annotator_response":"14"
+    },
+    {
+        "question_ref":"q_0111",
+        "annotator_response":"Peat; Jamuna, Karatoya-Bengali and Lakhya floodplain"
+    },
+    {
+        "question_ref":"q_0112",
+        "annotator_response":"Zayed Sports City; Sheikh Khalifa Park"
+    },
+    {
+        "question_ref":"q_0113",
+        "annotator_response":"Fine, Ruptic Ultic Dystrochrepts"
+    },
+    {
+        "question_ref":"q_0114",
+        "annotator_response":"16"
+    },
+    {
+        "question_ref":"q_0115",
+        "annotator_response":"West"
+    },
+    {
+        "question_ref":"q_0116",
+        "annotator_response":"4"
+    },
+    {
+        "question_ref":"q_0117",
+        "annotator_response":"50m"
+    },
+    {
+        "question_ref":"q_0118",
+        "annotator_response":"Mussels; Oysters"
+    },
+    {
+        "question_ref":"q_0119",
+        "annotator_response":"19; 21; 22"
+    },
+    {
+        "question_ref":"q_0120",
+        "annotator_response":"N04"
+    },
+    {
+        "question_ref":"q_0121",
+        "annotator_response":"Dambana; Rathugala Henebedda"
+    },
+    {
+        "question_ref":"q_0122",
+        "annotator_response":"Ornamental Garden; Hedge Exotic; Mixed Woodland"
+    },
+    {
+        "question_ref":"q_0123",
+        "annotator_response":"Galway"
+    },
+    {
+        "question_ref":"q_0124",
+        "annotator_response":"Nitrogen Measures"
+    },
+    {
+        "question_ref":"q_0125",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_0126",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_0127",
+        "annotator_response":"GT_2650011"
+    },
+    {
+        "question_ref":"q_0128",
+        "annotator_response":"Fingal County Council"
+    },
+    {
+        "question_ref":"q_0129",
+        "annotator_response":"East"
+    },
+    {
+        "question_ref":"q_0130",
+        "annotator_response":"Gleys"
+    },
+    {
+        "question_ref":"q_0131",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_0132",
+        "annotator_response":"26; 06"
+    },
+    {
+        "question_ref":"q_0133",
+        "annotator_response":"Siamese Tiger Perch"
+    },
+    {
+        "question_ref":"q_0134",
+        "annotator_response":"NO; FR"
+    },
+    {
+        "question_ref":"q_0135",
+        "annotator_response":"Pack 05; Pack 07; Pack 08; Pack 09"
+    },
+    {
+        "question_ref":"q_0136",
+        "annotator_response":"6; 14; 17"
+    },
+    {
+        "question_ref":"q_0137",
+        "annotator_response":"GREEN MUBAZZARAH"
+    },
+    {
+        "question_ref":"q_0138",
+        "annotator_response":"Kalwa Rail Yard"
+    },
+    {
+        "question_ref":"q_0139",
+        "annotator_response":"Maritime, Manufacturing & Logistics"
+    },
+    {
+        "question_ref":"q_0140",
+        "annotator_response":"Borrow; Project"
+    },
+    {
+        "question_ref":"q_0141",
+        "annotator_response":"100-Year Floodplain; 500-Year Floodplain"
+    },
+    {
+        "question_ref":"q_0142",
+        "annotator_response":"More than 30,000"
+    },
+    {
+        "question_ref":"q_0143",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_0144",
+        "annotator_response":"Delineated Wetlands; Temporary Impact Area; Permanent Impact Area"
+    },
+    {
+        "question_ref":"q_0145",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_0146",
+        "annotator_response":"Dredge Area"
+    },
+    {
+        "question_ref":"q_0147",
+        "annotator_response":"West"
+    },
+    {
+        "question_ref":"q_0148",
+        "annotator_response":"Areas of Basins"
+    },
+    {
+        "question_ref":"q_0149",
+        "annotator_response":"1600 Feat"
+    },
+    {
+        "question_ref":"q_0150",
+        "annotator_response":"North Shore Levee (West)"
+    },
+    {
+        "question_ref":"q_0151",
+        "annotator_response":"18 Miles"
+    },
+    {
+        "question_ref":"q_0152",
+        "annotator_response":"18; 11"
+    },
+    {
+        "question_ref":"q_0153",
+        "annotator_response":"Regulatory Floodway; 1% Annual Chance Flood Hazard"
+    },
+    {
+        "question_ref":"q_0154",
+        "annotator_response":"East"
+    },
+    {
+        "question_ref":"q_0155",
+        "annotator_response":"Category 4"
+    },
+    {
+        "question_ref":"q_0156",
+        "annotator_response":"Re-Pavement Area"
+    },
+    {
+        "question_ref":"q_0157",
+        "annotator_response":"1600 feet"
+    },
+    {
+        "question_ref":"q_0158",
+        "annotator_response":"E40; F2"
+    },
+    {
+        "question_ref":"q_0159",
+        "annotator_response":"Sanitary mainlines"
+    },
+    {
+        "question_ref":"q_0160",
+        "annotator_response":"Delineated Wetlands"
+    },
+    {
+        "question_ref":"q_0161",
+        "annotator_response":"US69"
+    },
+    {
+        "question_ref":"q_0162",
+        "annotator_response":"4th Segment of Construction"
+    },
+    {
+        "question_ref":"q_0163",
+        "annotator_response":"Permanent Impact Area"
+    },
+    {
+        "question_ref":"q_0164",
+        "annotator_response":"Meadow Branch; Walnut Street"
+    },
+    {
+        "question_ref":"q_0165",
+        "annotator_response":"ECD"
+    },
+    {
+        "question_ref":"q_0166",
+        "annotator_response":"West"
+    },
+    {
+        "question_ref":"q_0167",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_0168",
+        "annotator_response":"A"
+    },
+    {
+        "question_ref":"q_0169",
+        "annotator_response":"Yes"
+    },
+    {
+        "question_ref":"q_0170",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_0171",
+        "annotator_response":"6000 Feet"
+    },
+    {
+        "question_ref":"q_0172",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_0173",
+        "annotator_response":"0.5"
+    },
+    {
+        "question_ref":"q_0174",
+        "annotator_response":"Zone AE - Regulatory Floodway"
+    },
+    {
+        "question_ref":"q_0175",
+        "annotator_response":"Small Biogas Demonstration Programme"
+    },
+    {
+        "question_ref":"q_0176",
+        "annotator_response":"URLX; LetA; LabA"
+    },
+    {
+        "question_ref":"q_0177",
+        "annotator_response":"Freshwater Pond"
+    },
+    {
+        "question_ref":"q_0178",
+        "annotator_response":"A"
+    },
+    {
+        "question_ref":"q_0179",
+        "annotator_response":"7"
+    },
+    {
+        "question_ref":"q_0180",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_0181",
+        "annotator_response":"Area With Reduced Flood Risk Due to Levee"
+    },
+    {
+        "question_ref":"q_0182",
+        "annotator_response":"Interbay Smith Cove"
+    },
+    {
+        "question_ref":"q_0183",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_0184",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_0185",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_0186",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_0187",
+        "annotator_response":"8; 9.12; 10.11; 4.13"
+    },
+    {
+        "question_ref":"q_0188",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_0189",
+        "annotator_response":"Cypress"
+    },
+    {
+        "question_ref":"q_0190",
+        "annotator_response":"6000 Feet"
+    },
+    {
+        "question_ref":"q_0191",
+        "annotator_response":"-4'"
+    },
+    {
+        "question_ref":"q_0192",
+        "annotator_response":"1% Annual Chance"
+    },
+    {
+        "question_ref":"q_0193",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_0194",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_0195",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_0196",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_0197",
+        "annotator_response":"Western Lake"
+    },
+    {
+        "question_ref":"q_0198",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_0199",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_0200",
+        "annotator_response":"70607"
+    },
+    {
+        "question_ref":"q_0201",
+        "annotator_response":"Regulatory Floodway"
+    },
+    {
+        "question_ref":"q_0202",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_1000",
+        "annotator_response":"B. Land, moderate to low sediment source"
+    },
+    {
+        "question_ref":"q_1001",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_1002",
+        "annotator_response":"4. Green Network Trafalagar Park + Zonnebloem Schools"
+    },
+    {
+        "question_ref":"q_1003",
+        "annotator_response":"19"
+    },
+    {
+        "question_ref":"q_1004",
+        "annotator_response":"WFD Catchments"
+    },
+    {
+        "question_ref":"q_1005",
+        "annotator_response":"Urban Motorway"
+    },
+    {
+        "question_ref":"q_1006",
+        "annotator_response":"Bloemhof Rd"
+    },
+    {
+        "question_ref":"q_1007",
+        "annotator_response":"11 Miles"
+    },
+    {
+        "question_ref":"q_1008",
+        "annotator_response":"Open space Network"
+    },
+    {
+        "question_ref":"q_1009",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1010",
+        "annotator_response":"URLX"
+    },
+    {
+        "question_ref":"q_1011",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_1012",
+        "annotator_response":"Mercer"
+    },
+    {
+        "question_ref":"q_1013",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_1014",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1015",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_1016",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_1017",
+        "annotator_response":"Yosemite; Bass Lake"
+    },
+    {
+        "question_ref":"q_1018",
+        "annotator_response":"22 MILES"
+    },
+    {
+        "question_ref":"q_1019",
+        "annotator_response":"PILOT PEAK"
+    },
+    {
+        "question_ref":"q_1020",
+        "annotator_response":"LAGOON; BARRIER ISLAND; ATLANTIC OCEAN"
+    },
+    {
+        "question_ref":"q_1021",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_1022",
+        "annotator_response":"OLDER MESOZOIC ROCKS; YOUNGER CRETACEOUS AND TERTIARY ROCKS"
+    },
+    {
+        "question_ref":"q_1023",
+        "annotator_response":"Cultural Landscape"
+    },
+    {
+        "question_ref":"q_1024",
+        "annotator_response":"State Parks Barn Complex"
+    },
+    {
+        "question_ref":"q_1025",
+        "annotator_response":"North"
+    },
+    {
+        "question_ref":"q_1026",
+        "annotator_response":"2400'"
+    },
+    {
+        "question_ref":"q_1027",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_1028",
+        "annotator_response":"AREA 3"
+    },
+    {
+        "question_ref":"q_1029",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_1030",
+        "annotator_response":"2 km"
+    },
+    {
+        "question_ref":"q_1031",
+        "annotator_response":"60 Miles"
+    },
+    {
+        "question_ref":"q_1032",
+        "annotator_response":"Team 1"
+    },
+    {
+        "question_ref":"q_1033",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1034",
+        "annotator_response":"CHACO SLOPE"
+    },
+    {
+        "question_ref":"q_1035",
+        "annotator_response":"0"
+    },
+    {
+        "question_ref":"q_1036",
+        "annotator_response":"Manufacturing \/ Industrial Center"
+    },
+    {
+        "question_ref":"q_1037",
+        "annotator_response":"Urban Center; Hub Urban Village; Residential Urban Village; Manufacturing \/ Industrial Center"
+    },
+    {
+        "question_ref":"q_1038",
+        "annotator_response":"Commercial\/Mixed-Use"
+    },
+    {
+        "question_ref":"q_1039",
+        "annotator_response":"ROSEBUD INDIAN RESERVATION"
+    },
+    {
+        "question_ref":"q_1040",
+        "annotator_response":"North"
+    },
+    {
+        "question_ref":"q_1041",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_1042",
+        "annotator_response":"CONSTITUTION STREET"
+    },
+    {
+        "question_ref":"q_1043",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1044",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_1045",
+        "annotator_response":"Shallow brown earths"
+    },
+    {
+        "question_ref":"q_1046",
+        "annotator_response":"4431; 150 bays; 3979"
+    },
+    {
+        "question_ref":"q_1047",
+        "annotator_response":"15"
+    },
+    {
+        "question_ref":"q_1048",
+        "annotator_response":"heart rock"
+    },
+    {
+        "question_ref":"q_1049",
+        "annotator_response":"NORTH - 'MOVE'"
+    },
+    {
+        "question_ref":"q_1050",
+        "annotator_response":"PORTION FOR OPEN SPACE; INSTITUTIONAL OPEN SPACE"
+    },
+    {
+        "question_ref":"q_1051",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_1052",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1053",
+        "annotator_response":"Industrial General"
+    },
+    {
+        "question_ref":"q_1054",
+        "annotator_response":"East"
+    },
+    {
+        "question_ref":"q_1055",
+        "annotator_response":"H"
+    },
+    {
+        "question_ref":"q_1056",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1057",
+        "annotator_response":"< 1\/1000"
+    },
+    {
+        "question_ref":"q_1058",
+        "annotator_response":"Prioritised Railway Line; Connector Route; IRT Trunk Route (Phase 1A)"
+    },
+    {
+        "question_ref":"q_1059",
+        "annotator_response":"6230 feet"
+    },
+    {
+        "question_ref":"q_1060",
+        "annotator_response":"Kin Klizhin Ruins; Pueblo Bonito; Sargent Ranch; Fire Rock Well"
+    },
+    {
+        "question_ref":"q_1061",
+        "annotator_response":"East"
+    },
+    {
+        "question_ref":"q_1062",
+        "annotator_response":"120 Miles"
+    },
+    {
+        "question_ref":"q_1063",
+        "annotator_response":"Valley-outwash deposit"
+    },
+    {
+        "question_ref":"q_1064",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_1065",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_1066",
+        "annotator_response":"Rezone from C1-65 to C2-65"
+    },
+    {
+        "question_ref":"q_1067",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_1068",
+        "annotator_response":"Existing Lagoon Crossing Structure"
+    },
+    {
+        "question_ref":"q_1069",
+        "annotator_response":"Artificial surfaces"
+    },
+    {
+        "question_ref":"q_1070",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_1071",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_1072",
+        "annotator_response":"575"
+    },
+    {
+        "question_ref":"q_1073",
+        "annotator_response":"TENANT STREET"
+    },
+    {
+        "question_ref":"q_1074",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_1075",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_1076",
+        "annotator_response":"Bloemhof Street"
+    },
+    {
+        "question_ref":"q_1077",
+        "annotator_response":"Golf Course River"
+    },
+    {
+        "question_ref":"q_1078",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1079",
+        "annotator_response":"Other Shoreline Areas"
+    },
+    {
+        "question_ref":"q_1080",
+        "annotator_response":"East"
+    },
+    {
+        "question_ref":"q_1081",
+        "annotator_response":"California State Parks"
+    },
+    {
+        "question_ref":"q_1082",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1083",
+        "annotator_response":"SAN JUAN CO."
+    },
+    {
+        "question_ref":"q_1084",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_1085",
+        "annotator_response":"Mornington"
+    },
+    {
+        "question_ref":"q_1086",
+        "annotator_response":"Hogaboom Road"
+    },
+    {
+        "question_ref":"q_1087",
+        "annotator_response":"Anthropogenic Noise"
+    },
+    {
+        "question_ref":"q_1088",
+        "annotator_response":"District Node"
+    },
+    {
+        "question_ref":"q_1089",
+        "annotator_response":"Moderate"
+    },
+    {
+        "question_ref":"q_1090",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_1091",
+        "annotator_response":"4.13"
+    },
+    {
+        "question_ref":"q_1092",
+        "annotator_response":"Inferno Cone; Fissure Butte"
+    },
+    {
+        "question_ref":"q_1093",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_1094",
+        "annotator_response":"8"
+    },
+    {
+        "question_ref":"q_1095",
+        "annotator_response":"60"
+    },
+    {
+        "question_ref":"q_1096",
+        "annotator_response":"ReA"
+    },
+    {
+        "question_ref":"q_1097",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_1098",
+        "annotator_response":"A; C; D"
+    },
+    {
+        "question_ref":"q_1099",
+        "annotator_response":"TA B2; TA A2"
+    },
+    {
+        "question_ref":"q_1100",
+        "annotator_response":"T-33-C; T-29-A"
+    },
+    {
+        "question_ref":"q_1101",
+        "annotator_response":"06-V-02; 06-V-03"
+    },
+    {
+        "question_ref":"q_1102",
+        "annotator_response":"New Rail System"
+    },
+    {
+        "question_ref":"q_1103",
+        "annotator_response":"South CA Cascades Zone"
+    },
+    {
+        "question_ref":"q_1104",
+        "annotator_response":"BSMHF; MNFd"
+    },
+    {
+        "question_ref":"q_1105",
+        "annotator_response":"400Miles"
+    },
+    {
+        "question_ref":"q_1106",
+        "annotator_response":"Low; Medium; High"
+    },
+    {
+        "question_ref":"q_1107",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_1108",
+        "annotator_response":"Low Income Tracts; Low-Income Counties"
+    },
+    {
+        "question_ref":"q_1109",
+        "annotator_response":"DMMU 3; DMMU 5; DMMU 6; DMMU 8"
+    },
+    {
+        "question_ref":"q_1110",
+        "annotator_response":"Jim Stutzman; William and Sylvia Mast"
+    },
+    {
+        "question_ref":"q_1111",
+        "annotator_response":"North"
+    },
+    {
+        "question_ref":"q_1112",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_1113",
+        "annotator_response":"West Indian Manatee (Florida subspecies) Proposed Critical Habitat; Southeastern Beach Mouse Potential Habitat"
+    },
+    {
+        "question_ref":"q_1114",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_1115",
+        "annotator_response":"T-3"
+    },
+    {
+        "question_ref":"q_1116",
+        "annotator_response":"Santa Ynez River"
+    },
+    {
+        "question_ref":"q_1117",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_1118",
+        "annotator_response":"8"
+    },
+    {
+        "question_ref":"q_1119",
+        "annotator_response":"T20; T22; T16"
+    },
+    {
+        "question_ref":"q_1120",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_1121",
+        "annotator_response":"CRW Reserve; CRW RCA"
+    },
+    {
+        "question_ref":"q_1122",
+        "annotator_response":"East"
+    },
+    {
+        "question_ref":"q_1123",
+        "annotator_response":"North Field National Historic Landmark; Unai Babui"
+    },
+    {
+        "question_ref":"q_1124",
+        "annotator_response":"SESPE-PIRU CONDOR AREA"
+    },
+    {
+        "question_ref":"q_1125",
+        "annotator_response":"Leucaena Forest"
+    },
+    {
+        "question_ref":"q_1126",
+        "annotator_response":"Oregon Board of Forestry; BLM; Millicoma Tree Farm"
+    },
+    {
+        "question_ref":"q_1127",
+        "annotator_response":"4"
+    },
+    {
+        "question_ref":"q_1128",
+        "annotator_response":"NSA 7; NSA 8; NSA 10; NSA 9; NSA 11; NSA 12; NSA 13; NSA 14"
+    },
+    {
+        "question_ref":"q_1129",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_1130",
+        "annotator_response":"WEST FORK MILLICOMA RIVER; DEAN CREEK - UMPQUA RIVER"
+    },
+    {
+        "question_ref":"q_1131",
+        "annotator_response":"Intermittent, One-Parameter"
+    },
+    {
+        "question_ref":"q_1132",
+        "annotator_response":"OU C; OU D"
+    },
+    {
+        "question_ref":"q_1133",
+        "annotator_response":"Deal Farm; Jacob Glotfelty Barn"
+    },
+    {
+        "question_ref":"q_1134",
+        "annotator_response":"SR 669 Weight Restrictions"
+    },
+    {
+        "question_ref":"q_1135",
+        "annotator_response":"Coral Ocean Point Resort"
+    },
+    {
+        "question_ref":"q_1136",
+        "annotator_response":"Banana Creek"
+    },
+    {
+        "question_ref":"q_1137",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_1138",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_1139",
+        "annotator_response":"Track Alignment, Below Grade"
+    },
+    {
+        "question_ref":"q_1140",
+        "annotator_response":"Access Road"
+    },
+    {
+        "question_ref":"q_1141",
+        "annotator_response":"Kinsinger Farm"
+    },
+    {
+        "question_ref":"q_1142",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_1143",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_1144",
+        "annotator_response":"10"
+    },
+    {
+        "question_ref":"q_1145",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_1146",
+        "annotator_response":"Oregon Coast Range; Western Oregon Cascades; Western Washington Lowlands"
+    },
+    {
+        "question_ref":"q_1147",
+        "annotator_response":"22-2522"
+    },
+    {
+        "question_ref":"q_1148",
+        "annotator_response":"West"
+    },
+    {
+        "question_ref":"q_1149",
+        "annotator_response":"19; 30; 23; 33"
+    },
+    {
+        "question_ref":"q_1150",
+        "annotator_response":"46MILES"
+    },
+    {
+        "question_ref":"q_1151",
+        "annotator_response":"4548 North Rampart Street"
+    },
+    {
+        "question_ref":"q_1152",
+        "annotator_response":"Bus"
+    },
+    {
+        "question_ref":"q_1153",
+        "annotator_response":"25"
+    },
+    {
+        "question_ref":"q_1154",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_1155",
+        "annotator_response":"Place of Worship"
+    },
+    {
+        "question_ref":"q_1156",
+        "annotator_response":"Put-in; Viewing Platform"
+    },
+    {
+        "question_ref":"q_1157",
+        "annotator_response":"Pina-1"
+    },
+    {
+        "question_ref":"q_1158",
+        "annotator_response":"Performance Promenade"
+    },
+    {
+        "question_ref":"q_1159",
+        "annotator_response":"30.1"
+    },
+    {
+        "question_ref":"q_1160",
+        "annotator_response":"2.5Miles"
+    },
+    {
+        "question_ref":"q_2001",
+        "annotator_response":"LEA-107822"
+    },
+    {
+        "question_ref":"q_2002",
+        "annotator_response":"2579161; 2579162; 2578163; 2579164; BM-698"
+    },
+    {
+        "question_ref":"q_2003",
+        "annotator_response":"C-SR-13"
+    },
+    {
+        "question_ref":"q_2004",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_2005",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_2006",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2007",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_2008",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2009",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2010",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2011",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2012",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2013",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2014",
+        "annotator_response":"0"
+    },
+    {
+        "question_ref":"q_2015",
+        "annotator_response":"B96-1"
+    },
+    {
+        "question_ref":"q_2016",
+        "annotator_response":"Mafic Volcanics"
+    },
+    {
+        "question_ref":"q_2017",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2018",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2019",
+        "annotator_response":"Barrick Gold Inc"
+    },
+    {
+        "question_ref":"q_2020",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_2021",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_2022",
+        "annotator_response":"11"
+    },
+    {
+        "question_ref":"q_2023",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2024",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_2025",
+        "annotator_response":"North"
+    },
+    {
+        "question_ref":"q_2026",
+        "annotator_response":"1078867"
+    },
+    {
+        "question_ref":"q_2027",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2028",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_2029",
+        "annotator_response":"4.03"
+    },
+    {
+        "question_ref":"q_2030",
+        "annotator_response":"Noche Buena"
+    },
+    {
+        "question_ref":"q_3001",
+        "annotator_response":"Vale de Noudar"
+    },
+    {
+        "question_ref":"q_3002",
+        "annotator_response":"TFS21-07"
+    },
+    {
+        "question_ref":"q_3003",
+        "annotator_response":"12"
+    },
+    {
+        "question_ref":"q_3004",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_3005",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_3006",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_3007",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_3008",
+        "annotator_response":"7km"
+    },
+    {
+        "question_ref":"q_3009",
+        "annotator_response":"CBS"
+    },
+    {
+        "question_ref":"q_3010",
+        "annotator_response":"CAMARIOCANORTE"
+    },
+    {
+        "question_ref":"q_3011",
+        "annotator_response":"21"
+    },
+    {
+        "question_ref":"q_3012",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_3013",
+        "annotator_response":"SWFLK1"
+    },
+    {
+        "question_ref":"q_3014",
+        "annotator_response":"Waste Rock Dump C"
+    },
+    {
+        "question_ref":"q_3015",
+        "annotator_response":"1500m"
+    },
+    {
+        "question_ref":"q_3016",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_3017",
+        "annotator_response":null
+    },
+    {
+        "question_ref":"q_3018",
+        "annotator_response":"10"
+    },
+    {
+        "question_ref":"q_3019",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_3020",
+        "annotator_response":"17946; 17947; 17948"
+    },
+    {
+        "question_ref":"q_3021",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_3022",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_3023",
+        "annotator_response":"5 km"
+    },
+    {
+        "question_ref":"q_3024",
+        "annotator_response":"8"
+    },
+    {
+        "question_ref":"q_3025",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_3026",
+        "annotator_response":"Purepoint Uranium"
+    },
+    {
+        "question_ref":"q_3027",
+        "annotator_response":"I-80 Gold"
+    },
+    {
+        "question_ref":"q_3028",
+        "annotator_response":"4km"
+    },
+    {
+        "question_ref":"q_3029",
+        "annotator_response":"Jack's Crack"
+    },
+    {
+        "question_ref":"q_3030",
+        "annotator_response":"Lucero Del Sur 12"
+    },
+    {
+        "question_ref":"q_4001",
+        "annotator_response":"MC00014559"
+    },
+    {
+        "question_ref":"q_4002",
+        "annotator_response":"7.5kilometres"
+    },
+    {
+        "question_ref":"q_4003",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_4004",
+        "annotator_response":"Teresita T-220210"
+    },
+    {
+        "question_ref":"q_4005",
+        "annotator_response":"867407\/2008"
+    },
+    {
+        "question_ref":"q_4006",
+        "annotator_response":"North"
+    },
+    {
+        "question_ref":"q_4007",
+        "annotator_response":"Ressources Minieres Radisson inc."
+    },
+    {
+        "question_ref":"q_4008",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_4009",
+        "annotator_response":"30"
+    },
+    {
+        "question_ref":"q_4010",
+        "annotator_response":"La Zarza"
+    },
+    {
+        "question_ref":"q_4011",
+        "annotator_response":"LOS REYES TRES;LOS REYES FRACC NORTE"
+    },
+    {
+        "question_ref":"q_4012",
+        "annotator_response":"7"
+    },
+    {
+        "question_ref":"q_4013",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_4014",
+        "annotator_response":"1km"
+    },
+    {
+        "question_ref":"q_4015",
+        "annotator_response":"12"
+    },
+    {
+        "question_ref":"q_4016",
+        "annotator_response":"0"
+    },
+    {
+        "question_ref":"q_4017",
+        "annotator_response":"Mafic to Intermediate Volcanic;Felsic Volcanic;Sediment"
+    },
+    {
+        "question_ref":"q_4018",
+        "annotator_response":"1082066"
+    },
+    {
+        "question_ref":"q_4019",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_4020",
+        "annotator_response":"DISAPPOINTMENT SYNCLINE"
+    },
+    {
+        "question_ref":"q_4021",
+        "annotator_response":"25000"
+    },
+    {
+        "question_ref":"q_4022",
+        "annotator_response":"4"
+    },
+    {
+        "question_ref":"q_4023",
+        "annotator_response":"CEMENTOS VIII"
+    },
+    {
+        "question_ref":"q_4024",
+        "annotator_response":"Gravity Survey - 2007"
+    },
+    {
+        "question_ref":"q_4025",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_4026",
+        "annotator_response":"Cronin Capital Claims (46)"
+    },
+    {
+        "question_ref":"q_4027",
+        "annotator_response":"North"
+    },
+    {
+        "question_ref":"q_4028",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_4029",
+        "annotator_response":"0.7kilometres"
+    },
+    {
+        "question_ref":"q_4030",
+        "annotator_response":"MLO-10671;MLO-10670"
+    },
+    {
+        "question_ref":"q_5001",
+        "annotator_response":"Northern Lakes and Forests"
+    },
+    {
+        "question_ref":"q_5002",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5003",
+        "annotator_response":"8"
+    },
+    {
+        "question_ref":"q_5004",
+        "annotator_response":"1"
+    },
+    {
+        "question_ref":"q_5005",
+        "annotator_response":"6"
+    },
+    {
+        "question_ref":"q_5006",
+        "annotator_response":"Sayona Quebec Inc"
+    },
+    {
+        "question_ref":"q_5007",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5008",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5009",
+        "annotator_response":"1500m"
+    },
+    {
+        "question_ref":"q_5010",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_5011",
+        "annotator_response":"112.07"
+    },
+    {
+        "question_ref":"q_5012",
+        "annotator_response":"Guadalupe de los Reyes"
+    },
+    {
+        "question_ref":"q_5013",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5014",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5015",
+        "annotator_response":"Huascar"
+    },
+    {
+        "question_ref":"q_5016",
+        "annotator_response":"2607725; 2607229; 2607230; 2607226; 2607227; 2607228"
+    },
+    {
+        "question_ref":"q_5017",
+        "annotator_response":"Lac Erasme"
+    },
+    {
+        "question_ref":"q_5018",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5019",
+        "annotator_response":"Porvenir Dos"
+    },
+    {
+        "question_ref":"q_5020",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5021",
+        "annotator_response":"GREAT DIVIDE BASIN"
+    },
+    {
+        "question_ref":"q_5022",
+        "annotator_response":"BERENGUELA 04-09"
+    },
+    {
+        "question_ref":"q_5023",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_5024",
+        "annotator_response":"C1-75; C1-55; LR3"
+    },
+    {
+        "question_ref":"q_5025",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5026",
+        "annotator_response":"Lac Saines Est"
+    },
+    {
+        "question_ref":"q_5027",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5028",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_5029",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_5030",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_6001",
+        "annotator_response":"S-110271"
+    },
+    {
+        "question_ref":"q_6002",
+        "annotator_response":"0.2 miles"
+    },
+    {
+        "question_ref":"q_6003",
+        "annotator_response":"81-274"
+    },
+    {
+        "question_ref":"q_6004",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_6005",
+        "annotator_response":"OSP22-08; OSP22-09"
+    },
+    {
+        "question_ref":"q_6006",
+        "annotator_response":"5"
+    },
+    {
+        "question_ref":"q_6007",
+        "annotator_response":"S5"
+    },
+    {
+        "question_ref":"q_6008",
+        "annotator_response":"Aluvial Deposits"
+    },
+    {
+        "question_ref":"q_6009",
+        "annotator_response":"LAGUNILLAS 08-04"
+    },
+    {
+        "question_ref":"q_6010",
+        "annotator_response":"Marathon Series"
+    },
+    {
+        "question_ref":"q_6011",
+        "annotator_response":"MCA Cell 1"
+    },
+    {
+        "question_ref":"q_6012",
+        "annotator_response":"Storheden K nr 1"
+    },
+    {
+        "question_ref":"q_6013",
+        "annotator_response":"SCIF"
+    },
+    {
+        "question_ref":"q_6014",
+        "annotator_response":"Grid H"
+    },
+    {
+        "question_ref":"q_6015",
+        "annotator_response":"South East"
+    },
+    {
+        "question_ref":"q_6016",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_6017",
+        "annotator_response":"Not sure if the geologic code means 14, 15, 10"
+    },
+    {
+        "question_ref":"q_6018",
+        "annotator_response":"Deep Min Deposit"
+    },
+    {
+        "question_ref":"q_6019",
+        "annotator_response":"150 meter"
+    },
+    {
+        "question_ref":"q_6020",
+        "annotator_response":"Troilus Gold Corp."
+    },
+    {
+        "question_ref":"q_6021",
+        "annotator_response":"All blocks except 1042472"
+    },
+    {
+        "question_ref":"q_6022",
+        "annotator_response":"Developed Area"
+    },
+    {
+        "question_ref":"q_6023",
+        "annotator_response":"4.5km"
+    },
+    {
+        "question_ref":"q_6024",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_6025",
+        "annotator_response":"76"
+    },
+    {
+        "question_ref":"q_6026",
+        "annotator_response":"0.25km"
+    },
+    {
+        "question_ref":"q_6027",
+        "annotator_response":"Roberto Verde"
+    },
+    {
+        "question_ref":"q_6028",
+        "annotator_response":"8 miles"
+    },
+    {
+        "question_ref":"q_6029",
+        "annotator_response":"Cannot find geological code"
+    },
+    {
+        "question_ref":"q_6030",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_7001",
+        "annotator_response":"2454254"
+    },
+    {
+        "question_ref":"q_7002",
+        "annotator_response":"La Ramada Shaft"
+    },
+    {
+        "question_ref":"q_7003",
+        "annotator_response":"1600 feet"
+    },
+    {
+        "question_ref":"q_7004",
+        "annotator_response":"750 meters"
+    },
+    {
+        "question_ref":"q_7005",
+        "annotator_response":"Nucleo Agrario SAN ANTONIO DEL CERRO"
+    },
+    {
+        "question_ref":"q_7006",
+        "annotator_response":"West"
+    },
+    {
+        "question_ref":"q_7007",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_7008",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_7009",
+        "annotator_response":"466150; 466340; 466151"
+    },
+    {
+        "question_ref":"q_7010",
+        "annotator_response":"Paradise"
+    },
+    {
+        "question_ref":"q_7011",
+        "annotator_response":"3"
+    },
+    {
+        "question_ref":"q_7012",
+        "annotator_response":"Cr"
+    },
+    {
+        "question_ref":"q_7013",
+        "annotator_response":"70km"
+    },
+    {
+        "question_ref":"q_7014",
+        "annotator_response":"Tramposa"
+    },
+    {
+        "question_ref":"q_7015",
+        "annotator_response":"1099378"
+    },
+    {
+        "question_ref":"q_7016",
+        "annotator_response":"CANNING PROSPECT"
+    },
+    {
+        "question_ref":"q_7017",
+        "annotator_response":"EOlv"
+    },
+    {
+        "question_ref":"q_7018",
+        "annotator_response":"CbA"
+    },
+    {
+        "question_ref":"q_7019",
+        "annotator_response":"Geant Dormant-SO"
+    },
+    {
+        "question_ref":"q_7020",
+        "annotator_response":"Windfall SW"
+    },
+    {
+        "question_ref":"q_7021",
+        "annotator_response":"Bonterra Resources"
+    },
+    {
+        "question_ref":"q_7022",
+        "annotator_response":"Ouro Fino"
+    },
+    {
+        "question_ref":"q_7023",
+        "annotator_response":"9214"
+    },
+    {
+        "question_ref":"q_7024",
+        "annotator_response":"1078231 NEWMONTEA ST4; 1078228 NEWMONTEA ST1; 1078227 NEWMONTEA ST"
+    },
+    {
+        "question_ref":"q_7025",
+        "annotator_response":"Exploration Agreement Rural Community Santa Cruz de Andamarca"
+    },
+    {
+        "question_ref":"q_7026",
+        "annotator_response":"ShA; CdA"
+    },
+    {
+        "question_ref":"q_7027",
+        "annotator_response":"Jms"
+    },
+    {
+        "question_ref":"q_7028",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_7029",
+        "annotator_response":"4"
+    },
+    {
+        "question_ref":"q_7030",
+        "annotator_response":"6 km"
+    },
+    {
+        "question_ref":"q_8001",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_8002",
+        "annotator_response":"Sumitomo"
+    },
+    {
+        "question_ref":"q_8003",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_8004",
+        "annotator_response":"MJKFgr"
+    },
+    {
+        "question_ref":"q_8005",
+        "annotator_response":"Acidic Reagent Store"
+    },
+    {
+        "question_ref":"q_8006",
+        "annotator_response":"1,069,243; 1,069,245"
+    },
+    {
+        "question_ref":"q_8007",
+        "annotator_response":"10"
+    },
+    {
+        "question_ref":"q_8008",
+        "annotator_response":"2004,IP and Magnetics"
+    },
+    {
+        "question_ref":"q_8009",
+        "annotator_response":"CSX Transportation Soo Line"
+    },
+    {
+        "question_ref":"q_8010",
+        "annotator_response":"4"
+    },
+    {
+        "question_ref":"q_8011",
+        "annotator_response":"12"
+    },
+    {
+        "question_ref":"q_8012",
+        "annotator_response":"7"
+    },
+    {
+        "question_ref":"q_8013",
+        "annotator_response":"mc"
+    },
+    {
+        "question_ref":"q_8014",
+        "annotator_response":"Town of Bowden"
+    },
+    {
+        "question_ref":"q_8015",
+        "annotator_response":"Richard M. Colgate"
+    },
+    {
+        "question_ref":"q_8016",
+        "annotator_response":"1.25 kilometers"
+    },
+    {
+        "question_ref":"q_8017",
+        "annotator_response":"1083728"
+    },
+    {
+        "question_ref":"q_8018",
+        "annotator_response":"PEM1A; PEM1C; PSS1A"
+    },
+    {
+        "question_ref":"q_8019",
+        "annotator_response":"2"
+    },
+    {
+        "question_ref":"q_8020",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_8021",
+        "annotator_response":"Jasperoide 46"
+    },
+    {
+        "question_ref":"q_8022",
+        "annotator_response":"South West"
+    },
+    {
+        "question_ref":"q_8023",
+        "annotator_response":"other private claims"
+    },
+    {
+        "question_ref":"q_8024",
+        "annotator_response":"Zone X"
+    },
+    {
+        "question_ref":"q_8025",
+        "annotator_response":"Bombus vosnesenskii Radoszkowski,1862"
+    },
+    {
+        "question_ref":"q_8026",
+        "annotator_response":"Mining leases"
+    },
+    {
+        "question_ref":"q_8027",
+        "annotator_response":"North East"
+    },
+    {
+        "question_ref":"q_8028",
+        "annotator_response":"South"
+    },
+    {
+        "question_ref":"q_8029",
+        "annotator_response":"Rainbow"
+    },
+    {
+        "question_ref":"q_8030",
+        "annotator_response":"Tartan Rd; Vann Dr; Stirling Dr"
+    },
+    {
+        "question_ref":"q_9001",
+        "annotator_response":"Los Reyes Seis"
+    },
+    {
+        "question_ref":"q_9002",
+        "annotator_response":"MCT 4; MCT 6"
+    },
+    {
+        "question_ref":"q_9002",
+        "annotator_response":"MCT 4; MCT 6"
+    },
+    {
+        "question_ref":"q_9003",
+        "annotator_response":"1088616"
+    },
+    {
+        "question_ref":"q_9004",
+        "annotator_response":"Russet"
+    },
+    {
+        "question_ref":"q_9005",
+        "annotator_response":"15km"
+    },
+    {
+        "question_ref":"q_9006",
+        "annotator_response":"Waterfall Creek"
+    },
+    {
+        "question_ref":"q_9007",
+        "annotator_response":"SEV14"
+    },
+    {
+        "question_ref":"q_9008",
+        "annotator_response":"UT31; UT32"
+    },
+    {
+        "question_ref":"q_9009",
+        "annotator_response":"200"
+    },
+    {
+        "question_ref":"q_9010",
+        "annotator_response":"Southeast"
+    },
+    {
+        "question_ref":"q_9011",
+        "annotator_response":"MLCC Exploitation MCs"
+    },
+    {
+        "question_ref":"q_9012",
+        "annotator_response":"Lower Cretaceous"
+    },
+    {
+        "question_ref":"q_9013",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_9014",
+        "annotator_response":"LA PRECIOSA HOLDINGS T218953"
+    },
+    {
+        "question_ref":"q_9015",
+        "annotator_response":"Dos Banderas"
+    },
+    {
+        "question_ref":"q_9016",
+        "annotator_response":"Z19"
+    },
+    {
+        "question_ref":"q_9017",
+        "annotator_response":"West"
+    },
+    {
+        "question_ref":"q_9018",
+        "annotator_response":"North West"
+    },
+    {
+        "question_ref":"q_9019",
+        "annotator_response":"4"
+    },
+    {
+        "question_ref":"q_9020",
+        "annotator_response":"UV"
+    },
+    {
+        "question_ref":"q_9021",
+        "annotator_response":"None"
+    },
+    {
+        "question_ref":"q_9022",
+        "annotator_response":"0.5miles"
+    },
+    {
+        "question_ref":"q_9023",
+        "annotator_response":"AMATAVA 41KS"
+    },
+    {
+        "question_ref":"q_9024",
+        "annotator_response":"Patent"
+    }
+]

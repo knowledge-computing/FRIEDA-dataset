@@ -1,0 +1,445 @@
+[
+    {
+        "question_ref":"q_0021",
+        "_response":[
+            "Beacon Hill"
+        ],
+        "expected_answer":[
+            "West Duwamish Greenbelt"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0025",
+        "_response":[
+            "D",
+            "E",
+            "D"
+        ],
+        "expected_answer":[
+            "D"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0079",
+        "_response":[
+            "Tralee"
+        ],
+        "expected_answer":[
+            "Dundalk"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0082",
+        "_response":[
+            "1"
+        ],
+        "expected_answer":[
+            "3"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0100",
+        "_response":[
+            "Greater Adjutant"
+        ],
+        "expected_answer":[
+            "Bengal Florican"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0102",
+        "_response":[
+            "AAQ2 Ambient Air Quality",
+            "GW-2 Groundwater Quality",
+            "NV-02 Noise Vibration Quality",
+            "Govt. Registry Office"
+        ],
+        "expected_answer":[
+            "Virar Flyover"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0106",
+        "_response":[
+            "15 m"
+        ],
+        "expected_answer":[
+            "40 m"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0108",
+        "_response":[
+            "Ou Ta Paong"
+        ],
+        "expected_answer":[
+            "Russei Krang"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0112",
+        "_response":[
+            "Sheikh Khalifa Park",
+            "Al Maqta Fort"
+        ],
+        "expected_answer":[
+            "Zayed Sports City",
+            "Sheikh Khalifa Park"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0118",
+        "_response":[
+            "Mussels",
+            "Oysters",
+            "Clams",
+            "Scallops"
+        ],
+        "expected_answer":[
+            "Mussels",
+            "Oysters"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0127",
+        "_response":[
+            "GT_2648010"
+        ],
+        "expected_answer":[
+            "GT_2650011"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0151",
+        "_response":[
+            "7 Miles"
+        ],
+        "expected_answer":[
+            "18Miles"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_0173",
+        "_response":[
+            "0.75 miles"
+        ],
+        "expected_answer":[
+            "0.62 Miles"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1030",
+        "_response":[
+            "1.2 Kilometers"
+        ],
+        "expected_answer":[
+            "1.9Kilometers"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1031",
+        "_response":[
+            "30 MILES"
+        ],
+        "expected_answer":[
+            "55MILES"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1047",
+        "_response":[
+            "6 miles"
+        ],
+        "expected_answer":[
+            "15miles"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1059",
+        "_response":[
+            "4,500 Feet"
+        ],
+        "expected_answer":[
+            "6500Feet"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1105",
+        "_response":[
+            "100 Miles"
+        ],
+        "expected_answer":[
+            "450 Miles"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1107",
+        "_response":[
+            "8"
+        ],
+        "expected_answer":[
+            "6"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1150",
+        "_response":[
+            "30 miles"
+        ],
+        "expected_answer":[
+            "40 Miles"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_1151",
+        "_response":[
+            "Lesseps St",
+            "4422-30 Burgundy Street"
+        ],
+        "expected_answer":[
+            "4548 North Rampart Street"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_3009",
+        "_response":[
+            "Balan SW01"
+        ],
+        "expected_answer":[
+            "CBS"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_3028",
+        "_response":[
+            "Mines Abcourt inc. 100 %",
+            "1800 m"
+        ],
+        "expected_answer":[
+            "3.3 km"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_4014",
+        "_response":[
+            "650 m"
+        ],
+        "expected_answer":[
+            "1 km"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_4021",
+        "_response":[
+            "40000"
+        ],
+        "expected_answer":[
+            "25000"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_4029",
+        "_response":[
+            "0 kilometres"
+        ],
+        "expected_answer":[
+            "0.7 km"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_5009",
+        "_response":[
+            "800 m"
+        ],
+        "expected_answer":[
+            "1500 m"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_5017",
+        "_response":[
+            "Lac Placer"
+        ],
+        "expected_answer":[
+            "Lac Erasme"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_5029",
+        "_response":[
+            "100 Kilometers"
+        ],
+        "expected_answer":[
+            "21 km"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_6002",
+        "_response":[
+            "0.025 Miles"
+        ],
+        "expected_answer":[
+            "0.18 mile"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_6005",
+        "_response":[
+            "OSP22-12"
+        ],
+        "expected_answer":[
+            "OSP22-08",
+            "OSP22-09"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_6009",
+        "_response":[
+            "BERENGUELA 04-09"
+        ],
+        "expected_answer":[
+            "Lagunillas 08-04"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_7004",
+        "_response":[
+            "300 meters"
+        ],
+        "expected_answer":[
+            "525 m"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_7013",
+        "_response":[
+            "56 Km"
+        ],
+        "expected_answer":[
+            "76 km"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_7014",
+        "_response":[
+            "Proveedora"
+        ],
+        "expected_answer":[
+            "Tramposa"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_7016",
+        "_response":[
+            "HESITATION PROSPECT"
+        ],
+        "expected_answer":[
+            "Canning Prospect"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_8012",
+        "_response":[
+            "1"
+        ],
+        "expected_answer":[
+            "7"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_8014",
+        "_response":[
+            "Wimborne"
+        ],
+        "expected_answer":[
+            "Town of Bowden"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Distance"
+    },
+    {
+        "question_ref":"q_8016",
+        "_response":[
+            "25 m"
+        ],
+        "expected_answer":[
+            "1.375 km"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Distance"
+    }
+]

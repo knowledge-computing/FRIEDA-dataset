@@ -1,0 +1,189 @@
+[
+    {
+        "question_ref":"q_0115",
+        "_response":[
+            "north"
+        ],
+        "expected_answer":[
+            "southwest",
+            "north west",
+            "northwest",
+            "south west",
+            "west"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_0125",
+        "_response":[
+            "aq 6",
+            "west"
+        ],
+        "expected_answer":[
+            "east",
+            "north",
+            "north east",
+            "northeast"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_0145",
+        "_response":[
+            "the hoover\ufffds spurge cnddb occurrence and the slender orcutt grass cnddb occurrence are in the same location."
+        ],
+        "expected_answer":[
+            "northwest",
+            "north",
+            "north west",
+            "west"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_0147",
+        "_response":[
+            "north west"
+        ],
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south west",
+            "west"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_1064",
+        "_response":[
+            "north west"
+        ],
+        "expected_answer":[
+            "east",
+            "north",
+            "north east",
+            "northeast"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_1075",
+        "_response":[
+            "north west"
+        ],
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south east",
+            "southeast",
+            "south west"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_1093",
+        "_response":[
+            "east"
+        ],
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south east",
+            "southeast",
+            "south west"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_1154",
+        "_response":[
+            "south west"
+        ],
+        "expected_answer":[
+            "southeast",
+            "east",
+            "south",
+            "south east"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_4013",
+        "_response":[
+            "south east"
+        ],
+        "expected_answer":[
+            "east",
+            "north",
+            "north east",
+            "northeast"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_5028",
+        "_response":[
+            "south east"
+        ],
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south west",
+            "west"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_7006",
+        "_response":[
+            "north"
+        ],
+        "expected_answer":[
+            "southwest",
+            "north west",
+            "northwest",
+            "south west",
+            "west"
+        ],
+        "map_count":"Multi",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_7028",
+        "_response":[
+            "south east"
+        ],
+        "expected_answer":[
+            "east",
+            "north",
+            "north east",
+            "northeast"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation"
+    },
+    {
+        "question_ref":"q_8028",
+        "_response":[
+            "north west"
+        ],
+        "expected_answer":[
+            "southwest",
+            "south",
+            "south west",
+            "west"
+        ],
+        "map_count":"Single",
+        "spatial_relationship":"Orientation"
+    }
+]
