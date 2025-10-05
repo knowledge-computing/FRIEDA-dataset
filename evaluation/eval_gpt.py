@@ -102,6 +102,21 @@ def _check_mape(expected, response, bool_t:bool=True):
             return False
         return float('inf')
 
+def _llm_ans_extract(question_text, response):
+    prompt = (
+        f"Question reference: {question_ref}\n"
+        f"Expected answer: {expected}\n"
+        f"Given response: {response}\n\n"
+        "Does the response correctly answer the question based on expected answer? "
+        "Answer strictly 'yes' or 'no'."
+    )
+    Given the question and answer, extract only the exact portion of the text that serves as the answer.
+
+Question: What is the main ingredient in hummus?
+Answer: Hummus is a popular Middle Eastern dip made primarily from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.
+
+Exact answer portion:
+
 def eval_dist(df):
     """
     Evaluate distance answers
@@ -198,6 +213,9 @@ def main(output_file, gt_file: str,
     
     # Partition and evaluate by answer type
     pl_evaled = pl.DataFrame()
+
+    # Answer extraction
+
     for df in pl_output.partition_by("answer_type"):
         ans_type = df["answer_type"][0]
         if ans_type == "distance":

@@ -299,9 +299,12 @@ if __name__ == '__main__':
     parser.add_argument('--model', '-m', default='OpenGVLab/InternVL3_5-38B-HF',
                         help='Model name/type')
 
+<<<<<<< HEAD
     parser.add_argument('--param', '-p', required=True,
                         help='Model param FOR TESTING PURPOSE ONLY')
 
+=======
+>>>>>>> ac90f72441a9edb207f65664521b243d3925f2fb
     parser.add_argument('--questions', '-q', default='/home/yaoyi/pyo00005/p2/carto-reasoning/questions/response_full_d10.json', 
                         help='Path to questions JSON file')
 
@@ -341,9 +344,15 @@ if __name__ == '__main__':
     #      batch_size=args.batch_size,
     #      img_limit=args.max_images)
 
+<<<<<<< HEAD
     main(model_name=args.param,
         question_path=args.questions,
         image_folder='/home/yaoyi/pyo00005/p2/carto-image',
+=======
+    main(model_name=args.model,
+        question_path=args.questions,
+        image_folder='https://media.githubusercontent.com/media/YOO-uN-ee/carto-image/main/',
+>>>>>>> ac90f72441a9edb207f65664521b243d3925f2fb
         bool_distractor=args.distractor,
         output_dir=args.output_dir,
         cache_dir=args.cache_dir,
