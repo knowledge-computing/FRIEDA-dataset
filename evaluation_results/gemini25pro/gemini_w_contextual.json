@@ -3452,7 +3452,7 @@
         "spatial_relationship":"Equal",
         "answer_type":"textual",
         "extracted_ans":"2000 FEET",
-        "correct":false
+        "correct":true
     },
     {
         "question_ref":"q_0080",

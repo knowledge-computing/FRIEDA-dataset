@@ -4579,7 +4579,7 @@
         "spatial_relationship":"Within",
         "answer_type":"textual",
         "extracted_ans":"2",
-        "correct":false
+        "correct":true
     },
     {
         "question_ref":"q_0197",
