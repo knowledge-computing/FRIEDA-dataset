@@ -18,7 +18,7 @@ from transformers import BitsAndBytesConfig             # To reduce memory usage
 import warnings
 warnings.filterwarnings("ignore", category=pl.MapWithoutReturnDtypeWarning)
 
-with open('./cartoreasoning/instruction.pkl', 'rb') as handle:
+with open('./instruction.pkl', 'rb') as handle:
     instructions = pickle.load(handle)
 
 # Paraemter specific to Ovis
@@ -53,7 +53,8 @@ def define_model(model_id:str,
     if use_flash:
         model = AutoModelForCausalLM.from_pretrained(
             model_id,
-            quantization_config=quantization_config, 
+            # quantization_config=quantization_config, 
+            torch_dtype=torch.bfloat16,
             attn_implementation="flash_attention_2",
             device_map="auto",
             trust_remote_code=True,
@@ -258,29 +259,29 @@ def main(model_name:str,
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Cartographical Reasoning Test')
 
-    parser.add_argument('--model', '-m', default='AIDC-AI/Ovis2.5-9B',
-                        help='Model name/type')
+    # parser.add_argument('--model', '-m', default='AIDC-AI/Ovis2.5-9B',
+    #                     help='Model name/type')
 
-    parser.add_argument('--questions', '-q', required=True, 
-                        help='Path to questions JSON file')
+    # parser.add_argument('--questions', '-q', required=True, 
+    #                     help='Path to questions JSON file')
 
-    parser.add_argument('--images', '-im', required=True, type=str,
-                        help="Directory/link to reporsitory containing images")
+    # parser.add_argument('--images', '-im', required=True, type=str,
+    #                     help="Directory/link to reporsitory containing images")
         
-    parser.add_argument('--distractor', '-d', action="store_true", 
-                        help='Use distractor images')
+    # parser.add_argument('--distractor', '-d', action="store_true", 
+    #                     help='Use distractor images')
    
-    parser.add_argument('--output_dir', '-o', default='./responses',
-                        help="Location to output files")
+    # parser.add_argument('--output_dir', '-o', default='./responses',
+    #                     help="Location to output files")
     
-    parser.add_argument('--cache_dir', '-c', default='./',
-                        help="Location to cache directory (cache for image names)")
+    # parser.add_argument('--cache_dir', '-c', default='./',
+    #                     help="Location to cache directory (cache for image names)")
     
-    parser.add_argument('--flash', action="store_true",
-                        help="Use flash attention")
+    # parser.add_argument('--flash', action="store_true",
+    #                     help="Use flash attention")
     
-    parser.add_argument('--thinking', action="store_true",
-                        help="Allow reasoning capability")
+    # parser.add_argument('--thinking', action="store_true",
+    #                     help="Allow reasoning capability")
     
     parser.add_argument('--batch_size', type=int, default=1,
                         help="Batch size. Default is 1.")
@@ -290,24 +291,24 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
     
-    main(model_name=args.model,
-         question_path=args.questions,
-         image_folder=args.images,
-         bool_distractor=args.distractor,
-         output_dir=args.output_dir,
-         cache_dir=args.cache_dir,
-         use_flash=args.flash,
-         allow_thinking=args.thinking,
-         batch_size=args.batch_size,
-         img_limit=args.max_images)
+    # main(model_name=args.model,
+    #      question_path=args.questions,
+    #      image_folder=args.images,
+    #      bool_distractor=args.distractor,
+    #      output_dir=args.output_dir,
+    #      cache_dir=args.cache_dir,
+    #      use_flash=args.flash,
+    #      allow_thinking=args.thinking,
+    #      batch_size=args.batch_size,
+    #      img_limit=args.max_images)
 
-    # main(model_name='AIDC-AI/Ovis2.5-2B',
-    #     question_path='./p2/carto-reasoning/questions/benchmark_data/response_mini.json',
-    #     image_folder='https://media.githubusercontent.com/media/YOO-uN-ee/carto-image/main/',
-    #     bool_distractor=False,
-    #     output_dir='./',
-    #     cache_dir='./',
-    #     use_flash=True,
-    #     allow_thinking=True,
-    #     batch_size=1,
-    #     img_limit=args.max_images)
+    main(model_name='AIDC-AI/Ovis2.5-2B',
+        question_path='/projects/standard/yaoyi/pyo00005/p2/carto-reasoning/cartoreasoning/responses/response_mini.json',
+        image_folder='https://media.githubusercontent.com/media/YOO-uN-ee/carto-image/main/',
+        bool_distractor=False,
+        output_dir='./',
+        cache_dir='./',
+        use_flash=True,
+        allow_thinking=True,
+        batch_size=args.batch_size,
+        img_limit=args.max_images)
